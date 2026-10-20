@@ -24,7 +24,7 @@ Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Less
 - Topic: Definition of a product
 - Source: Lesson 1 / slide 5
 
-The courseware opens with a definition of a product. Which statement matches it?
+Which statement matches the definition of a product?
 
 - A. Something sold by an enterprise to its customers
 - B. The raw materials and components an enterprise buys to produce a product
@@ -39,7 +39,7 @@ The courseware opens with a definition of a product. Which statement matches it?
 - Topic: Start and end of product development
 - Source: Lesson 1 / slide 5
 
-A manager asks where product development begins and where it ends. Which answer matches the courseware?
+A manager asks where product development begins and where it ends. Which answer is correct?
 
 - A. It begins with market research and ends when the product concept passes review
 - B. It begins with the perception of a market opportunity and ends in the production, sale and delivery of a product
@@ -54,7 +54,7 @@ A manager asks where product development begins and where it ends. Which answer 
 - Topic: Dimensions of successful product development
 - Source: Lesson 1 / slide 6 and slide 7
 
-The lesson asks the class to think about a great product and a bad product, then states that success is judged from the perspective of the investors in a for-profit enterprise. Which of the following are dimensions of successful product development listed there?
+Thinking about a great product and a bad product, success in product development is judged from the perspective of the investors in a for-profit enterprise. Which of the following are dimensions of successful product development?
 
 - A. Product quality, assessed by market share and customer willingness to pay
 - B. Development capability, which enhances future product development efficiency and effectiveness
@@ -69,7 +69,7 @@ The lesson asks the class to think about a great product and a bad product, then
 - Topic: Manufacturing function in a product development team
 - Source: Lesson 1 / slide 8
 
-A team is being staffed and someone asks what the manufacturing function is responsible for. Which answer matches the courseware?
+A team is being staffed and someone asks what the manufacturing function is responsible for. Which answer is correct?
 
 - A. Identifying customer needs and setting target prices
 - B. Defining the product's physical form, including engineering design and industrial design
@@ -99,7 +99,7 @@ Which of the following are listed as responsibilities of the marketing function 
 - Topic: Duration of product development
 - Source: Lesson 1 / slide 9
 
-At project approval a team promises the board it can be on the market within a year. Judged by the courseware on duration, how should the board read that promise?
+At project approval a team promises the board it can be on the market within a year. Judged by the usual duration of product development, how should the board read that promise?
 
 - A. It fits the usual pattern: few products are developed in less than a year, many take 3 to 5 years, and some take up to 10 years
 - B. It is impossible: every product takes 3 to 5 years
@@ -114,7 +114,7 @@ At project approval a team promises the board it can be on the market within a y
 - Topic: Development time for innovative drugs
 - Source: Lesson 1 / slide 10
 
-The courseware states that the journey from discovery to market for new innovative drugs takes 12 years on average, and up to 30 years in newer areas of medicine such as gene therapy. ( )
+The journey from discovery to market for new innovative drugs takes 12 years on average, and up to 30 years in newer areas of medicine such as gene therapy. ( )
 
 - True / False
 
@@ -126,7 +126,7 @@ The courseware states that the journey from discovery to market for new innovati
 - Topic: Trade-offs as a challenge of product development
 - Source: Lesson 1 / slide 11
 
-An aircraft maker can make the airframe lighter, but the material costs more and the tooling investment grows. Given the courseware's definition of trade-offs, how should the team handle this?
+An aircraft maker can make the airframe lighter, but the material costs more and the tooling investment grows. Given the definition of a trade-off in product development, how should the team handle this?
 
 - A. Choose the lightest option at once, because customers always value performance more
 - B. Recognize it as a trade-off between improvement and cost, and balance the conflicting goals
@@ -141,7 +141,7 @@ An aircraft maker can make the airframe lighter, but the material costs more and
 - Topic: The five challenges of product development
 - Source: Lesson 1 / slide 11
 
-Besides trade-offs, the courseware names dynamics, details, competition and economics as the other four challenges of product development. ( )
+Besides trade-offs, dynamics, details, competition and economics are the other four challenges of product development. ( )
 
 - True / False
 
@@ -153,7 +153,7 @@ Besides trade-offs, the courseware names dynamics, details, competition and econ
 - Topic: Why product development attracts people
 - Source: Lesson 1 / slide 12
 
-The courseware says product development is interesting precisely because it is challenging. Which of the following are among the four points of appeal it gives?
+Product development is interesting precisely because it is challenging. Which of the following are among the four points of appeal of product development?
 
 - A. Creation: transforming an idea into a physical product through a creative process
 - B. Team spirit: working in motivated, cooperative teams, often leading to lasting camaraderie
@@ -168,7 +168,7 @@ The courseware says product development is interesting precisely because it is c
 - Topic: Key questions about the development process
 - Source: Lesson 1 / slide 13
 
-A division head asks which questions to consider before a development process is set up. Which of the following is one of the questions the courseware lists?
+A division head asks which questions to consider before a development process is set up. Which of the following is one of the key questions?
 
 - A. How many colours the product should offer to cover more market segments
 - B. How the promotion of the product should be tied to the project cycle
@@ -183,7 +183,7 @@ A division head asks which questions to consider before a development process is
 - Topic: Reasons for a well-defined development process
 - Source: Lesson 1 / slide 14
 
-The courseware states that a well-defined development process is useful for five reasons. Which group is exactly that set?
+A well-defined development process is useful for five reasons. Which group is exactly that set?
 
 - A. Lower cost, shorter cycle, less rework, higher morale, more investment
 - B. Quality assurance, coordination, planning, management, improvement
@@ -285,7 +285,7 @@ A product manager wants to turn the customer statement "the battery must last lo
 - Topic: Output of concept generation
 - Source: Lesson 1 / slide 19
 
-When the team reports the results of concept generation, which output matches the courseware?
+When the team reports the results of concept generation, which output is correct?
 
 - A. One product concept that has already been selected and reviewed
 - B. A contract book holding the mission statement, the customer needs and the budget
@@ -300,7 +300,7 @@ When the team reports the results of concept generation, which output matches th
 - Topic: Concept selection
 - Source: Lesson 1 / slide 20
 
-Which description matches the courseware's account of concept selection?
+Which description correctly captures what concept selection involves?
 
 - A. Score the concepts for market potential and send the highest score straight to detail design
 - B. Validate the technical feasibility of every concept with models and keep all of them
@@ -360,7 +360,7 @@ The team has to report to senior management what it has committed to. Which of t
 - Topic: Economic analysis
 - Source: Lesson 1 / slide 24
 
-A project is about to start and management asks for the economic justification. What does the courseware say the team should do?
+A project is about to start and management asks for the economic justification. What should the team do?
 
 - A. Wait until the product is finalized, when the numbers are most accurate
 - B. Do the analysis once, and let the result stand for the whole development program
@@ -480,7 +480,7 @@ Three product development process flow diagrams are compared. Which of the follo
 - Topic: Choosing an organizational structure for product development
 - Source: Lesson 1 / slide 29 and slide 30
 
-The most appropriate choice of organizational structure depends on which organizational performance factors are most critical to success. Which of the following statements about the product development organizations the courseware shows are correct?
+The most appropriate choice of organizational structure depends on which organizational performance factors are most critical to success. Which of the following statements about the four product development organizations are correct?
 
 - A. Functional organizations tend to breed specialization and deep expertise in the functional areas
 - B. Project organizations tend to enable rapid and effective coordination among diverse functions
@@ -540,7 +540,7 @@ Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Less
 - Topic: Definition of opportunity
 - Source: Lesson 2 / slide 5
 
-In the context of product development, which of the following does the course give as the definition of an opportunity?
+In the context of product development, which of the following is the definition of an opportunity?
 
 - A. A new product plan that has already been validated by the market and scheduled for full product development
 - B. An idea for a new product
@@ -555,7 +555,7 @@ In the context of product development, which of the following does the course gi
 - Topic: Opportunity as a hypothesis about value
 - Source: Lesson 2 / slide 5
 
-The course says that, at the earliest stage of development, an opportunity can be thought of as what?
+At the earliest stage of development, an opportunity can be thought of as what?
 
 - A. Proof that the enterprise will be able to create value
 - B. A commitment that the enterprise will build the product that the opportunity describes
@@ -570,7 +570,7 @@ The course says that, at the earliest stage of development, an opportunity can b
 - Topic: Where opportunities come from
 - Source: Lesson 2 / slide 5
 
-Which two companies does the course use to illustrate where opportunities come from?
+Which two companies illustrate where opportunities come from?
 
 - A. Procter & Gamble and 3M
 - B. Asentio and FroliCat
@@ -585,7 +585,7 @@ Which two companies does the course use to illustrate where opportunities come f
 - Topic: Four forms of an opportunity
 - Source: Lesson 2 / slide 5
 
-Which of the following are forms that the course gives for an opportunity?
+Which of the following are forms an opportunity can take?
 
 - A. A product description in embryonic form
 - B. A newly discovered technology
@@ -702,7 +702,7 @@ Which statements about the FroliCat opportunity funnel and the "swinging ball" o
 - Topic: Lesson learnt from FroliCat
 - Source: Lesson 2 / slide 11
 
-What question does the lesson learnt from FroliCat put at the centre of the opportunity identification process?
+What question does the FroliCat case put at the centre of the opportunity identification process?
 
 - A. How large the opportunity identification effort should be
 - B. How the opportunity identification process can be managed to increase the number of excellent opportunities identified
@@ -717,7 +717,7 @@ What question does the lesson learnt from FroliCat put at the centre of the oppo
 - Topic: Generate a large number of opportunities
 - Source: Lesson 2 / slide 12
 
-The course illustrates the case for generating many opportunities with an average-height statistic. What does that illustration support?
+A simple average-height statistic illustrates the case for generating many opportunities. What does that illustration support?
 
 - A. The more opportunities you produce, the more exceptional ones you will see
 - B. The average quality of each opportunity should be raised before the number is increased
@@ -732,7 +732,7 @@ The course illustrates the case for generating many opportunities with an averag
 - Topic: Three ways to raise the probability of excellent opportunities
 - Source: Lesson 2 / slide 12 and slide 14
 
-Which three answers does the course give for increasing the probability of excellent opportunities?
+Which three answers increase the probability of excellent opportunities?
 
 - A. Generate a large number of opportunities
 - B. Seek high quality of the opportunities generated
@@ -747,7 +747,7 @@ Which three answers does the course give for increasing the probability of excel
 - Topic: Seek high quality of the opportunities generated
 - Source: Lesson 2 / slide 13
 
-What does the course mean by seeking high quality of the opportunities generated?
+What is meant by seeking high quality of the opportunities generated?
 
 - A. Producing as many opportunities as possible
 - B. Keeping the quality differences between opportunities as small as possible
@@ -834,7 +834,7 @@ Which of the following is NOT one of the seven techniques for stimulating the id
 - Topic: Why most people struggle to generate opportunities
 - Source: Lesson 2 / slide 17
 
-Most people have a hard time when asked simply to generate some promising opportunities. According to the course, what is the reason?
+Most people have a hard time when asked simply to generate some promising opportunities. What is the reason?
 
 - A. The team does not have enough technical knowledge
 - B. The problem is too abstract, too unstructured, and has too many degrees of freedom
@@ -849,7 +849,7 @@ Most people have a hard time when asked simply to generate some promising opport
 - Topic: Screening criterion for opportunities
 - Source: Lesson 2 / slide 18
 
-The FroliCat team is screening 50 raw opportunities and must decide which are worth further investigation. According to the course, what is the most effective screening criterion?
+The FroliCat team is screening 50 raw opportunities and must decide which are worth further investigation. What is the most effective screening criterion?
 
 - A. The holistic judgment by a group of individuals of whether or not the opportunity is worthy of a few days or weeks of additional investigation
 - B. Scoring each opportunity separately against several criteria such as market need, technological feasibility, and alignment with strategy
@@ -864,7 +864,7 @@ The FroliCat team is screening 50 raw opportunities and must decide which are wo
 - Topic: Applying separate screening criteria
 - Source: Lesson 2 / slide 18
 
-What does the course say happens when screening criteria such as market need, technological feasibility, and alignment with strategy are applied separately, one criterion at a time?
+What happens when screening criteria such as market need, technological feasibility, and alignment with strategy are applied separately, one criterion at a time?
 
 - A. Only one opportunity can survive, so no subset can be formed
 - B. The team members can no longer reach any consensus
@@ -921,7 +921,7 @@ The team has screened out seven promising opportunities and is about to invest f
 - Topic: Tasks worth completing in developing promising opportunities
 - Source: Lesson 2 / slide 19
 
-Which tasks does the course list as often worth completing while developing promising opportunities?
+Which tasks are often worth completing while developing promising opportunities?
 
 - A. Customer interviews
 - B. Detail design of the product
@@ -936,7 +936,7 @@ Which tasks does the course list as often worth completing while developing prom
 - Topic: Time invested in developing promising opportunities
 - Source: Lesson 2 / slide 19
 
-While developing promising opportunities, the course suggests investing a few days to a few weeks in each of several promising opportunities. ( )
+While developing promising opportunities, the suggested effort is a few days to a few weeks in each of several promising opportunities. ( )
 
 - True / False
 
@@ -963,7 +963,7 @@ Which statement about the Real-Win-Worth-it (RWW) method is correct?
 - Topic: Concept Selection applied to product opportunities
 - Source: Lesson 2 / slide 20
 
-The course states that Concept Selection, which compares alternatives against selection criteria, uses the same basic method that can be applied to select product opportunities. ( )
+Concept Selection, which compares alternatives against selection criteria, uses the same basic method that can be applied to select product opportunities. ( )
 
 - True / False
 
@@ -1020,7 +1020,7 @@ According to the Real-Win-Worth-it evaluation of the Swing Ball Cat Toy, which s
 - Topic: Reflect on the results and the process
 - Source: Lesson 2 / slide 22
 
-At the step where the team reflects on the results and the process, which of the following questions does the course put on the table for discussion?
+At the step where the team reflects on the results and the process, which of the following questions is put on the table for discussion?
 
 - A. How many raw opportunities should the team generate before screening begins?
 - B. What could be the key indicator of the success of their opportunity identification process?
@@ -1056,7 +1056,7 @@ Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Less
 - Topic: Product planning
 - Source: Lesson 3 / slide 4
 
-According to the courseware, product planning is an activity that considers both which of the following?
+Product planning is an activity that considers both which of the following?
 
 - A. The manufacturing cost of each product and its target retail price
 - B. The seniority structure of the development team and the technical difficulty of each project
@@ -1071,7 +1071,7 @@ According to the courseware, product planning is an activity that considers both
 - Topic: Product planning
 - Source: Lesson 3 / slide 4
 
-According to the courseware, product planning takes place at which point in the product development process?
+Product planning takes place at which point in the product development process?
 
 - A. Before a product development project is formally approved, before substantial resources are applied, and before the larger development team is formed
 - B. After the project has been formally approved and its budget has been released
@@ -1113,7 +1113,7 @@ Which of the following is one of the extended questions whose answers should be 
 - Topic: Four types of product development projects
 - Source: Lesson 3 / slide 7
 
-According to the courseware's classification of product development projects, which of the following statements are correct?
+In the classification of product development projects, which of the following statements are correct?
 
 - A. New product platforms, derivatives and incremental improvements may be considered adjacent to current offerings
 - B. The fourth type departs more substantially from the firm's existing products
@@ -1143,7 +1143,7 @@ What is a new product platform project?
 - Topic: Starbucks mobile app: key features and the benefits behind them
 - Source: Lesson 3 / slide 9
 
-The course describes the Starbucks mobile app introduced in 2009. Which statement about its key features and the benefits behind them is correct?
+The Starbucks mobile app was introduced in 2009. Which statement about its key features and the benefits behind them is correct?
 
 - A. The key features are Mobile Ordering, Mobile Payment and a Rewards Program, and the benefit they deliver is a consistent 5-star customer review
 - B. The key features are Mobile Ordering, Mobile Payment and membership card linking, and the benefit they deliver is reducing in-store waiting times
@@ -1188,7 +1188,7 @@ Incremental improvements such as colour changes or a larger capacity battery are
 - Topic: Fundamentally new product
 - Source: Lesson 3 / slide 12
 
-In the Dyson example in this course, what did the firm, known for its innovation in vacuum technology, apply that expertise to?
+In the Dyson example, what did the firm, known for its innovation in vacuum technology, apply that expertise to?
 
 - A. Re-tooling its existing production lines so that the current vacuum range could be made in larger batches
 - B. Extending an existing platform with a new feature for a familiar adjacent market
@@ -1215,7 +1215,7 @@ The product plan should be modified based on the latest information from develop
 - Topic: The five-step product planning process
 - Source: Lesson 3 / slide 14
 
-Which of the following are steps of the five-step product planning process set out in this course?
+Which of the following are steps of the five-step product planning process?
 
 - A. Identify opportunities
 - B. Allocate resources and plan timing
@@ -1230,7 +1230,7 @@ Which of the following are steps of the five-step product planning process set o
 - Topic: The opportunity funnel
 - Source: Lesson 3 / slide 15
 
-The courseware calls the first step of the product planning process the opportunity funnel. Why?
+The first step of the product planning process is called the opportunity funnel. Why?
 
 - A. Because it keeps only the single most promising opportunity for the next step
 - B. Because opportunities are narrowed layer by layer until one project is left
@@ -1245,7 +1245,7 @@ The courseware calls the first step of the product planning process the opportun
 - Topic: Evaluating and prioritizing projects
 - Source: Lesson 3 / slide 16
 
-A firm is choosing between two opportunities for new products in existing product categories. Which perspectives does the courseware name as useful for evaluating and prioritizing them?
+A firm is choosing between two opportunities for new products in existing product categories. Which perspectives are useful for evaluating and prioritizing them?
 
 - A. Competitive strategy, market segmentation and product platforms
 - B. Cost leadership, market share and research budget
@@ -1260,7 +1260,7 @@ A firm is choosing between two opportunities for new products in existing produc
 - Topic: Competitive strategy
 - Source: Lesson 3 / slide 17
 
-Which of the following correctly describe the competitive strategies set out in this course?
+In product development, which of the following correctly describe the competitive strategies?
 
 - A. Technology leadership: the firm emphasizes basic research and the development of new technologies, and their deployment through product development
 - B. Cost leadership: the firm competes on production efficiency through economies of scale, superior manufacturing methods, low-cost labor or better management of the production system
@@ -1290,7 +1290,7 @@ A firm maps competitors' products and its own products onto distinct market segm
 - Topic: Technology roadmap
 - Source: Lesson 3 / slide 19
 
-In the courseware, a technology roadmap is a way to represent what?
+A technology roadmap is a way to represent what?
 
 - A. The person-hours that each stage of a product development will take
 - B. The timetable of the technology patents held by competitors
@@ -1377,7 +1377,7 @@ Once timing and resource allocation have been determined for the most promising 
 - Topic: Resource allocation
 - Source: Lesson 3 / slide 23
 
-A development manager wants to keep slack for contingencies and stay responsive while still executing every project in the plan on schedule. What capacity utilization target does the courseware recommend?
+A development manager wants to keep slack for contingencies and stay responsive while still executing every project in the plan on schedule. What capacity utilization target is recommended?
 
 - A. 100 percent, using every resource to the limit
 - B. Above 100 percent, so that some slack is held in reserve
@@ -1509,7 +1509,7 @@ A firm adopts a corporate policy of environmentally responsible design even thou
 - Topic: Staffing in pre-project planning
 - Source: Lesson 3 / slide 28
 
-In the pre-project planning activity, the courseware says that key members of the development staff may "sign up" for a new project. What does that mean?
+In the pre-project planning activity, key members of the development staff may "sign up" for a new project. What does that mean?
 
 - A. Registering a separate legal entity for the project
 - B. Agreeing to commit to leading the development of the product or of a critical element of the product
@@ -1551,7 +1551,7 @@ The reflection step asks whether the assumptions listed in the mission statement
 - Topic: In-class exercise
 - Source: Lesson 3 / slide 30
 
-What does the in-class exercise in the product planning and strategy lesson ask students to do?
+What does the in-class exercise on product planning and strategy ask students to do?
 
 - A. Design a new product, draw its technology roadmap and give a project budget
 - B. Identify the corporate strategy of a company through the Internet or published corporate annual reports, learn about its product lines and newest products and how they support that strategy, and say what types of projects would be expected in its product plan
@@ -1572,7 +1572,7 @@ Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Less
 - Topic: Goals of the identification method
 - Source: Lesson 4 / slide 4
 
-The method presented in this lesson is built around the example of creating a better thermostat. According to the goals listed for that method, which of the following is one of them?
+The method for comprehensively identifying a set of customer needs is built around the example of creating a better thermostat. According to the goals listed for that method, which of the following is one of them?
 
 - A. Determine the final selling price of the product
 - B. Provide a fact base for justifying the product specifications
@@ -1587,7 +1587,7 @@ The method presented in this lesson is built around the example of creating a be
 - Topic: Goals of the identification method
 - Source: Lesson 4 / slide 4
 
-The method presented in this lesson for comprehensively identifying a set of customer needs has a stated set of goals. Which of the following are goals of that method?
+The method for comprehensively identifying a set of customer needs has a stated set of goals. Which of the following are goals of that method?
 
 - A. Ensure that the product is focused on customer needs
 - B. Identify latent or hidden needs as well as explicit needs
@@ -1719,7 +1719,7 @@ Which of the following are ways of observing the product in use when a team gath
 - Topic: Interviewee selection
 - Source: Lesson 4 / slide 11
 
-For a product where one customer, the purchaser, makes the buying decision and another customer, the user, actually uses the product, what does the lesson recommend about whom to gather data from?
+For a product where one customer, the purchaser, makes the buying decision and another customer, the user, actually uses the product, whom should the team gather data from?
 
 - A. Interview only the purchaser, because the purchaser makes the buying decision
 - B. Interview only the user, because the needs come from actual use
@@ -1779,7 +1779,7 @@ Which of the following are examples of extreme users of the thermostat?
 - Topic: Interview prompts
 - Source: Lesson 4 / slide 14
 
-The techniques presented for eliciting customer needs data are aimed primarily at interviewing end users. What does the lesson add about the reach of these techniques?
+The techniques presented for eliciting customer needs data are aimed primarily at interviewing end users. Which statement about the reach of these techniques is correct?
 
 - A. They apply to all of the three data-gathering modes and to all types of stakeholders
 - B. They can only be used in focus groups
@@ -1794,7 +1794,7 @@ The techniques presented for eliciting customer needs data are aimed primarily a
 - Topic: Interview prompts
 - Source: Lesson 4 / slide 14
 
-Which of the following is one of the helpful questions and prompts that the lesson recommends for use after the interviewers introduce themselves and explain the purpose of the interview?
+Which of the following is one of the helpful questions and prompts recommended for use after the interviewers introduce themselves and explain the purpose of the interview?
 
 - A. "If we replaced the knob with a touch panel, would that be more convenient for you?"
 - B. "What price do you think our product should be sold for?"
@@ -1809,7 +1809,7 @@ Which of the following is one of the helpful questions and prompts that the less
 - Topic: Effective interaction with customers
 - Source: Lesson 4 / slide 15
 
-Under "Effective Interaction with Customers", which of the following does the lesson recommend?
+Under "Effective Interaction with Customers", which of the following is recommended?
 
 - A. Adaptability: prioritize gathering useful information over strictly following the interview guide
 - B. Use visual aids: bring existing and competitor products to stimulate discussion and get early reactions to new concepts
@@ -1908,7 +1908,7 @@ A customer says, "I would like my iPhone to adjust my thermostat." Which needs s
 - Topic: Guidelines for writing needs statements
 - Source: Lesson 4 / slide 18 and slide 19
 
-The course gives a set of guidelines for writing needs statements, and pairs each guideline with a customer statement, a right needs statement and a wrong needs statement. Which of the following guidelines are among them?
+A set of guidelines for writing needs statements pairs each guideline with a customer statement, a right needs statement and a wrong needs statement. Which of the following guidelines are among them?
 
 - A. Express needs in terms of what the product should do, not how it should do it
 - B. Maintain the same level of detail as the raw data
@@ -1983,7 +1983,7 @@ The hierarchical list of customer needs uses a special notation to show how impo
 - Topic: Approaches to assessing needs
 - Source: Lesson 4 / slide 22
 
-Which pair of methods does the course give for assessing the relative importance of customer needs?
+Which pair of methods can be used to assess the relative importance of customer needs?
 
 - A. Customer interviews and customer focus groups
 - B. Observation and documentation of customer data
@@ -2070,7 +2070,7 @@ The human centric design approach states an objective for the design process, an
 - Topic: Class activities on human centric design
 - Source: Lesson 4 / slide 28 and slide 29
 
-The closing activities of the lesson ask students to share their own human centric design experience with peers, and, in the in-class individual exercise, to choose a product that continually annoys them, identify the needs the developers of this product missed, say why those needs were not met, and decide whether the developers deliberately ignored them. ( )
+The closing activities on human centric design ask students to share their own human centric design experience with peers, and, in the in-class individual exercise, to choose a product that continually annoys them, identify the needs the developers of this product missed, say why those needs were not met, and decide whether the developers deliberately ignored them. ( )
 
 - True / False
 
@@ -2844,7 +2844,7 @@ The expand-and-focus approach is recommended for information gathering in extern
 - Topic: External search
 - Source: Lesson 6 / slide 9
 
-During an external search the team finds that a solution is already protected by a patent. What does the course say about patent searches?
+During an external search the team finds that a solution is already protected by a patent. What can the team expect from patent searches?
 
 - A. A patent gives only a patent number and no technical information
 - B. A patent is always free, so using the patented solution costs the team nothing
@@ -2949,7 +2949,7 @@ About the concept classification tree, which of the following statements are cor
 - Topic: Exploration process
 - Source: Lesson 6 / slide 14
 
-About managing the exploration process, which of the following practices does the course describe?
+About managing the exploration process, which of the following practices are part of it?
 
 - A. Teams usually generate multiple classification trees and concept combination tables
 - B. The classification tree and the combination table are produced by an outside agency, and the team only reviews them
@@ -3027,7 +3027,7 @@ Which statement gives both the usual way a product concept is presented and what
 - Topic: External search
 - Source: Lesson 6 / slide 9
 
-A team has found that an existing product already solves most of the problem, and it also has new ideas of its own for the rest. What does the course say about combining the two?
+A team has found that an existing product already solves most of the problem, and it also has new ideas of its own for the rest. What can combining the existing solution with the new ideas achieve?
 
 - A. The existing product should always be preferred, because any new idea makes the design harder to produce
 - B. Combining conventional solutions with novel ideas can yield superior designs
@@ -3120,7 +3120,7 @@ Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Less
 - Topic: Concept selection in the product development process
 - Source: Lesson 7 / slide 5
 
-In the product development process taught in this course, where is the step "Select Product Concept(s)" placed?
+In the product development process, where is the step "Select Product Concept(s)" placed?
 
 - A. After "Generate Product Concepts" and before "Test Product Concept(s)"
 - B. After "Identify Customer Needs" and before "Establish Target Specifications"
@@ -3135,7 +3135,7 @@ In the product development process taught in this course, where is the step "Sel
 - Topic: Nature of concept selection
 - Source: Lesson 7 / slide 5
 
-Which statement about concept selection agrees with this course?
+Which statement about concept selection is correct?
 
 - A. Concept selection fixes the final alternative in one pass, and the outcome is never revised afterwards
 - B. Concept selection only picks one of the existing concepts, without any combination or improvement
@@ -3150,7 +3150,7 @@ Which statement about concept selection agrees with this course?
 - Topic: Types of opportunities
 - Source: Lesson 7 / slide 6
 
-This course divides opportunities along the dimensions of knowledge of need and knowledge of solution. Which of the following belongs to Horizon 1 Opportunities?
+Opportunities are divided along the dimensions of knowledge of need and knowledge of solution. Which of the following belongs to Horizon 1 Opportunities?
 
 - A. New-category products and service
 - B. Adjacent growth
@@ -3180,7 +3180,7 @@ In the Medical Supply Company case, what did the team do first when it came to s
 - Topic: The seven concept selection criteria
 - Source: Lesson 7 / slide 7
 
-Which of the following are among the seven criteria the course lists for selecting the syringe concept in the Medical Supply Company case?
+Which of the following are among the seven criteria used to select the syringe concept in the Medical Supply Company case?
 
 - A. Ease of handling
 - B. Dose metering accuracy
@@ -3210,22 +3210,22 @@ In the Medical Supply Company case, what did the company ask the design firm to 
 - Topic: The seven concept sketches
 - Source: Lesson 7 / slide 8
 
-Among the seven concept sketches for the syringe in the Medical Supply Company case, what is the name of the scheme for concept D?
+For the outpatient syringe in the Medical Supply Company case, the development team produced a set of concept sketches. How many concepts did they cover, and what were the sketches for?
 
-- A. Plunge Stop
-- B. Ratchet
-- C. Swash Ring
-- D. Dial Screw
+- A. Seven concepts, sketched to describe the basic concepts under consideration
+- B. Three concepts, sketched to compare the design against competing syringes
+- C. Seven concepts, sketched to test how well the syringe parts resist wear
+- D. Two concepts, sketched to settle which production process to use
 
 - Answer: A
-- Explanation: The sketches on slide 8 are labelled concept A Master Cylinder, B Rubber Brake, C Ratchet, D Plunge Stop, E Swash Ring, F Lever Set and G Dial Screw, so D is Plunge Stop. The other three options are names of other concepts in the matrix, not of concept D.
+- Explanation: Slide 8 states that there are seven concepts for the outpatient syringe and that the team generated the seven sketches to describe the basic concepts under consideration. B, C and D each change either the number of concepts or the purpose of the sketches, so none of them matches.
 
 ### L7Q08 (Single, Intermediate)
 
 - Topic: Purpose of the selection methodology
 - Source: Lesson 7 / slide 9
 
-In the concept selection methodology of this course, concept generation, concept screening, concept scoring and concept testing form a narrowing sequence. Where do screening and scoring lead the team?
+In concept selection, concept generation, concept screening, concept scoring and concept testing form a narrowing sequence. Where do screening and scoring lead the team?
 
 - A. To a larger pool of candidate concepts, so that more alternatives can be tested
 - B. To the concept with the lowest cost, which is handed straight to the purchasing department
@@ -3240,7 +3240,7 @@ In the concept selection methodology of this course, concept generation, concept
 - Topic: Concept screening and concept scoring
 - Source: Lesson 7 / slide 10
 
-This course distinguishes concept screening from concept scoring. Which statement captures the difference correctly?
+Concept screening and concept scoring serve different purposes within concept selection. Which statement captures the difference correctly?
 
 - A. Concept screening uses a scoring matrix to weed concepts out roughly, and concept scoring uses a screening matrix to pick the best one
 - B. Concept screening makes a quick evaluation with a screening matrix to narrow the viable alternatives, and concept scoring analyses the remaining concepts in detail with a scoring matrix to select the best one
@@ -3267,7 +3267,7 @@ Concept screening and concept scoring follow the same six-step process. ( )
 - Topic: The six-step process
 - Source: Lesson 7 / slide 10
 
-The concept selection activity of this course follows a six-step process. Which of the following are steps of that activity?
+The concept selection activity follows a six-step process. Which of the following are steps of that activity?
 
 - A. Prepare the selection matrix
 - B. Rank the concepts
@@ -3309,7 +3309,7 @@ When the selection matrix is prepared, the selection criteria are listed on the 
 - Topic: Objective metrics in screening
 - Source: Lesson 7 / slide 12
 
-The ratings in concept screening can be subjective. Which of the following does this course give as an example of an objective metric?
+The ratings in concept screening can be subjective. Which of the following is an example of an objective metric?
 
 - A. The preference rating users give for the appearance of the product
 - B. The design team's own score for how innovative a scheme is
@@ -3324,7 +3324,7 @@ The ratings in concept screening can be subjective. Which of the following does 
 - Topic: Coarse relative ratings
 - Source: Lesson 7 / slide 12
 
-About the coarse relative ratings used in concept screening, which of the following statements does this course support?
+About the coarse relative ratings used in concept screening, which of the following statements are correct?
 
 - A. Coarse relative ratings can be difficult to produce
 - B. The way to avoid the difficulty is to describe every concept precisely before starting the ratings
@@ -3339,7 +3339,7 @@ About the coarse relative ratings used in concept screening, which of the follow
 - Topic: Rating the concepts
 - Source: Lesson 7 / slide 12
 
-When the concepts are rated against the reference concept, this course describes two ways to work through the selection matrix. Which one is correct?
+When the concepts are rated against the reference concept, two ways of working through the selection matrix are possible. Which one is correct?
 
 - A. Rate every concept completely on the first criterion before any concept is rated on a second criterion, and drop the reference concept
 - B. Rate only the concepts that scored best in the previous screening round, to save time
@@ -3486,7 +3486,7 @@ In the concept scoring matrix for the syringe case, concept DF (Lever Stop) is r
 - Topic: Reference points for the criteria
 - Source: Lesson 7 / slide 17
 
-The courseware notes that concept A serves as the overall reference concept, while the separate reference points for each criterion are signified by bold rating values. Which conclusion follows?
+In the concept scoring matrix, concept A serves as the overall reference concept, while the separate reference points for each criterion are signified by bold rating values. Which conclusion follows?
 
 - A. The reference point of a criterion can be taken from a concept other than A
 - B. A bold value means that the concept has the highest weighted total of the four concepts
@@ -3501,7 +3501,7 @@ The courseware notes that concept A serves as the overall reference concept, whi
 - Topic: Reading the concept scoring matrix
 - Source: Lesson 7 / slide 17
 
-About the concept scoring matrix, which of the following statements agree with the courseware?
+About the concept scoring matrix, which of the following statements are correct?
 
 - A. The criterion with the highest weight decides the final ranking on its own
 - B. The method uses a weighted sum of the ratings to determine the concept ranking
@@ -3543,7 +3543,7 @@ If disagreement appears in the reflect step, it proves that the ratings in the s
 - Topic: Consensus in the reflect step
 - Source: Lesson 7 / slide 18
 
-What direct benefit does this course attribute to reaching consensus in the reflect step?
+What direct benefit does reaching consensus in the reflect step bring?
 
 - A. The weights of the criteria automatically add up to 100%
 - B. The team no longer needs to record the decision process
@@ -3573,7 +3573,7 @@ The in-class exercise asks you to use the concept selection methods on products 
 - Topic: Concept evaluation process
 - Source: Lesson 7 / slide 19
 
-This course describes how concept scoring is prepared and carried out. Which of the following practices appear in the courseware?
+Which of the following practices are used to prepare and carry out concept scoring?
 
 - A. Prepare a matrix and identify a reference concept, often using a computer spreadsheet
 - B. Refine the concepts and add detailed selection criteria, potentially using hierarchical relations
@@ -3588,7 +3588,7 @@ This course describes how concept scoring is prepared and carried out. Which of 
 - Topic: Weighting the criteria
 - Source: Lesson 7 / slide 19
 
-This course says that several different schemes can be used to weight the criteria. Which of the following is one of the schemes given there?
+Several different schemes can be used to weight the criteria. Which of the following is one of them?
 
 - A. Assign an importance value from 1 to 5 to each criterion, or allocate 100 percentage points among them
 - B. Assign an importance value from 10 to 20 to each criterion
@@ -3603,7 +3603,7 @@ This course says that several different schemes can be used to weight the criter
 - Topic: Benefits of a structured concept selection process
 - Source: Lesson 7 / slide 20
 
-This course lists the benefits of a structured concept selection process. Which of the following belong to that list?
+A structured concept selection process brings a number of benefits. Which of the following are among them?
 
 - A. A customer-focused product, through evaluation against customer-oriented criteria
 - B. A common scoring template that removes all disagreement in the team's decision
@@ -3618,7 +3618,7 @@ This course lists the benefits of a structured concept selection process. Which 
 - Topic: Concept selection as a front-end activity
 - Source: Lesson 7 / slide 5 and slide 20
 
-The courseware places concept selection among the front-end activities of the product development process because market response is critically dependent on the product concept and the product concept choice also impacts manufacturing costs. ( )
+Concept selection is one of the front-end activities of the product development process, because market response is critically dependent on the product concept and the product concept choice also impacts manufacturing costs. ( )
 
 - True / False
 
