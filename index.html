@@ -351,7 +351,7 @@ function renderQuestions(){
     h += `<div class="q" id="q-${q.id}">`;
     h += `<div class="q-head"><span class="qid">${q.id}</span><span class="tag t-${q.type==='Single'?'single':q.type==='Multiple'?'multi':'tf'}">${q.type}</span>` +
          `<span class="tag d-${q.difficulty}">${q.difficulty}</span><span class="tag">${esc(q.topic)}</span>` +
-         (state.mode==='exam'?'':`<span class="src">${esc(q.source)}</span>`)+`</div>`;
+         (state.mode==='practice'?`<span class="src">${esc(q.source)}</span>`:'')+`</div>`;
     h += `<p class="stem">${esc(q.stem)}${q.type==='Multiple'?` <span class="pick">select ${(q.answer||'').split(',').length}</span>`:''}</p>`;
     h += `<div class="opts">${q.options.map(o=>optionHtml(q,o)).join('')}</div>`;
     if(state.mode==='practice'){
