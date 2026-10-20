@@ -133,7 +133,7 @@ Slides listed in the last column carry no fact of their own (section dividers, c
 | Common dysfunctions. | 6 | L6Q06, L6Q07, L6Q31 | 3 |
 | Five steps. | 7 | L6Q08, L6Q09, L6Q10, L6Q11, L6Q21, L6Q23, L6Q35 | 7 |
 | Clarify and decompose. | 8 | L6Q12, L6Q13, L6Q14, L6Q15, L6Q35 | 5 |
-| External search. | 9 | L6Q15, L6Q16, L6Q17, L6Q20, L6Q28, L6Q30, L6Q32 | 7 |
+| External search. | 9 | L6Q15, L6Q16, L6Q17, L6Q20, L6Q30, L6Q32 | 6 |
 | Internal search. | 10 | L6Q18, L6Q19, L6Q20, L6Q25, L6Q26, L6Q28, L6Q33 | 7 |
 | Concept fragments. | 11 | L6Q21, L6Q22, L6Q34 | 3 |
 | Classification tree. | 12 | L6Q23 | 1 |

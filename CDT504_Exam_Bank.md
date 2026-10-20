@@ -470,7 +470,7 @@ The generic, the spiral and the complex system product development process each 
 - A. All three diagrams place System-Level Design third, and all three end with a gate named Project Review
 - B. The spiral diagram carries a Cycle Plan Review and a Cycle Review in place of the Preliminary Design Review and the Critical Design Review of the generic diagram
 - C. All three diagrams carry a Production Approval gate before the final phase
-- D. The complex system diagram is the only one of the three that does not end with a phase named Production Ramp-Up
+- D. The complex system diagram ends with a phase called Validation and Ramp-Up, while the generic and the spiral diagram end with Production Ramp-Up
 
 - Answer: A,B,D
 - Explanation: A is right: all three diagrams run Planning, Concept Development and then System-Level Design, and each closes with a Project Review gate. B is right: the spiral diagram uses Cycle Plan Review and Cycle Review where the generic diagram uses Preliminary Design Review and Critical Design Review. D is right: the complex system diagram ends with Validation and Ramp-Up, while the other two end with Production Ramp-Up. C is wrong: the spiral diagram has no Production Approval gate.
@@ -1484,10 +1484,10 @@ The mission statement for the SharkNinja cordless powered lift-away vacuum proje
 - A. The next-generation nozzle planned for the Future Cordless project
 - B. Carpet and hard-floor cleaning with a single DuoClean head
 - C. A powered lift-away form factor for convenient floor and detail cleaning
-- D. A DuoClean 2.5 narrow width cleaning head
+- D. A 0.2 litre dust cup, the size planned for the Stick Japan project
 
 - Answer: B
-- Explanation: Slide 26 writes "carpet and hard-floor cleaning with a single DuoClean head" under the assumptions and constraints that guide the development effort, so B belongs there. A and D are entries from the technology roadmap on slide 19, one for the Future Cordless project and one for Stick Japan, and C is written under the benefit proposition.
+- Explanation: Slide 26 writes "carpet and hard-floor cleaning with a single DuoClean head" under the assumptions and constraints that guide the development effort, so B belongs there. A and D are entries from the technology roadmap on slide 19, for the Future Cordless project and for the Stick Japan project, and C is written under the benefit proposition.
 
 ### L3Q31 (Single, Intermediate)
 
@@ -2399,10 +2399,10 @@ For each metric the team works on, it records two target values, and the two car
 - A. The ideal value is the best result the team could aim for
 - B. The marginally acceptable value is the worst result the project can still live with commercially
 - C. One of them is set against the high case of the cost estimate and the other against the low case
-- D. One of them is set against what the competitors have achieved and the other against what the team plans to beat
+- D. Neither of them is tied to a particular metric, because the same pair of values is used for every metric in the project
 
 - Answer: A,B
-- Explanation: Slide 13 names two target types for each metric: the ideal value, the best result, and the marginally acceptable value, the commercially viable one. C confuses them with the high and low cost cases of the bill of materials, and D with the competitors' published performance, neither of which the process pairs with a metric.
+- Explanation: Slide 13 names two target types for each metric: the ideal value, the best result, and the marginally acceptable value, the commercially viable one. C confuses them with the high and low cost cases of the bill of materials, and D denies that the two values belong to a metric at all, although each metric carries its own pair.
 
 ### L5Q23 (Multiple, Intermediate)
 
@@ -2998,14 +2998,14 @@ The team should address every subproblem before it narrows the alternatives, so 
 ### L6Q28 (True/False, Basic)
 
 - Topic: In-class exercise
-- Source: Lesson 6 / slides 9, 10 and 16
+- Source: Lesson 6 / slides 10 and 16
 
-Combining individual efforts with group discussions enhances the overall concept generation process, and the external search is often quicker and cheaper than developing new solutions. The in-class group exercise asks each group to prepare an internal-search plan for the problem and the solution of its group project. ( )
+Combining individual efforts with group discussions enhances the overall concept generation process, and the in-class group exercise asks each group to prepare an internal-search plan for the problem and the solution of its group project. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 16 asks each group to prepare an external-search plan for the problem and solution of the group project, not an internal-search plan, so the statement is false. The first part is right: slide 10 says that combining individual efforts with group discussions can enhance the overall concept generation process, and slide 9 notes that the external search is often quicker and cheaper than developing new solutions.
+- Explanation: Slide 16 asks each group to prepare an external-search plan for the problem and solution of its group project, not an internal-search plan, so the second half of the statement is wrong. The first half is right: slide 10 says that combining individual efforts with group discussions can enhance the overall concept generation process. A statement that is half right and half wrong is false.
 
 ### L6Q29 (Single, Basic)
 
@@ -3045,12 +3045,12 @@ A team has found that an existing product already solves most of the problem, an
 Concept generation begins with the customer needs and the target specifications, and the step results in a set of alternative concepts rather than a single settled solution. Which of the following are common dysfunctions in concept generation?
 
 - A. Limited alternatives are often proposed by assertive team members
-- B. The step ends with the team choosing one concept from the alternatives and handing it over as the finished product
+- B. The team is asked to set the target specifications only after the concepts have been selected, so that the concepts are not constrained too early
 - C. Useful concepts from related and unrelated products are neglected
 - D. Minimal involvement leaves the team without confidence and commitment
 
 - Answer: A,C,D
-- Explanation: Slide 6 gives exactly these three common dysfunctions: limited alternatives often proposed by assertive team members, neglect of useful concepts from related and unrelated products, and minimal involvement leading to lack of confidence and commitment. B is not one of them, and the step results in a set of alternative concepts, so it does not end by handing over one finished product.
+- Explanation: Slide 6 gives exactly these three common dysfunctions: limited alternatives often proposed by assertive team members, neglect of useful concepts from related and unrelated products, and minimal involvement leading to lack of confidence and commitment. B is not one of them, and it contradicts where the step starts, since concept generation begins from the customer needs and the target specifications.
 
 ### L6Q32 (Multiple, Intermediate)
 

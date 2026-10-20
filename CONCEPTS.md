@@ -18,7 +18,7 @@
 | 5 | Lesson 5 Specifications and Metrics | 第5课 规格与指标 | 4-10 | 6 | 17 |
 | 5 | Lesson 5 Benchmarking and Target Values | 第5课 标杆比较与目标数值 | 11-14 | 6 | 30 |
 | 5 | Lesson 5 Final Specifications and Models | 第5课 最终规格与模型 | 15-21 | 6 | 8 |
-| 6 | Lesson 6 Concept Generation | 第6课 概念生成 | 5-10 | 6 | 35 |
+| 6 | Lesson 6 Concept Generation | 第6课 概念生成 | 5-10 | 6 | 34 |
 | 6 | Lesson 6 Systematic Exploration | 第6课 系统探索与反思 | 11-16 | 5 | 11 |
 | 7 | Lesson 7 Concept Screening | 第7课 概念筛选 | 5-16 | 6 | 16 |
 | 7 | Lesson 7 Concept Scoring and Decisions | 第7课 概念评分与决策 | 17-22 | 6 | 19 |
@@ -1197,7 +1197,7 @@
 
 **中文要点**：外部搜索。访谈领先用户、咨询专家、检索专利文献、研究相关产品。先扩展再聚焦。现有方案可节省时间成 本，但采用专利方案可能需要许可。
 
-**覆盖题目**：L6Q15, L6Q16, L6Q17, L6Q20, L6Q28, L6Q30, L6Q32
+**覆盖题目**：L6Q15, L6Q16, L6Q17, L6Q20, L6Q30, L6Q32
 
 ### 6.6 Internal search.
 
