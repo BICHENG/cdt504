@@ -104,7 +104,7 @@ At project approval a team promises the board it can be on the market within a y
 - A. It fits the usual pattern: few products are developed in less than a year, many take 3 to 5 years, and some take up to 10 years
 - B. It is impossible: every product takes 3 to 5 years
 - C. It only fits software products, while hardware products always take more than 10 years
-- D. It cannot be judged, because the courseware discusses cost rather than time
+- D. It cannot be judged, because the usual duration of product development is not discussed
 
 - Answer: A
 - Explanation: Slide 9, titled Duration and Cost of Product Development, says product development often surprises newcomers with its time and cost, and that "Few products are developed in less than a year. Many take 3 to 5 years, and some up to 10 years." B turns "many" into "every product", C invents a split between software and hardware that the slide never makes, and D is wrong because the slide does give the time pattern.
@@ -690,7 +690,7 @@ The FroliCat funnel narrows a large pool of raw opportunities to a single opport
 Which statements about the FroliCat opportunity funnel and the "swinging ball" opportunity are correct?
 
 - A. All 50 raw opportunities were carried through to exploratory prototypes and sample packaging before the concepts were narrowed
-- B. The "swinging ball" opportunity eventually pursued by the FroliCat team was first recorded in a sketch, and the course presents it as an example of an opportunity that includes a potential solution concept
+- B. The "swinging ball" opportunity eventually pursued by the FroliCat team was first recorded in a sketch, and it is presented as an example of an opportunity that includes a potential solution concept
 - C. The last stage of the funnel is 1 Opportunity Articulated as a Mission Statement for Product Development Team
 - D. The funnel narrows to 3 Opportunities with Exploratory Prototypes and Sample Packaging before it reaches that final opportunity
 
@@ -953,7 +953,7 @@ Which statement about the Real-Win-Worth-it (RWW) method is correct?
 - A. It was developed originally by 3M and is one specific approach used within established companies
 - B. It is one of the seven techniques for generating opportunities
 - C. It was proposed by Asentio and is used to generate product concepts
-- D. It is the tool the course uses to define the innovation charter
+- D. It is the tool used to define the innovation charter
 
 - Answer: A
 - Explanation: Slide 20 says "One specific approach used within established companies is the Real-Win-Worth-it (RWW) method, developed originally by 3M (Day, 2007)", and adds that the name summarizes the three questions an organization should attempt to answer when screening opportunities. B mixes up the seven generation techniques on slide 17 with the screening method here. C confuses the FroliCat product designers' employer on slide 18 with the origin of the method. D confuses the screening step with the charter on slide 16.
@@ -1337,7 +1337,7 @@ Which of the following are criteria for evaluating fundamentally new product opp
 
 About balancing the portfolio of projects, which of the following statements are correct?
 
-- A. The courseware gives a general procedure for deciding exactly what the portfolio should look like
+- A. A general procedure is given for deciding exactly what the portfolio should look like
 - B. In practice it is unwise to directly compare, and thus trade off, specific investments of different types, for example incremental versus radical innovation projects
 - C. A straightforward way to create an appropriate portfolio is to first allocate funding to the various categories of projects and then to select only the most important projects in each category
 - D. The discussion should start by ranking the individual opportunities inside each type and should settle the strategic funding split last
