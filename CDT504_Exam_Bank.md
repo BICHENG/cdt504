@@ -1,6 +1,6 @@
 # CDT504 Revision Question Bank (Lessons 1-9, 315 questions)
 Updated: 2026-10-20
-Total questions: 315
+Total questions: 245
 
 ## Contents
 - [Lesson 1 产品开发基础与开发流程](#lesson-1) (35 questions)
@@ -10,8 +10,8 @@ Total questions: 315
 - [Lesson 5 规格与度量](#lesson-5) (35 questions)
 - [Lesson 6 概念生成](#lesson-6) (35 questions)
 - [Lesson 7 概念筛选与决策](#lesson-7) (35 questions)
-- [Lesson 8 概念测试、产品架构与知识产权](#lesson-8) (35 questions)
-- [Lesson 9 工业设计、服务设计与价值](#lesson-9) (35 questions)
+- [Lesson 8 概念测试、产品架构与知识产权](#lesson-8) (0 questions)
+- [Lesson 9 工业设计、服务设计与价值](#lesson-9) (0 questions)
 
 ---
 
@@ -32,7 +32,7 @@ The courseware opens with a definition of a product. Which statement matches it?
 - D. The profit an enterprise creates for its shareholders
 
 - Answer: A
-- Explanation: Slide 5 states "A product is something sold by an enterprise to its customers." B describes the raw materials and components an enterprise buys, the input side rather than what is sold; C narrows "something" to physical hardware and drops services, although the slide says the economic success of most firms depends on identifying the needs of customers and quickly creating products that meet these needs and can be produced at low cost, and that achieving these goals is not solely a marketing problem, nor is it solely a design problem or a manufacturing problem; D is the profit created for shareholders, an outcome of the enterprise rather than a product.
+- Explanation: Slide 5 states "A product is something sold by an enterprise to its customers." B describes the input side, the raw materials and components an enterprise buys to make a product, and C narrows "something" to physical hardware, dropping services, although the slide notes that firms succeed by creating products that meet customer needs and can be produced at low cost. D is the profit created for shareholders, an outcome of the enterprise rather than a product.
 
 ### L1Q02 (Single, Basic)
 
@@ -54,7 +54,7 @@ A manager asks where product development begins and where it ends. Which answer 
 - Topic: Dimensions of successful product development
 - Source: Lesson 1 / slide 6 and slide 7
 
-The lesson asks the class to think about a great product and a bad product, then states that success is judged from the perspective of the investors in a for-profit enterprise. Which of the following are dimensions of successful product development listed there? (3 correct)
+The lesson asks the class to think about a great product and a bad product, then states that success is judged from the perspective of the investors in a for-profit enterprise. Which of the following are dimensions of successful product development listed there?
 
 - A. Product quality, assessed by market share and customer willingness to pay
 - B. Development capability, which enhances future product development efficiency and effectiveness
@@ -84,7 +84,7 @@ A team is being staffed and someone asks what the manufacturing function is resp
 - Topic: Marketing function in a product development team
 - Source: Lesson 1 / slide 8
 
-Which of the following are listed as responsibilities of the marketing function in a product development team? (3 correct)
+Which of the following are listed as responsibilities of the marketing function in a product development team?
 
 - A. Mediating customer interactions and identifying product opportunities
 - B. Defining market segments and identifying customer needs
@@ -107,7 +107,7 @@ At project approval a team promises the board it can be on the market within a y
 - D. It cannot be judged, because the courseware discusses cost rather than time
 
 - Answer: A
-- Explanation: Slide 9, titled Duration and Cost of Product Development, says product development often surprises newcomers with its time and cost, and that "Few products are developed in less than a year. Many take 3 to 5 years, and some up to 10 years." B turns "many" into "all"; C invents a product-type split the slide never makes; D is wrong because the slide does state the time pattern. The attributes of five products and their associated development efforts on the same slide give approximate figures based on publicly available information, estimates and company sources, and they show the Boeing 787 aircraft with 7 years of development time and a $15 billion development cost.
+- Explanation: Slide 9, titled Duration and Cost of Product Development, says product development often surprises newcomers with its time and cost, and that "Few products are developed in less than a year. Many take 3 to 5 years, and some up to 10 years." B turns "many" into "every product", C invents a split between software and hardware that the slide never makes, and D is wrong because the slide does give the time pattern.
 
 ### L1Q07 (True/False, Basic)
 
@@ -153,7 +153,7 @@ Besides trade-offs, the courseware names dynamics, details, competition and econ
 - Topic: Why product development attracts people
 - Source: Lesson 1 / slide 12
 
-The courseware says product development is interesting precisely because it is challenging. Which of the following are among the four points of appeal it gives? (3 correct)
+The courseware says product development is interesting precisely because it is challenging. Which of the following are among the four points of appeal it gives?
 
 - A. Creation: transforming an idea into a physical product through a creative process
 - B. Team spirit: working in motivated, cooperative teams, often leading to lasting camaraderie
@@ -198,7 +198,7 @@ The courseware states that a well-defined development process is useful for five
 - Topic: The generic product development process and the tasks of its functions
 - Source: Lesson 1 / slide 15
 
-The generic product development process is shown with six phases, including some of the typical tasks and responsibilities of the key business functions for each phase. Which of the following statements about it are correct? (3 correct)
+The generic product development process is shown with six phases, including some of the typical tasks and responsibilities of the key business functions for each phase. Which of the following statements about it are correct?
 
 - A. The six phases are Planning, Concept Development, System-Level Design, Detail Design, Testing and Refinement, and Production Ramp-Up
 - B. In the Concept Development phase the design function investigates feasibility of product concepts, develops industrial design concepts, and builds and tests experimental prototypes
@@ -206,7 +206,7 @@ The generic product development process is shown with six phases, including some
 - D. In the Testing and Refinement phase manufacturing begins full operation of the production system
 
 - Answer: A,B,C
-- Explanation: The caption notes that six phases are shown on the left, including some of the typical tasks and responsibilities of the key business functions for each phase, and the generic product development process itself matches A. B gives the design function's tasks for Concept Development and C the manufacturing function's tasks for Detail Design as listed; D is wrong, because full operation of the production system belongs to the Production Ramp-Up phase, and the typical tasks and responsibilities of the key business functions for the Testing and Refinement phase cover supplier ramp-up, refining fabrication and assembly processes, training the workforce and refining quality assurance processes.
+- Explanation: Slide 15 shows the generic process with six phases, Planning through Production Ramp-Up, so A reproduces it, and it lists the typical tasks of the key business functions. B and C reproduce what the chart gives the design function in Concept Development (feasibility, industrial design concepts, experimental prototypes) and the manufacturing function in Detail Design (piece-part processes, tooling, quality assurance). D is wrong because full operation of the production system belongs to Production Ramp-Up, not to Testing and Refinement.
 
 ### L1Q14 (Single, Basic)
 
@@ -228,7 +228,7 @@ A project has just finished identify customer needs and moves to the next activi
 - Topic: Activities that support the whole front-end process
 - Source: Lesson 1 / slide 16
 
-Three activities support the whole front-end process rather than appearing as a single step in it. Which of the following are among them? (2 correct)
+Three activities support the whole front-end process rather than appearing as a single step in it. Which of the following are among them?
 
 - A. Identify customer needs
 - B. Perform economic analysis
@@ -263,7 +263,7 @@ The goal of identifying customer needs is to understand customers' needs and to 
 - D. The marginal and ideal values for each metric
 
 - Answer: A
-- Explanation: The goal of this activity is to understand customers' needs and to effectively communicate them to the development team, and the output of this step is "a set of carefully constructed customer need statements, organized in a hierarchical list, with importance weightings for many or all of the need." B is raw interview material rather than an organized hierarchical list of need statements; C is the result of concept generation on slide 19; D is the output of establishing target specifications on slide 18, where each specification consists of a metric and marginal and ideal values for that metric.
+- Explanation: Slide 17 says the output of identifying customer needs is "a set of carefully constructed customer need statements, organized in a hierarchical list, with importance weightings for many or all of the need." B is raw interview material rather than an organized list of need statements, C is the result of concept generation on slide 19, and D is the output of establishing target specifications on slide 18, where each specification has a metric and marginal and ideal values.
 
 ### L1Q18 (Single, Challenging)
 
@@ -345,7 +345,7 @@ A concept has been selected and tested. According to slide 22, what must the tea
 - Topic: The contract book
 - Source: Lesson 1 / slide 23
 
-The team has to report to senior management what it has committed to. Which of the following belong in the contract book? (3 correct)
+The team has to report to senior management what it has committed to. Which of the following belong in the contract book?
 
 - A. The mission statement and the customer needs
 - B. The list of concepts that were eliminated during concept selection
@@ -390,7 +390,7 @@ Before setting target specifications, the team wants to understand competing pro
 - Topic: Models and prototypes in concept development
 - Source: Lesson 1 / slide 26
 
-A team must choose the right kind of model for two jobs: showing customers how the product will look and feel, and comparing technical trade-offs between alternatives. Which of the following model types and purposes are correct? (3 correct)
+A team must choose the right kind of model for two jobs: showing customers how the product will look and feel, and comparing technical trade-offs between alternatives. Which of the following model types and purposes are correct?
 
 - A. Form-only models are the ones the team uses to demonstrate feasibility before committing to a platform
 - B. Proof-of-concept models help the development team to demonstrate feasibility
@@ -435,7 +435,7 @@ A company builds a new model around an existing technological subsystem. Accordi
 - Topic: Variants of the generic product development process
 - Source: Lesson 1 / slide 27
 
-Which of the following are listed as variants of the generic product development process? (3 correct)
+Which of the following are listed as variants of the generic product development process?
 
 - A. Ecosystem products
 - B. Platform products
@@ -454,33 +454,33 @@ A team needs the product development process flow diagram that shows a repeated 
 
 - A. The generic product development process, with the gates Mission Approval, Concept Review, Preliminary Design Review, Critical Design Review, Production Approval and Project Review
 - B. The complex system development process, where several design-test branches run in parallel before integration and test
-- C. The generic product development process, because the product development process already contains a design-build-test cycle
+- C. The generic product development process, on the grounds that a design-build-test cycle is already built into its phase sequence
 - D. The spiral product development process, with the gates Mission Approval, Concept Review, Cycle Plan Review, Cycle Review and Project Review
 
 - Answer: D
-- Explanation: The product development process flows on slide 28 include the spiral product development process, which follows system-level design with a design-build-test cycle marked "Many Iteration Cycles", and its gates are Mission Approval, Concept Review, Cycle Plan Review, Cycle Review and Project Review. A and C describe the generic product development process, which has no design-build-test cycle, and B describes the parallel branches of the complex system development process. Slide 28 presents process flow diagrams for three product development processes, and once the product development process has been established within an organization, a process flow diagram is used to explain the process to everyone on the team.
+- Explanation: Slide 28(b) shows the spiral product development process: after System-Level Design it runs a Design, Build and Test cycle marked "Many Iteration Cycles", with the gates Mission Approval, Concept Review, Cycle Plan Review, Cycle Review and Project Review. A and C describe the generic process, whose phase sequence has no design-build-test cycle, and B describes the parallel design-test branches of the complex system development process.
 
 ### L1Q31 (Multiple, Challenging)
 
 - Topic: Comparing the three product development process flows
 - Source: Lesson 1 / slide 28
 
-Three product development process flow diagrams are compared. Which of the following statements match them? (3 correct)
+Three product development process flow diagrams are compared. Which of the following statements match them?
 
 - A. The generic product development process has the gates Mission Approval, Concept Review, Preliminary Design Review, Critical Design Review, Production Approval and Project Review
-- B. The spiral product development process uses a design-build-test cycle after system-level design, marked with many iteration cycles
-- C. In the complex system development process several design-test branches run in parallel and then feed into integrate and test
-- D. In all three diagrams the third phase is detail design
+- B. The complex system development process carries a System Review gate after System-Level Design, and runs its parallel design-test branches into Integrate and Test and then into Validation and Ramp-Up
+- C. In all three diagrams the third phase is System-Level Design
+- D. All three diagrams end with a phase called Production Ramp-Up
 
 - Answer: A,B,C
-- Explanation: The product development process flows on slide 28 match A, B and C as written, and they are the process flow diagrams for three product development processes. D is wrong: in all three of them the third phase is system-level design, with detail design coming fourth.
+- Explanation: Slide 28 supports A, B and C: the generic diagram is labelled with the six gates in A, the complex system diagram shows a System Review gate after System-Level Design and then Integrate and Test and Validation and Ramp-Up, and all three diagrams place System-Level Design third. D is wrong because the complex system development process ends with Validation and Ramp-Up rather than Production Ramp-Up.
 
 ### L1Q32 (Multiple, Challenging)
 
 - Topic: Choosing an organizational structure for product development
 - Source: Lesson 1 / slide 29 and slide 30
 
-The most appropriate choice of organizational structure depends on which organizational performance factors are most critical to success. Which of the following statements about the product development organizations the courseware shows are correct? (3 correct)
+The most appropriate choice of organizational structure depends on which organizational performance factors are most critical to success. Which of the following statements about the product development organizations the courseware shows are correct?
 
 - A. Functional organizations tend to breed specialization and deep expertise in the functional areas
 - B. Project organizations tend to enable rapid and effective coordination among diverse functions
@@ -503,7 +503,7 @@ Functional organizations tend to breed specialization and deep expertise in the 
 - D. The functional organization fosters deep specialization and expertise, while the project organization lets resources be optimally allocated within the project team and lets technical and market trade-offs be evaluated quickly
 
 - Answer: D
-- Explanation: Slide 29 gives the tendencies of the two structures, and slide 31 confirms that the functional organization "Fosters development of deep specialization and expertise" while the project organization lets "Resources can be optimally allocated within the project team" and lets "Technical and market trade-offs can be evaluated quickly." A hands the functional organization's weakness to the project organization, B hands the project organization's strength to the functional organization, and C gives the project organization's weakness to both; the typical examples on slide 31 are customized products for the functional organization and start-up companies, "Scrum teams" and "skunkworks" for the project organization.
+- Explanation: Slide 29 gives the tendencies and slide 31 confirms them: the functional organization "Fosters development of deep specialization and expertise", while the project organization lets "Resources can be optimally allocated within the project team" and lets "Technical and market trade-offs can be evaluated quickly". A hands the functional organization's weakness, slow and bureaucratic coordination, to the project organization, B hands the project organization's strength to the functional organization, and C gives the project organization's weakness, cutting-edge capabilities that are hard to maintain, to both.
 
 ### L1Q34 (True/False, Intermediate)
 
@@ -623,7 +623,7 @@ Which statements about the three horizons matrix and about the FroliCat team are
 - D. The matrix labels the band holding "improvements, extensions, variants, and cost reductions" as Horizon 1 Opportunities
 
 - Answer: A,B,D
-- Explanation: Slide 10 records that the team explicitly avoided Horizon 3 opportunities because of the need to launch a product within about a year and its wish to build on the initial success with the Bolt cat toy. On the matrix of slide 6, Knowledge of Need (e.g., user/market) runs up the vertical axis and Knowledge of Solution (e.g., method/process/technology) across the horizontal axis, and improvements, extensions, variants, and cost reductions sit in the Horizon 1 band. C is wrong: next generation products and services for core markets belong to Horizon 2, while Horizon 3 is the band for exploration into new markets.
+- Explanation: Slide 10 records that the team avoided Horizon 3 opportunities because it had to launch within about a year and build on the Bolt cat toy. On the slide 6 matrix, Knowledge of Need (e.g., user/market) is the vertical axis and Knowledge of Solution (e.g., method/process/technology) the horizontal one, and improvements, extensions, variants and cost reductions sit in the Horizon 1 band. C is wrong: next generation products and services for core markets belong to Horizon 2, and Horizon 3 is for new markets.
 
 ### L2Q07 (Single, Basic)
 
@@ -650,7 +650,7 @@ In most settings, dozens, hundreds, or even thousands of opportunities are consi
 - True / False
 
 - Answer: True
-- Explanation: Slide 7 states that in most settings dozens, hundreds, or even thousands of opportunities are considered for every one commercial success, which is the reason the tournament structure has to filter before anything is launched as a full product development effort.
+- Explanation: Slide 7 states that in most settings dozens, hundreds, or even thousands of opportunities are considered for every one commercial success. That is why the tournament structure filters the field before a few opportunities are launched as full product development efforts.
 
 ### L2Q09 (Multiple, Intermediate)
 
@@ -665,14 +665,14 @@ Which statements about the relationship between opportunity identification and p
 - D. Prototypes are only built once a formal product development process has begun, because exploring with prototypes is a development activity rather than an identification activity
 
 - Answer: A,B,C
-- Explanation: Slide 8 states that although opportunity identification and product development can be thought of as separate activities there is clearly some overlap between them, that in a consumer product business like FroliCat preliminary product concepts are almost always generated and explored with prototypes during the opportunity identification process before a formal product development process begins, and that these exploratory activities are typically conducted for several alternative opportunities, with only the most promising proceeding to more comprehensive product design and development. D is the opposite of the slide: exploring with prototypes happens during opportunity identification, before the formal process begins.
+- Explanation: Slide 8 says the two can be thought of as separate activities yet clearly overlap, that in a consumer product business like FroliCat preliminary product concepts are almost always generated and explored with prototypes during opportunity identification, before a formal product development process begins, and that this exploration covers several alternative opportunities, of which only the most promising proceeds to comprehensive design and development. D contradicts the slide: prototype exploration happens before the formal process starts.
 
 ### L2Q10 (Multiple, Basic)
 
 - Topic: FroliCat opportunity funnel
 - Source: Lesson 2 / slide 9
 
-The FroliCat funnel narrows a large pool of raw opportunities to a single opportunity for the product development team. Which of the following stage-to-stage movements does the funnel show? (3 correct)
+The FroliCat funnel narrows a large pool of raw opportunities to a single opportunity for the product development team. Which of the following stage-to-stage movements does the funnel show?
 
 - A. From 50 Raw Opportunities to 7 Opportunities with Representative Product Concepts
 - B. From 7 Opportunities with Representative Product Concepts to 3 Opportunities with Exploratory Prototypes and Sample Packaging
@@ -941,7 +941,7 @@ While developing promising opportunities, the course suggests investing a few da
 - True / False
 
 - Answer: True
-- Explanation: Slide 19 says "You might invest a few days to a few weeks in each of several promising opportunities", and explains that the goal of this step is to resolve the greatest uncertainty surrounding each one at the lowest cost in time and money.
+- Explanation: Slide 19 says "You might invest a few days to a few weeks in each of several promising opportunities". The same slide gives the reason for that scale of effort: the goal of the step is to resolve the greatest uncertainty surrounding each opportunity at the lowest cost in time and money.
 
 ### L2Q29 (Single, Intermediate)
 
@@ -975,15 +975,15 @@ The course states that Concept Selection, which compares alternatives against se
 - Topic: The three RWW questions
 - Source: Lesson 2 / slide 20 and slide 21
 
-Which statements about the RWW framework and its Swing Ball Cat Toy example are correct?
+Which statements about the Real-Win-Worth-it (RWW) framework are correct?
 
 - A. Real asks "Is there a real market and a real product?"
 - B. Win asks "Can we win? Can our product or service be competitive? Can we succeed as a company?"
-- C. The name Real-Win-Worth-it summarizes the three questions an organization should attempt to answer when screening opportunities
-- D. In the Swing Ball Cat Toy evaluation, the overall answer under the Win question is NO, because the sub-question "Do we have superior resources?" is answered No
+- C. Worth it asks "Is it worth doing? Is the return adequate and the risk acceptable?"
+- D. Worth it asks whether the risks perceived by the customer are acceptable and what the barriers to adoption are
 
 - Answer: A,B,C
-- Explanation: Slide 20 says that the name of the method summarizes the three questions an organization should attempt to answer when screening opportunities, and slide 21 sets out the three blocks Real, Win and Worth it for the Swing Ball Cat Toy example. D is wrong: slide 21 records "Answer YES" under Win, because only "Do we have superior resources?" is answered No while the other six questions in that block are answered Yes.
+- Explanation: Slide 20 explains that the name Real-Win-Worth-it summarizes the three questions an organization should attempt to answer when screening opportunities, and slide 21 sets them out as Real, Win and Worth it. D is wrong, because "Are the risks perceived by the customer acceptable? What are the barriers to adoption?" is one of the nine sub-questions under Real, not part of Worth it.
 
 ### L2Q32 (Single, Challenging)
 
@@ -1007,13 +1007,13 @@ In the Real-Win-Worth-it evaluation of the Swing Ball Cat Toy, which is the only
 
 According to the Real-Win-Worth-it evaluation of the Swing Ball Cat Toy, which statements are correct?
 
-- A. All nine sub-questions in the Real block are answered Yes
-- B. In the Win block, "Do we have superior resources?" is answered No
-- C. The overall answer given for Worth it is YES
-- D. The overall answers for the three questions are YES, NO and YES in that order
+- A. Every sub-question in the Real block is answered Yes
+- B. Every sub-question in the Worth it block is answered Yes
+- C. The overall answer given under each of the three questions is YES
+- D. The three overall answers, in the order Real, Win and Worth it, are YES, NO and YES
 
 - Answer: A,B,C
-- Explanation: On slide 21 all nine Real questions are answered Yes, the only No in the Win block is "Do we have superior resources?", and all four Worth it questions are answered Yes, so the overall answer given under each of the three blocks is YES. D is wrong because the Win block is also answered YES overall, not NO.
+- Explanation: Slide 21 answers all nine Real sub-questions and all four Worth it sub-questions with Yes, and it records an overall answer of YES under each of the three questions. D is wrong, because the Win block is also answered YES overall, even though one of its seven sub-questions is answered No.
 
 ### L2Q34 (Single, Intermediate)
 
@@ -1117,11 +1117,11 @@ According to the courseware's classification of product development projects, wh
 
 - A. New product platforms, derivatives and incremental improvements may be considered adjacent to current offerings
 - B. The fourth type departs more substantially from the firm's existing products
-- C. The four types require roughly the same amount of development resources
-- D. Incremental improvement projects carry no risk
+- C. All four types are considered adjacent to current offerings
+- D. Only the fundamentally new product type is considered adjacent to current offerings
 
 - Answer: A,B
-- Explanation: Slide 7 says "the first three types may be considered adjacent to current offerings, while the last one departs more substantially from the firm's existing products", so A and B follow. C is not addressed, because the slide makes no comparison of the resources the four types need, and D is contradicted by slide 12, which says fundamentally new products inherently involve more risk and says nothing about incremental improvements being risk free.
+- Explanation: Slide 7 says the first three types may be considered adjacent to current offerings, while the last one departs more substantially from the firm's existing products, so A and B follow. C is wrong because only the first three types are adjacent, and D is wrong because the fundamentally new product is the type that departs more substantially, not an adjacent one.
 
 ### L3Q06 (Single, Basic)
 
@@ -1140,18 +1140,18 @@ What is a new product platform project?
 
 ### L3Q07 (Single, Basic)
 
-- Topic: Starbucks mobile app as a project example
+- Topic: Starbucks mobile app: key features and the benefits behind them
 - Source: Lesson 3 / slide 9
 
-Which set of key features does slide 9 give for the Starbucks mobile app introduced in 2009?
+Slide 9 describes the Starbucks mobile app introduced in 2009. Which statement about its key features and the benefits behind them is correct?
 
-- A. Mobile ordering, mobile payment and membership card linking
-- B. Home delivery, store navigation and online customer service
-- C. Barcode checkout, coupon notifications and a points mall
-- D. Mobile ordering, mobile payment and a rewards program
+- A. The key features are Mobile Ordering, Mobile Payment and a Rewards Program, and the benefit they deliver is a consistent 5-star customer review
+- B. The key features are Mobile Ordering, Mobile Payment and membership card linking, and the benefit they deliver is reducing in-store waiting times
+- C. The key features are Barcode Checkout, Coupon Notifications and a Points Mall, and the benefit they deliver is enhancing customer convenience
+- D. The key features are Mobile Ordering, Mobile Payment and a Rewards Program, and the benefit they deliver is reducing in-store waiting times
 
 - Answer: D
-- Explanation: Slide 9 lists "Key Features of the Project" as Mobile Ordering, Mobile Payment and Rewards Program, where customers earn points (stars) that can be redeemed for free products or discounts. A adds membership card linking, which is not on the slide, and the functions in B and C are not mentioned there; the slide states the aim was to enhance customer convenience, reduce in-store waiting times and build customer loyalty.
+- Explanation: Slide 9 lists the key features as Mobile Ordering, Mobile Payment and a Rewards Program, and gives the aims as enhancing customer convenience, reducing in-store waiting times and building customer loyalty. Ordering from a mobile device before arrival is what shortens the in-store wait, so reducing waiting time is the benefit and mobile ordering is the feature supporting it. A names a review outcome the slide does not list, B adds membership card linking, and the features in C are not on the slide.
 
 ### L3Q08 (Multiple, Intermediate)
 
@@ -1253,7 +1253,7 @@ A firm is choosing between two opportunities for new products in existing produc
 - D. Finance, law and human resources
 
 - Answer: A
-- Explanation: Slide 16 names competitive strategy, market segmentation and product platforms as the perspectives for evaluating and prioritizing opportunities for new products in existing product categories, and then turns to fundamentally new product opportunities and to balancing the portfolio. B, C and D are not on the slide; note that the slide calls these "four basic perspectives" although only three are named.
+- Explanation: Slide 16 names competitive strategy, market segmentation and product platforms as the perspectives for evaluating and prioritizing opportunities for new products in existing product categories, then turns to fundamentally new product opportunities and to balancing the portfolio. B, C and D are not on the slide; note that it introduces these as four basic perspectives although only three are named.
 
 ### L3Q15 (Multiple, Intermediate)
 
@@ -1283,7 +1283,7 @@ A firm maps competitors' products and its own products onto distinct market segm
 - D. Estimate the resources required for each project in the plan by month, quarter or year
 
 - Answer: A,B
-- Explanation: Slide 18 says that mapping competitors' products and the firm's own products onto segments lets the firm "assess which product opportunities best address weaknesses in its own product line and which exploit weaknesses in the offerings of competitors", and that it also allows the firm to consider the actions of competitors and the strength of its own products with respect to each well-defined group of customers. C is the market readiness factor in project timing and D is the resource estimate, neither of which belongs to segmentation.
+- Explanation: Slide 18 says that mapping competitors' products and the firm's own products onto segments lets the firm "assess which product opportunities best address weaknesses in its own product line and which exploit weaknesses in the offerings of competitors", and also consider competitors' actions and the strength of its own products for each well-defined group of customers. C is the market readiness factor in project timing and D is the resource estimate, neither belonging to segmentation.
 
 ### L3Q17 (Single, Intermediate)
 
@@ -1328,7 +1328,7 @@ According to slide 20, which of the following are criteria for evaluating fundam
 - D. Existence of a product champion within the firm
 
 - Answer: A,C,D
-- Explanation: Slide 20 lists nine criteria: market size (units/year x average price), market growth rate, competitive intensity, the depth of the firm's existing knowledge of the market and of the technology, fit with the firm's other products, fit with the firm's core assets and capabilities, the potential for patents, trade secrets or other barriers to competition, and the existence of a product champion within the firm. B is not on the list, because a sales target for the first year after launch is not one of the evaluation criteria the slide gives.
+- Explanation: Slide 20 lists nine criteria, among them market size (units/year x average price), market growth rate, competitive intensity, the depth of the firm's knowledge of the market and of the technology, fit with its other products, fit with its core assets and capabilities, the potential for patents or other barriers to competition, and the existence of a product champion within the firm. B is not among them: the slide gives no first-year sales target.
 
 ### L3Q20 (Multiple, Intermediate)
 
@@ -1343,7 +1343,7 @@ About balancing the portfolio of projects, which of the following statements are
 - D. The discussion should start by ranking the individual opportunities inside each type and should settle the strategic funding split last
 
 - Answer: B,C
-- Explanation: Slide 21 states that there are "no general procedures for deciding exactly what the portfolio should look like", so A is wrong. It also says that in practice it "is unwise to directly compare, and thus trade off, specific investments of different types" and recommends allocating funding to the categories first and then prioritizing within each type, which is C. D reverses the order, because the slide says the discussion starts at the strategic level and only then turns to the many opportunities within each type.
+- Explanation: Slide 21 states that there are "no general procedures for deciding exactly what the portfolio should look like", so A is wrong. It also says that in practice it "is unwise to directly compare, and thus trade off, specific investments of different types", and recommends allocating funding to the categories first and then prioritizing within each type, which is C. D reverses that order: the discussion starts at the strategic level and only then moves to the opportunities within each type.
 
 ### L3Q21 (Single, Intermediate)
 
@@ -1370,7 +1370,7 @@ Once timing and resource allocation have been determined for the most promising 
 - True / False
 
 - Answer: False
-- Explanation: Slide 22 says the opposite: the attempt to assign resources and plan timing "almost always results in a return to the prior evaluation and prioritization step to modify the set of projects to be pursued", because too many projects invariably compete for too few resources and there may simply not be enough of the right people to get everything done, even if the budget is allocated.
+- Explanation: Slide 22 says the opposite: the attempt to assign resources and plan timing "almost always results in a return to the prior evaluation and prioritization step to modify the set of projects to be pursued". The reason is that too many projects invariably compete for too few resources, and there may simply not be enough of the right people to get everything done, even if the budget is allocated.
 
 ### L3Q23 (Single, Basic)
 
@@ -1385,7 +1385,7 @@ A development manager wants to keep slack for contingencies and stay responsive 
 - D. Around 50 percent, so that priorities can be changed at any time
 
 - Answer: C
-- Explanation: Slide 23 says "it is helpful to plan for capacity utilization somewhat below 100 percent (80 to 90 percent are common targets)", so that contingencies are allowed and responsiveness is possible. A and B leave no slack, and the slide warns that where utilization exceeds 100 percent or lower targets there are not sufficient resources to execute all of the projects in the plan on schedule; D is far below the target the courseware gives.
+- Explanation: Slide 23 says "it is helpful to plan for capacity utilization somewhat below 100 percent (80 to 90 percent are common targets)", so that contingencies are allowed and responsiveness is possible. A and B leave no slack, and D is far below the target the courseware gives; the slide also warns that at utilization above 100 percent, or below these lower targets, there are not enough resources to execute all the projects in the plan on schedule.
 
 ### L3Q24 (True/False, Intermediate)
 
@@ -1462,7 +1462,7 @@ According to slide 25, which of the following are elements of the mission statem
 ### L3Q29 (Single, Challenging)
 
 - Topic: Key business goals in the illustrated mission statement
-- Source: Lesson 3 / slide 19 and slide 25 and slide 26
+- Source: Lesson 3 / slides 19, 25 and 26
 
 In the SharkNinja mission statement illustration, what is written under Key Business Goals?
 
@@ -1472,12 +1472,12 @@ In the SharkNinja mission statement illustration, what is written under Key Busi
 - D. Removable hand vac, MultiFlex wand and swappable battery
 
 - Answer: C
-- Explanation: Key business goals is one of the six elements of the mission statement listed on slide 25, and the illustration shows what the Key Business Goals row holds. B is the primary market for the product, A mixes content from the benefit proposition and from the assumptions and constraints, and D comes from the Convenience Features row of the SharkNinja technology roadmap on slide 19, not from the mission statement.
+- Explanation: Slide 25 lists Key Business Goals as one of the six elements of the mission statement, and the illustration on slide 26 gives that row: Launch in Fall 2018, competitive pricing allowing for target sales volume and margins, consistent 5-star customer reviews, and growing cordless market share and segment penetration. A belongs to the Benefit Proposition and Dust Cup rows, B is the Primary Market row, and D comes from the Convenience Features row of the roadmap on slide 19.
 
 ### L3Q30 (Single, Intermediate)
 
 - Topic: Benefit proposition versus assumptions and constraints
-- Source: Lesson 3 / slide 19 and slide 25 and slide 26
+- Source: Lesson 3 / slides 19, 25 and 26
 
 In the SharkNinja mission statement illustration, which entry belongs under Assumptions and Constraints rather than under the Benefit Proposition?
 
@@ -1610,7 +1610,7 @@ Slide 5 shows the customer-needs activity in relation to the other concept devel
 - D. It comes before the mission statement, and it ends by establishing the relative importance of the needs
 
 - Answer: C
-- Explanation: Slide 5 places the customer-needs activity directly after the mission statement and before the target specifications are established, the product concepts are generated, and the final specifications are set. Slide 8 gives the five steps of that method: gather raw data from customers, interpret the raw data in terms of customer needs, organize the needs into a hierarchy of primary, secondary and (if necessary) tertiary needs, establish the relative importance of the needs, and reflect on the results and the process. A, B and D each place the activity wrongly in the sequence of slide 5 or give it the wrong last step.
+- Explanation: Slide 5 places the customer-needs activity after the mission statement and before the target specifications are set, the product concepts are generated and the final specifications are set. Slide 8 gives the five steps, ending with reflect on the results and the process. A and D put the activity in the wrong place in the slide 5 sequence, and B starts from the final specifications, which come after the concepts.
 
 ### L4Q04 (Single, Basic)
 
@@ -1632,12 +1632,12 @@ According to slide 6, which statement correctly describes latent needs?
 - Topic: Nest Learning Thermostat case
 - Source: Lesson 4 / slide 7
 
-Slide 7 states that just three years after its formation, Nest Labs was acquired by Google for $3.2 billion, and that the Nest Learning Thermostat was the first product Tony Fadell and his team created from their new company. ( )
+Slide 7 states that the Nest Learning Thermostat was the last product Tony Fadell created at Apple before leaving the company, and that Nest Labs was acquired by Google for $3.2 billion three years after its formation. ( )
 
 - True / False
 
-- Answer: True
-- Explanation: Slide 7 says that after leaving Apple, Fadell decided to create a better thermostat for control of home heating and cooling systems, the Nest Learning Thermostat, "the first product he and his team created from their new company, Nest Labs", and that "just three years after its formation, Nest Labs was acquired by Google for $3.2 billion".
+- Answer: False
+- Explanation: The acquisition part matches slide 7: "just three years after its formation, Nest Labs was acquired by Google for $3.2 billion". The product part does not: after leaving Apple, Fadell founded Nest Labs and the Nest Learning Thermostat was "the first product he and his team created from their new company, Nest Labs", not the last one he made at Apple.
 
 ### L4Q06 (Single, Basic)
 
@@ -1757,7 +1757,7 @@ Slides 12 and 13 describe two groups of customers that help the team identify ne
 - D. Extreme users can reveal needs that the mainstream market feels less acutely, but which are nevertheless important opportunities for competitive advantage
 
 - Answer: A,B,D
-- Explanation: Slide 12 defines lead users as customers who experience needs months or years ahead of the majority of the market and stand to benefit substantially from product innovations, and says that focusing part of the data collection on them can identify needs that are explicit for lead users but still latent for the majority of the market, which allows a firm to anticipate trends and leapfrog competitive products. Slide 13 defines extreme users as those who use the product in unusual ways or who have special needs, and says they can help the team identify needs that may be felt less acutely by the mainstream market but are nevertheless important opportunities for competitive advantage. C is wrong because such needs are still latent for the majority of the market.
+- Explanation: Slide 12 defines lead users as customers who experience needs months or years ahead of the majority of the market and stand to benefit substantially from product innovations, and slide 13 defines extreme users as those who use the product in unusual ways or who have special needs. Slide 13 adds that extreme users can expose needs the mainstream market feels less acutely but that still matter competitively. C is wrong: needs that are explicit for lead users are still latent for the majority of the market.
 
 ### L4Q14 (Multiple, Intermediate)
 
@@ -1772,7 +1772,7 @@ According to slide 13, which of the following are examples of extreme users of t
 - D. Some owners who use thermostats to regulate a ventilation system, a towel warmer, a wine cellar, or an aquarium
 
 - Answer: B,C,D
-- Explanation: Slide 13 describes extreme users as those who use the product in unusual ways or who have special needs, and gives exactly the three groups in B, C and D, adding that some extreme users even regulate ventilation systems, a towel warmer, wine cellar or an aquarium using thermostats. A is wrong: the slide says extreme users help the team identify needs that may be felt less acutely by the mainstream market, so ordinary mainstream use is not what defines them.
+- Explanation: Slide 13 defines extreme users as those who use the product in unusual ways or who have special needs, and gives as examples people who have limited vision or dexterity, customers who need to vary temperatures many times each day, and some extreme users who regulate ventilation systems, a towel warmer, wine cellar or an aquarium using thermostats. A is wrong: the slide says extreme users expose needs the mainstream market feels less acutely, so ordinary mainstream use does not define them.
 
 ### L4Q15 (Single, Basic)
 
@@ -1802,7 +1802,7 @@ Which of the following is one of the helpful questions and prompts that slide 14
 - D. "Is this product the most competitive one in its category?"
 
 - Answer: C
-- Explanation: Slide 14 lists the prompts "When and why do you use this type of product?", "Walk us through a typical session using the product.", "What do you like about the existing products?", "What do you dislike about the existing products?", "What issues do you consider when purchasing the product?" and "What improvements would you make to the product?". C is one of them. A, B and D are not on the list: each of them steers the customer towards a preferred design, towards a price, or towards a conclusion instead of opening up the discussion.
+- Explanation: Slide 14 lists the prompts "When and why do you use this type of product?", "Walk us through a typical session using the product.", "What do you like about the existing products?" and, among others, "What improvements would you make to the product?". C is one of them. A, B and D are not on the list: each steers the customer towards a preferred design, towards a price, or towards a conclusion instead of opening the discussion up.
 
 ### L4Q17 (Multiple, Basic)
 
@@ -1869,29 +1869,29 @@ The customer data template on slide 17 keeps the customer statement next to the 
 - Topic: Customer data template
 - Source: Lesson 4 / slide 17
 
-The customer data template represents a partial list from a single interview, and a typical interview session may elicit more than 50 customer statements and interpreted needs. ( )
+The customer data template lists the complete set of customer statements and interpreted needs gathered in a typical interview session, which usually yields no more than 50 items. ( )
 
 - True / False
 
-- Answer: True
-- Explanation: The note on slide 17 reads that this template represents a partial list from a single interview and that a typical interview session may elicit more than 50 customer statements and interpreted needs; the same slide shows the template filled in with sample customer statements and interpreted needs.
+- Answer: False
+- Explanation: The note on slide 17 says the opposite on both counts: the template "represents a partial list from a single interview", and "a typical interview session may elicit more than 50 customer statements and interpreted needs". The slide shows the template filled in with sample statements, not a complete set.
 
 ### L4Q22 (True/False, Intermediate)
 
 - Topic: Customer needs translation process
 - Source: Lesson 4 / slide 18
 
-Slide 18 states that customer needs stem from interpreting raw data and can vary among analysts, so the translation process should be carried out by a single senior member of the development team. ( )
+Slide 18 states that customer needs stem from interpreting raw data and can vary among analysts, and that the translation should therefore involve multiple team members to ensure accuracy. ( )
 
 - True / False
 
-- Answer: False
-- Explanation: Slide 18 says the opposite: "Customer needs stem from interpreting raw data and can vary among analysts. Use multiple team members for the translation process to ensure accuracy."
+- Answer: True
+- Explanation: Both halves are on slide 18: "Customer needs stem from interpreting raw data and can vary among analysts" and "Use multiple team members for the translation process to ensure accuracy". The variation among analysts is exactly why the slide calls for several people rather than one."
 
 ### L4Q23 (Single, Challenging)
 
 - Topic: What not how in needs statements
-- Source: Lesson 4 / slide 18 and slide 19 and slide 21
+- Source: Lesson 4 / slide 18 and slide 19
 
 A customer says, "I would like my iPhone to adjust my thermostat." Which needs statement follows the guideline on slide 18 to express what the product should do, not how it should do it?
 
@@ -1901,7 +1901,7 @@ A customer says, "I would like my iPhone to adjust my thermostat." Which needs s
 - D. The thermostat must be secure from unauthorized access.
 
 - Answer: B
-- Explanation: Slide 19 shows the guideline "What not How" with this customer statement, and marks option B as the right needs statement and option A as the wrong one, because a particular solution is not the need itself. Slide 18 gives the guideline as expressing what the product should do, not how it should do it, and slide 21 lists the same need among the secondary needs under "The thermostat is easy to use". C is the wrong statement for the guideline Specificity, and D is the wrong statement for the guideline about avoiding "must" and "should".
+- Explanation: Slide 19 shows the guideline "What not How" with this customer statement and marks option B as the right needs statement, while option A is the wrong one because a particular solution is not the need itself. Slide 18 gives the guideline as expressing what the product should do, not how it should do it. C is the wrong statement for the guideline Specificity, and D is the wrong statement for the guideline about avoiding "must" and "should".
 
 ### L4Q24 (Multiple, Challenging)
 
@@ -1916,7 +1916,7 @@ Slide 18 lists the guidelines for writing needs statements, and slide 19 pairs e
 - D. Use "must" and "should" freely to rank needs before their importance has been assessed
 
 - Answer: A,B,C
-- Explanation: Slide 18 gives five guidelines: express needs in terms of what the product should do, not how it should do it; maintain the same level of detail as the raw data; use positive phrasing where possible to simplify product specification translation; frame needs as product attributes for consistency; and avoid using "must" and "should" to imply importance prematurely. D is wrong: the last guideline tells the team to avoid "must" and "should" until the importance has been assessed, and slide 19 shows "The thermostat must be secure from unauthorized access" as the wrong statement for that guideline, against the right one "The thermostat controls are secure from unauthorized access".
+- Explanation: Slide 18 gives five guidelines: express what the product should do, not how; maintain the same level of detail as the raw data; use positive phrasing to simplify product specification translation; frame needs as product attributes; and avoid must and should until importance has been assessed. D reverses that last guideline, and slide 19 pairs it with the wrong statement "The thermostat must be secure from unauthorized access" against the right one "The thermostat controls are secure from unauthorized access".
 
 ### L4Q25 (Single, Basic)
 
@@ -1976,7 +1976,7 @@ Which of the following statements about the markings in the hierarchical list on
 - D. Asterisks are used only on primary needs, and the secondary needs carry no importance rating
 
 - Answer: B,C
-- Explanation: The caption on slide 21 states that importance ratings for the secondary needs are indicated by the number of *'s, with *** denoting critically important needs, and that latent needs are denoted by !; slide 22 uses the same notation, with critical needs marked by asterisks and latent needs by exclamation marks. A is wrong, because a latent need is a need that exists and is not yet widely recognized rather than a need the product should avoid, and D is wrong because the importance ratings are exactly what the asterisks carry on the secondary needs.
+- Explanation: The caption on slide 21 states that importance ratings for the secondary needs are indicated by the number of *'s, with *** denoting critically important needs, and that latent needs are denoted by !; slide 22 uses the same notation. A is wrong, because a latent need is one that exists and is not yet widely recognized rather than one the product should avoid, and D is wrong because the asterisks carry exactly that importance rating on the secondary needs.
 
 ### L4Q29 (Single, Basic)
 
@@ -2048,7 +2048,7 @@ Among the questions slide 24 suggests asking at Step 5 is whether the team has a
 - True / False
 
 - Answer: False
-- Explanation: Slide 24 asks whether the team interacted with all of the important types of customers in the target market, whether it can see beyond needs related only to existing products to capture latent needs, which areas of inquiry to pursue in follow-up interviews or surveys, which of the customers spoken to would be good participants in ongoing development efforts, what the team knows now that it did not know at the start, whether it is surprised by any of the needs, and whether everyone in the organization who needs to deeply understand customer needs was involved. Assessing the pricing and promotional strategies of competing products is not among them.
+- Explanation: Slide 24 asks whether the team interacted with all important customer types in the target market, whether it can see beyond needs tied only to existing products to capture latent needs, which areas to pursue in follow-up interviews or surveys, which customers would be good ongoing participants, what it knows now that it did not know before, whether it is surprised by any need, and whether everyone who needs to understand customer needs was involved. Competitor pricing and promotion are not among them.
 
 ### L4Q34 (Multiple, Intermediate)
 
@@ -2063,7 +2063,7 @@ Slide 25 sets out the objective of the human centric design approach, and slides
 - D. Slide 27 asks how a smart thermostat was designed to learn the temperature schedule of the home
 
 - Answer: A,B,C
-- Explanation: Slide 25 states that the main objective of the human centric approach is to create products that people want to use, and that it can improve your products but also improve your profits, as people are typically willing to pay more for well-designed products, services, hardware and software that are easy to use and intuitively designed. Slide 26 puts a children's toothbrush forward and asks the class to analyse why it is so fat. D is wrong: the product on slide 27 is the urinal with a fly in it, which the slide asks the class to relate to winning a Nobel Prize.
+- Explanation: Slide 25 states that the main objective of the human centric approach is to create products that people want to use, and that it can improve your profits because people are typically willing to pay more for well-designed products, services, hardware and software that are easy to use and intuitively designed. Slide 26 puts a children's toothbrush forward and asks why it is so fat. D is wrong: slide 27 is the urinal with a fly in it, which the slide relates to winning a Nobel Prize.
 
 ### L4Q35 (True/False, Intermediate)
 
@@ -2101,7 +2101,7 @@ Slide 4 says that development teams use precise specifications to translate need
 ### L5Q02 (Single, Basic)
 
 - Topic: Metric for a subjective need
-- Source: Lesson 5 / slide 4 and slide 9 and slide 11
+- Source: Lesson 5 / slides 4, 9 and 11
 
 Slide 4 gives "easy to install" as an example of a customer need that is often expressed subjectively. Which metric makes that need measurable?
 
@@ -2218,7 +2218,7 @@ Slide 8 says that metrics should directly reflect how well the product meets cus
 ### L5Q10 (Single, Intermediate)
 
 - Topic: One need and one metric
-- Source: Lesson 5 / slide 8 and slide 9 and slide 11
+- Source: Lesson 5 / slides 8, 9 and 11
 
 Slide 8 states that ideally each need has a single metric, but complex needs may require multiple metrics. Which statement about this rule is correct?
 
@@ -2384,10 +2384,10 @@ The team wants to set a target value for suspension fork mass, where smaller is 
 - A. Exactly 1.4 kg
 - B. At least 1.4 kg
 - C. At most 1.4 kg
-- D. 1.000 kg, 1.125 kg or 1.250 kg
+- D. 1.0 kg, 1.2 kg or 1.4 kg
 
 - Answer: C
-- Explanation: Slide 13 says "At most X" sets an upper bound, smaller is better, with the example of suspension fork mass at most 1.4 kg. B sets a lower bound, higher is better, A is the precise target where deviation impacts performance, and D is the discrete values form, where multiple specific choices are allowed, as with headset diameters.
+- Explanation: Slide 13 says "At most X" sets an upper bound, smaller is better, with the example of suspension fork mass at most 1.4 kg. B sets a lower bound, higher is better, A is the precise target where deviation impacts performance, and D is the discrete values form, where multiple specific choices are allowed, as with headset diameters on the slide.
 
 ### L5Q22 (Multiple, Intermediate)
 
@@ -2484,12 +2484,12 @@ Slide 19 describes flowing down specifications to subsystems. Which statements a
 - Topic: In-class group exercise
 - Source: Lesson 5 / slide 21
 
-The in-class group exercise on slide 21 asks each group to list a set of metrics that correspond to the needs the group project is addressing. ( )
+The in-class group exercise on slide 21 asks each group to list a set of metrics that correspond to the needs the group project is addressing, and also to set the ideal and marginally acceptable target values for them. ( )
 
 - True / False
 
-- Answer: True
-- Explanation: Slide 21 asks only for that set of metrics and adds nothing about target values; setting the ideal and marginally acceptable target values belongs to the steps for establishing target specifications on slide 6 and for setting target values on slide 13.
+- Answer: False
+- Explanation: Slide 21 asks only for that set of metrics: "Please list a set of metrics that correspond to the needs your group project is addressing." Setting target values is not part of the exercise; the ideal and marginally acceptable values are set later, in the steps for establishing target specifications on slide 6 and for setting target values on slide 13.
 
 ### L5Q29 (Single, Basic)
 
@@ -2549,7 +2549,7 @@ The bill of materials on slide 17 lists high and low cost estimates for the fork
 - D. The 25.51 difference between the two cases breaks down into 17.08 for the parts, 3.33 for assembly time and 5.10 for overhead
 
 - Answer: A,D
-- Explanation: Slide 17 says the bill of materials is used iteratively for "what-if" cost analysis and design decisions, that the BOM lists high and low cost estimates to understand uncertainty, and that regular updates to the BOM reflect current manufacturing cost estimates. On those figures the parts total 73.35 in the high case and 56.27 in the low case, the assembly adds 10.00 and 6.67, and the 25% rate gives 20.84 and 15.74, so the 25.51 difference splits into 17.08, 3.33 and 5.10. The two wrong options apply the 25% rate to something other than the direct cost, which is the parts plus the assembly.
+- Explanation: Slide 17 lists high and low cost estimates in the bill of materials to make uncertainty visible. On those figures the parts total 73.35 in the high case and 56.27 in the low case, assembly adds 10.00 and 6.67, and the 25% rate on the direct cost gives 20.84 and 15.74, so the 25.51 difference splits into 17.08, 3.33 and 5.10. B takes the 25% on the low case total cost and C on the parts cost, not on the direct cost.
 
 ### L5Q33 (Multiple, Challenging)
 
@@ -2564,7 +2564,7 @@ Slide 20 lists what to reflect on after the final specifications are set. Which 
 - D. Whether formal efforts are needed to develop better technical models for future use
 
 - Answer: A,C,D
-- Explanation: Slide 20 asks the team to assess whether the product meets customer needs and competitive standards and to revisit the concept if necessary, to evaluate the uncertainty in the technical and cost models and refine them to increase confidence, to consider whether the concept fits the target market or would be better suited elsewhere, and to determine whether formal efforts are needed to develop better technical models for future use. B is wrong because the slide asks for that uncertainty to be evaluated and the models refined, not treated as settled.
+- Explanation: Slide 20 asks the team to assess whether the product meets customer needs and competitive standards and to revisit the concept if necessary, to evaluate the uncertainty in the technical and cost models and refine them, to consider whether the concept fits the target market or would be better suited elsewhere, and to determine whether better technical models are needed for future use. B is wrong because that uncertainty is to be evaluated and the models refined, not treated as settled.
 
 ### L5Q34 (Multiple, Challenging)
 
@@ -2661,18 +2661,18 @@ According to slide 5, where does concept generation start, and what does it prod
 
 ### L6Q05 (Single, Basic)
 
-- Topic: Common dysfunctions
-- Source: Lesson 6 / slide 6 and slide 5
+- Topic: Exploration process
+- Source: Lesson 6 / slide 14
 
-Which of the following is one of the common dysfunctions in concept generation listed on slide 6?
+A team has used the classification tree and the combination table to narrow its alternatives, and some subproblems are still open. According to slide 14, what happens to those subproblems?
 
-- A. Assertive team members restrict the alternatives the team brings forward
-- B. One critical comment in the discussion reduces the number of ideas that follow
-- C. The team is too large for its members to agree
-- D. Concept generation takes more than 15% of the development time
+- A. They are addressed eventually, after the alternatives have been narrowed
+- B. They are dropped, because the narrowed alternatives already cover every subproblem
+- C. They are postponed indefinitely, because the exploration process is not the final step
+- D. They are handled before the narrowing, because the subproblems come first in the method
 
 - Answer: A
-- Explanation: Slide 6 lists three common dysfunctions: limited alternatives often proposed by assertive team members, neglect of useful concepts from related and unrelated products, and minimal involvement leading to lack of confidence and commitment. A states the first of them. B, C and D are not on that list, and the 15% figure in D belongs to slide 5, which states that concept generation takes 15% of the development time.
+- Explanation: Slide 14 says that teams eventually address all subproblems after narrowing alternatives, so the subproblems left open are still dealt with once the alternatives have been narrowed. B and D contradict that statement, and C misreads the same slide's point that exploration guides further creative thinking rather than being the final step.
 
 ### L6Q06 (Single, Intermediate)
 
@@ -2964,48 +2964,48 @@ About managing the exploration process, which of the following practices does sl
 - Topic: Internal search
 - Source: Lesson 6 / slide 10
 
-The courseware explains Suspend Judgment as: do not criticize ideas immediately, but focus on suggesting improvements. ( )
+Slide 10 lists Suspend Judgment among the guidelines for improving internal search, and gives it as: evaluate each idea as it is proposed and keep only the ones that already look workable. ( )
 
 - True / False
 
-- Answer: True
-- Explanation: Slide 10 states "Suspend Judgment: Avoid criticizing ideas immediately; focus on suggesting improvements", which is what the statement says.
+- Answer: False
+- Explanation: Slide 10 says the opposite: "Suspend Judgment: Avoid criticizing ideas immediately; focus on suggesting improvements". The rule is meant to keep every idea alive for further development, not to filter ideas out as they are proposed.
 
 ### L6Q26 (True/False, Intermediate)
 
 - Topic: Internal search
 - Source: Lesson 6 / slide 10
 
-In internal search, because individuals working alone often generate more and better concepts, the team can rely on individual work alone and hold no group session. ( )
+Slide 10 states that individuals often generate more and better concepts alone, and that group sessions are essential for consensus, communication and refining concepts. ( )
 
 - True / False
 
-- Answer: False
-- Explanation: Under "Individual vs. Group Sessions" slide 10 says that individuals often generate more and better concepts alone, but that group sessions are essential for consensus, communication and refining concepts, and that combining individual efforts with group discussions enhances the overall concept generation process. The statement replaces the combination with a substitute.
+- Answer: True
+- Explanation: Both sentences are on slide 10 under "Individual vs. Group Sessions": "Individuals often generate more and better concepts alone" and "Group sessions are essential for consensus, communication, and refining concepts". The slide adds that combining individual efforts with group discussions enhances the overall concept generation process.
 
 ### L6Q27 (True/False, Intermediate)
 
 - Topic: Exploration process
-- Source: Lesson 6 / slide 7, slide 12 and slide 14
+- Source: Lesson 6 / slide 14
 
-Once the team has organized the concept fragments with the classification tree and the combination table, concept generation is finished, because systematic exploration is the final step. ( )
+Slide 14 states that the team should address every subproblem before it narrows the alternatives, so that no subproblem is left unexplored. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 14 states explicitly that "exploration guides further creative thinking, not the final step", and slide 7 places step 5, reflection on the solutions and the process, after the exploration step. Treating exploration as the last step therefore contradicts both slides.
+- Explanation: Slide 14 says the opposite: teams "eventually address all subproblems after narrowing alternatives". The narrowing comes first, and the subproblems that remain are addressed afterwards, which is why the slide also describes additional searches and further refinement of the problems.
 
 ### L6Q28 (True/False, Basic)
 
 - Topic: In-class exercise
 - Source: Lesson 6 / slide 16
 
-The in-class exercise on slide 16 asks each group to prepare an external-search plan for the problem and the solution of its group project. ( )
+The in-class exercise on slide 16 asks each group to prepare an internal-search plan for the problem and the solution of its group project. ( )
 
 - True / False
 
-- Answer: True
-- Explanation: Slide 16 reads "IN-CLASS GROUP EXERCISE" and "Prepare an external-search plan for the problem and solution of your group project", which is what the statement says.
+- Answer: False
+- Explanation: Slide 16 reads "Prepare an external-search plan for the problem and solution of your group project". The plan is for the external search, which is step 2 of the five step method on slide 7; internal search is a separate step, covered on slide 10.
 
 ### L6Q29 (Single, Basic)
 
@@ -3099,15 +3099,15 @@ According to slide 11, which of the following statements about the concept fragm
 
 ### L6Q35 (True/False, Challenging)
 
-- Topic: Reflection
-- Source: Lesson 6 / slide 7 and slide 16
+- Topic: Clarifying the problem
+- Source: Lesson 6 / slide 7 and slide 8
 
-In the reflection step the team checks whether the critical subproblems have been covered, whether useful external knowledge has been missed and whether additional concepts are needed. ( )
+Slide 8's guidance on engaging team members in understanding customer needs and target specifications belongs to the first step of the five step method, the step that clarifies the problem. ( )
 
 - True / False
 
 - Answer: True
-- Explanation: Slide 16 lists these three checks for the reflection step, alongside the group exercise in which each group prepares an external-search plan for its project, and slide 7 places the reflection on the solutions and the process as step 5 of the five step method. The statement reproduces the three checks the slide gives.
+- Explanation: Slide 8 develops the content of step 1: engaging team members in understanding customer needs and target specifications, taking the mission statement, customer needs list and preliminary product specifications as inputs, and breaking the problem down into subproblems. The chart on slide 7 puts "Understanding", "Problem decomposition" and "Focus on critical subproblems" inside step 1, and step 4, explore systematically, only after the two searches.
 
 ---
 
@@ -3158,7 +3158,7 @@ Slide 6 divides opportunities along the dimensions of knowledge of need and know
 - D. Exploration with new solutions, approaches
 
 - Answer: C
-- Explanation: The region closest to the origin on slide 6 is Horizon 1 Opportunities, holding improvements, extensions, variants and cost reductions, which match the needs the firm already serves and the solutions it already uses. A falls in Horizon 3 with a new need and a new solution, B falls in Horizon 2 with an existing need that is not yet met, and D falls in Horizon 3 with the current market and a new solution.
+- Explanation: Slide 6 places improvements, extensions, variants and cost reductions in Horizon 1, the region closest to the origin, where the firm already knows the needs and the solutions. A introduces a new category, while B, adjacent growth, and D, exploration with new solutions, are the next-generation offerings for core markets that the course assigns to Horizon 2, so none of the three belongs in Horizon 1.
 
 ### L7Q04 (Single, Basic)
 
@@ -3170,10 +3170,10 @@ In the Medical Supply Company case on slide 7, what did the team do first when i
 - A. It picked the best drawn of the seven sketches as the direction for further development
 - B. It summarized the needs of its client and the intended end users and established seven criteria on which the choice would be based
 - C. It compared the price of the existing syringe with the prices of competitors in order to fix the development cost
-- D. It first ruled out any syringe housing that would have to be made of stainless steel
+- D. It first ruled out any design that would have to use stainless steel
 
 - Answer: B
-- Explanation: Slide 7 says the team "established seven criteria on which the choice of a product concept would be based" in order to summarize the needs of its client and of the intended end users, and then lists ease of handling, ease of use, readability of dose settings, dose metering accuracy, durability, ease of manufacture and portability. A skips the step of establishing criteria, while C and D are not part of the case: the slide reports problems with the current product, high cost (stainless steel) and inaccurate dosing, but no such price comparison and no such ruling.
+- Explanation: Slide 7 says the team "established seven criteria on which the choice of a product concept would be based" in order to summarize the needs of its client and of the intended end users, then lists ease of handling, ease of use, readability of dose settings, dose metering accuracy, durability, ease of manufacture and portability. A skips the criteria step, and C and D are not in the case: the slide names high cost (stainless steel) and inaccurate dosing as the problems.
 
 ### L7Q05 (Multiple, Basic)
 
@@ -3197,10 +3197,10 @@ Which of the following are among the seven criteria the courseware lists for sel
 
 In the Medical Supply Company case on slide 7, what did the company ask the design firm to develop, and what problems had it identified in its current product?
 
-- A. A disposable syringe with a standard dose setting, to fix the high cost of the stainless steel housing
-- B. A reusable syringe with precise dosage control, to fix the high cost of the stainless steel housing and the inaccurate dosing
+- A. A disposable syringe with a standard dose setting, to fix the high cost of the stainless steel material
+- B. A reusable syringe with precise dosage control, to fix the high cost of the stainless steel material and the inaccurate dosing
 - C. A reusable syringe with precise dosage control, to fix slow assembly times and a shortage of trained staff
-- D. An automatic injector with a single dose setting, to fix the cost of the stainless steel components
+- D. An automatic injector with a single dose setting, to fix the cost of the stainless steel material
 
 - Answer: B
 - Explanation: Slide 7 says the company "retained a design firm to develop a reusable syringe with precise dosage control" and "identified issues with the current product: high cost (stainless steel) and inaccurate dosing". A and D name the wrong deliverable and the wrong problem, and C keeps the right deliverable but invents two problems the slide does not list.
@@ -3260,7 +3260,7 @@ Concept screening and concept scoring follow the same six-step process. ( )
 - True / False
 
 - Answer: True
-- Explanation: Slide 10 states that "both stages, concept screening and concept scoring, follow a six-step process", which it lists as prepare the selection matrix, rate the concepts, rank the concepts, combine and improve the concepts, select one or more concepts, and reflect on the results and the process.
+- Explanation: Slide 10 states that "both stages, concept screening and concept scoring, follow a six-step process" that leads the team through the concept selection activity, so the statement is true.
 
 ### L7Q11 (Multiple, Intermediate)
 
@@ -3275,7 +3275,7 @@ Slide 10 sets out the six steps of the concept selection activity. Which of the 
 - D. Approve the funding for the selected concept
 
 - Answer: A,B,C
-- Explanation: Slide 10 lists the six steps as prepare the selection matrix, rate the concepts, rank the concepts, combine and improve the concepts, select one or more concepts, and reflect on the results and the process, so A, B and C are steps of the activity. D is a management decision that these steps do not contain.
+- Explanation: Slide 10 lists prepare the selection matrix, rate the concepts, rank the concepts, combine and improve the concepts, select one or more concepts, and reflect on the results and the process. A, B and C are three of these steps, while D, approving the funding for the selected concept, is a management decision the activity does not contain.
 
 ### L7Q12 (Multiple, Intermediate)
 
@@ -3362,7 +3362,7 @@ Concept C (Ratchet) is rated "+" on one criterion, "0" on three and "-" on three
 - D. Net score -2, rank 7
 
 - Answer: D
-- Explanation: Slide 13 defines the net score by "subtracting 'worse than' ratings from 'better than' ratings", so concept C scores 1 - 3 = -2, and the Rank column of the matrix shows 7 for concept C. A, B and C take their net scores and ranks from other cells of the matrix: concept E scores 1 and ranks first, concepts D, F and G all score 0 and tie at rank 3, and concept B scores -1 and ranks 6.
+- Explanation: Slide 13 defines the net score by "subtracting 'worse than' ratings from 'better than' ratings", so concept C scores 1 - 3 = -2, and the Rank column of the matrix shows 7 for concept C. The other options mix cells of the matrix: concept A scores 2 and takes rank 1, concept E scores 1 and ranks second, concepts D, F and G all score 0 and tie at rank 3, and concept B scores -1 and ranks 6.
 
 ### L7Q18 (Single, Challenging)
 
@@ -3377,7 +3377,7 @@ The caption of the screening matrix notes that three concepts are ranked "3" and
 - D. B, C and F
 
 - Answer: B
-- Explanation: D, F and G each have a net score of 0 in the matrix, so the three of them tie at rank 3, which is what the caption on slide 13 refers to. A and C each contain a concept scoring 2 or 1, and in D the net scores of B and C are -1 and -2, so neither of those groups ties for third place.
+- Explanation: Slide 13's caption says the three concepts ranked "3" all received the same net score, and the matrix gives D, F and G a net score of 0 each and rank 3. Group A contains A (2) and E (1), group C contains A (2) and E (1) with only D at rank 3, and group D contains B (-1) and C (-2), so none of them is the three tied concepts.
 
 ### L7Q19 (Multiple, Challenging)
 
@@ -3449,7 +3449,7 @@ In the syringe case, which group of concepts did the team take into concept scor
 - D. A, E, the revised G+ and the new DF
 
 - Answer: D
-- Explanation: Slide 17 gives "example concepts chosen: A, E, revised G+, and new DF". Each wrong option includes a concept that did not continue, because in the screening matrix B and C are marked "No" in the Continue column, F is marked "Combine" and G is marked "Revise".
+- Explanation: Slide 17 gives "example concepts chosen: A, E, revised G+, and new DF", and the concept-scoring matrix on that page carries only those four concepts. Each wrong option therefore includes a concept the team did not take into scoring.
 
 ### L7Q24 (Single, Intermediate)
 
@@ -3469,9 +3469,9 @@ Slide 17 says that the team decides what to do next while it selects the concept
 ### L7Q25 (Single, Challenging)
 
 - Topic: Weighted total score
-- Source: Lesson 7 / slide 16 and slide 17
+- Source: Lesson 7 / slide 17
 
-In the concept scoring matrix, concept DF (Lever Stop) is rated 3, 4, 3, 3, 5, 3 and 3 on the seven criteria, whose weights are 5%, 15%, 10%, 25%, 15%, 20% and 10%. What is the weighted total of DF?
+In the concept scoring matrix on slide 17, concept DF (Lever Stop) is rated 3, 4, 3, 3, 5, 3 and 3 on the seven criteria, whose weights are 5%, 15%, 10%, 25%, 15%, 20% and 10%. What is the weighted total of DF?
 
 - A. 2.75
 - B. 3.10
@@ -3479,7 +3479,7 @@ In the concept scoring matrix, concept DF (Lever Stop) is rated 3, 4, 3, 3, 5, 3
 - D. 3.45
 
 - Answer: D
-- Explanation: The weighted total is 0.05 x 3 + 0.15 x 4 + 0.10 x 3 + 0.25 x 3 + 0.15 x 5 + 0.20 x 3 + 0.10 x 3 = 0.15 + 0.60 + 0.30 + 0.75 + 0.75 + 0.60 + 0.30 = 3.45, which matches the Total Score for DF in the matrix. A, B and C are the totals of A (2.75), E (3.10) and G+ (3.05) in the same matrix.
+- Explanation: The weighted total is 0.05 x 3 + 0.15 x 4 + 0.10 x 3 + 0.25 x 3 + 0.15 x 5 + 0.20 x 3 + 0.10 x 3 = 0.15 + 0.60 + 0.30 + 0.75 + 0.75 + 0.60 + 0.30 = 3.45, which matches the Total Score for DF in the matrix on slide 17. A, B and C are the totals of A (2.75), E (3.10) and G+ (3.05) in the same matrix.
 
 ### L7Q26 (Single, Challenging)
 
@@ -3623,1036 +3623,4 @@ The courseware places concept selection among the front-end activities of the pr
 - True / False
 
 - Answer: True
-- Explanation: Slide 20 states that "market response is critically dependent on the product concept" and that "product concept choice impacts manufacturing costs", and slide 5 shows concept selection in the flow between concept generation and concept testing. The same slide lists a reduced time to product introduction through improved communication and fewer false starts among the benefits, which is why the choice has to be made early.
-
----
-
-## Lesson 8 概念测试、产品架构与知识产权
-
-Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Lesson 8.pdf`
-
-### L8Q01 (Single, Basic)
-
-- Topic: Purpose of concept testing
-- Source: Lesson 8 / slide 4
-
-According to slide 4, what is the main purpose of concept testing in product development?
-
-- A. Letting the development team decide which concept is best before any customer is involved
-- B. Gathering customer feedback during the concept development phase to select and improve product concepts and estimate their sales potential
-- C. Checking line by line whether the finished product meets its final specifications
-- D. Deciding which promotion approach the product should use after it has been launched
-
-- Answer: B
-- Explanation: Slide 4 states that concept testing is "conducted during the concept development phase to gather customer feedback" and is "used to select, improve, and estimate sales potential of product concepts". A contradicts the same slide, which says concept testing "relies on data from potential customers, distinct from development team judgments"; C and D are not mentioned on the slide.
-
-### L8Q02 (Single, Basic)
-
-- Topic: Concept testing and concept selection
-- Source: Lesson 8 / slide 4
-
-According to the "Relation to Other Development Activities" section of slide 4, how does concept testing relate to concept selection?
-
-- A. The two are independent, because concept testing is carried out only after a concept has been chosen
-- B. Concept testing replaces concept selection, so customer feedback alone decides which concept is adopted
-- C. Concept testing is unrelated to concept selection, and its only output is a sales forecast
-- D. The two are linked, because concept testing relates to concept selection for narrowing down concepts
-
-- Answer: D
-- Explanation: The "Relation to Other Development Activities" section of slide 4 says concept testing is "related to concept selection for narrowing down concepts"; the same section adds that it "involves product representations, often prototypes, linking to prototyping" and "results in sales forecasts crucial for economic analysis". A contradicts "conducted during the concept development phase"; B contradicts "relies on data from potential customers, distinct from development team judgments"; C ignores the relations the section lists.
-
-### L8Q03 (Multiple, Basic)
-
-- Topic: Seven-step method for testing product concepts
-- Source: Lesson 8 / slide 5
-
-Which of the following are steps in the seven-step method for testing product concepts on slide 5?
-
-- A. Define the purpose of the concept test
-- B. Choose a survey population
-- C. Choose a survey format
-- D. Calculate the manufacturing cost of the product and select its supplier
-
-- Answer: A,B,C
-- Explanation: Slide 5 lists seven steps: define the purpose of the concept test, choose a survey population, choose a survey format, communicate the concept, measure customer response, interpret the results, and reflect on the results and the process, and it marks the list as "A simple illustration here". D is a costing and sourcing activity rather than one of the seven steps, and slide 5 says nothing about manufacturing cost or supplier selection.
-
-### L8Q04 (Single, Intermediate)
-
-- Topic: When concept testing is skipped
-- Source: Lesson 8 / slide 4
-
-According to slide 4, which of the following products is least likely to be allowed to skip a separate concept test?
-
-- A. Internet software that is launched quickly and refined iteratively
-- B. A product whose concept testing time or cost is prohibitive relative to its life cycle or launch costs
-- C. A high-stakes product such as a commercial airplane
-- D. A functional prototype whose target customers have not yet been defined
-
-- Answer: C
-- Explanation: Slide 4 says concept testing is "not done if time or cost is prohibitive relative to product life cycles or launch costs", gives "internet software often launches directly and refines iteratively" as the example of skipping, and calls the test "essential for high-stakes products like commercial airplanes". A and B are the slide's own reasons for skipping, and D is not discussed on the slide.
-
-### L8Q05 (Multiple, Intermediate)
-
-- Topic: What concept testing is for
-- Source: Lesson 8 / slide 4 and Lesson 1 / slide 21
-
-According to the courseware, which of the following are among the purposes of concept testing?
-
-- A. Deciding whether the product architecture should be modular or integral
-- B. Verifying that the customer needs have been met
-- C. Assessing the market potential of the product
-- D. Identifying shortcomings that must be remedied during further development
-
-- Answer: B,C,D
-- Explanation: Lesson 1 slide 21 states that concepts are tested "to verify that the customer needs have been met, assess the market potential of the product, and identify any shortcomings that must be remedied during further development", and that a poor customer response may end the project or send the team back to earlier activities. Lesson 8 slide 4 adds that concept testing is "conducted during the concept development phase" and "relies on data from potential customers, distinct from development team judgments", that it "results in sales forecasts crucial for economic analysis", and that it is "essential for high-stakes products like commercial airplanes" but "not done if time or cost is prohibitive relative to product life cycles or launch costs". A is a product architecture decision, which the architecture material on slides 7 to 13 covers, not a purpose of concept testing.
-
-### L8Q06 (True/False, Basic)
-
-- Topic: Evidence behind concept testing
-- Source: Lesson 8 / slide 4
-
-Concept testing relies on data from potential customers, which is distinct from the judgments of the development team. ( )
-
-- True / False
-
-- Answer: True
-- Explanation: Slide 4 states that concept testing "relies on data from potential customers, distinct from development team judgments", and this is what separates it from the concept selection carried out by the development team.
-
-### L8Q07 (Single, Challenging)
-
-- Topic: Concept testing, prototyping and economic analysis
-- Source: Lesson 8 / slide 4
-
-A team has just finished concept testing and now plans to build a prototype and use it to estimate the return on its investment. According to slide 4, how does concept testing relate to those two activities?
-
-- A. Concept testing involves product representations, often prototypes, so it links to prototyping, and it results in sales forecasts crucial for economic analysis
-- B. Concept testing is unrelated to prototyping, so the team should build the prototype directly from the customer feedback
-- C. Concept testing only ranks customer preferences, and the sales forecast can be produced only after the prototype is finished
-- D. Concept testing can start only once prototyping is complete, otherwise the customer data it produces is invalid
-
-- Answer: A
-- Explanation: The "Relation to Other Development Activities" section of slide 4 says concept testing "involves product representations, often prototypes, linking to prototyping" and "results in sales forecasts crucial for economic analysis", which are exactly the team's two plans. B denies that link; C moves the sales forecast later than the slide does; D contradicts "conducted during the concept development phase" and the link to prototyping.
-
-### L8Q08 (Single, Intermediate)
-
-- Topic: Seven-step method, order of the steps
-- Source: Lesson 8 / slide 5
-
-A team has already defined the purpose of the concept test, chosen a survey population and chosen a survey format. According to the seven-step method on slide 5, what is the next step?
-
-- A. Measure customer response
-- B. Interpret the results
-- C. Communicate the concept
-- D. Reflect on the results and the process
-
-- Answer: C
-- Explanation: Slide 5 orders the steps as define the purpose of the concept test, choose a survey population, choose a survey format, communicate the concept, measure customer response, interpret the results, and reflect on the results and the process. After the survey format the slide puts communicating the concept, so C; A and B come later, and D is the last step of the seven.
-
-### L8Q09 (Single, Basic)
-
-- Topic: Functional elements and physical elements
-- Source: Lesson 8 / slide 7
-
-According to slide 7, which category do "store paper" and "communicate with host computer" belong to?
-
-- A. Physical elements
-- B. Functional elements
-- C. Chunks
-- D. Interactions
-
-- Answer: B
-- Explanation: Slide 7 says "Functional elements are operations like 'store paper' and 'communicate with host computer'", while "Physical elements include parts, components, and subassemblies". C refers to the physical chunks that the architecture organizes, which the same slide introduces separately, and D refers to the clear interactions that the modular architecture has.
-
-### L8Q10 (Single, Basic)
-
-- Topic: Definition of product architecture
-- Source: Lesson 8 / slide 7
-
-According to slide 7, what does the product architecture do with the functional and physical elements of a product?
-
-- A. It organizes functional elements into physical chunks
-- B. It sets out the stages of the product development process
-- C. It fixes the market position and the price of the product
-- D. It assesses the form and the colour styling of the product
-
-- Answer: A
-- Explanation: Slide 7 states that "Architecture organizes functional elements into physical chunks", and the same slide says "Products have both functional and physical elements" and that "Physical elements include parts, components, and subassemblies". B describes the product development process instead, C belongs to the sales forecast and the sales potential of slide 4, and D belongs to the coordination with industrial designers for aesthetics and usability on slide 17, so none of them is what slide 7 says the architecture does.
-
-### L8Q11 (Single, Basic)
-
-- Topic: Modular architecture and integral architecture
-- Source: Lesson 8 / slide 7
-
-According to slide 7, how does the modular architecture differ from the integral architecture in terms of modification?
-
-- A. The modular architecture merges several functions into one chunk, which is why it is hard to modify
-- B. The two architectures make no difference to how easy it is to modify the product
-- C. The modular architecture gives each chunk one function and an independent design, which makes modification easy
-- D. The integral architecture has clearer chunk boundaries, so it is easier to modify
-
-- Answer: C
-- Explanation: Slide 7 says "Modular architecture: one chunk per function, independent design, easy modification" and "Integral architecture: multiple functions per chunk, difficult modifications, high performance", adding that the integral architecture has "less clear boundaries" but "higher performance". A swaps the two architectures, B ignores the contrast the slide draws, and D reverses the points about boundaries and modification.
-
-### L8Q12 (Multiple, Basic)
-
-- Topic: Three types of modularity
-- Source: Lesson 8 / slide 8
-
-According to slide 8, which of the following statements about the three types of modularity are correct?
-
-- A. In a slot-modular architecture each chunk has a different interface, so the chunks are not interchangeable
-- B. The three types of modularity are all sub-divisions of the integral architecture
-- C. In a bus-modular architecture all chunks share a common bus with the same type of interface
-- D. In a sectional-modular architecture the chunks have identical interfaces but no single connecting element
-
-- Answer: A,C,D
-- Explanation: Slide 8 describes slot-modular as "Different interfaces for each chunk; chunks are not interchangeable", bus-modular as "Common bus with the same type of interface for all chunks", and sectional-modular as "Identical interfaces without a single connecting element", and it notes that all three map functional elements one to one onto chunks with well-defined interfaces. B confuses the two architectures: on slide 7 a modular chunk carries one function while an integral chunk carries several.
-
-### L8Q13 (Single, Basic)
-
-- Topic: Example of a bus-modular architecture
-- Source: Lesson 8 / slide 8
-
-According to slide 8, which of the following is an example of a bus-modular architecture?
-
-- A. An automobile radio, whose interface differs from the other components
-- B. A piping system
-- C. A sectional sofa
-- D. Track lighting
-
-- Answer: D
-- Explanation: Slide 8 lists "PC expansion cards, track lighting, shelving systems, and adjustable roof racks" as the examples of a bus-modular architecture, so D is correct. A is the slide's slot-modular example, and B and C are sectional-modular examples, because a piping system and a sectional sofa have identical interfaces without a single connecting element.
-
-### L8Q14 (Single, Intermediate)
-
-- Topic: When the product architecture is defined
-- Source: Lesson 8 / slide 9
-
-According to slide 9, how does the product architecture of a product come into being?
-
-- A. It emerges during concept development through sketches, function diagrams and prototypes
-- B. It is fixed only at mass production, once the design has been fully specified
-- C. It is decided by the suppliers when they deliver the parts
-- D. It does not depend on the product category, so every product ends up with the same architecture
-
-- Answer: A
-- Explanation: Slide 9 says the architecture "Emerges during concept development through sketches, function diagrams, and prototypes". B and C place the decision later than the slide does and name a party the slide does not mention, and D ignores the slide's separate treatment of incremental improvement products and of new product categories.
-
-### L8Q15 (Multiple, Intermediate)
-
-- Topic: Factors that shape the product architecture
-- Source: Lesson 8 / slide 9
-
-According to slide 9, which of the following statements about the product architecture are correct?
-
-- A. The choice of architecture is influenced by product technology maturity and by supply chain considerations
-- B. A clearly defined architecture is crucial for delivering high product variety
-- C. For a new product category, the architecture has to be settled before the concept development phase begins
-- D. The architecture of an incremental improvement product is normally left open until the product is in production
-
-- Answer: A,B
-- Explanation: Slide 9 says the architecture is "Influenced by product technology maturity and supply chain considerations" and is "Crucial for delivering high product variety", so A and B follow. C contradicts the slide, which makes the architecture "a focus during the system-level design phase" for new product categories rather than something settled before concept development, and D contradicts the slide's statement that an incremental improvement product has its architecture "Defined during concept development".
-
-### L8Q16 (Single, Basic)
-
-- Topic: Adaptation as a product change
-- Source: Lesson 8 / slide 10
-
-According to slide 10, which of the following is an example of adaptation?
-
-- A. Replacing the main board of a printer
-- B. Converting a device so that it works with a different voltage or fuel type
-- C. Replacing a worn-out blade
-- D. Fitting a camera with a lens of a different focal length
-
-- Answer: B
-- Explanation: Slide 10 defines "Adaptation: Conversion for different environments, e.g., voltage or fuel type changes". A is the slide's upgrade example, "Enhancements like processor board or pump replacement"; C is the wear example, "Replacement of deteriorated parts like razor blades or vehicle tires"; and D is the flexibility in use example, "Configurable options, such as camera lenses or fishing rod setups".
-
-### L8Q17 (Multiple, Intermediate)
-
-- Topic: Ways in which a product changes
-- Source: Lesson 8 / slide 10
-
-According to slide 10, which of the following are listed as ways in which a product changes?
-
-- A. Add-ons, that is additional components often coming from third parties, such as mass storage devices
-- B. An integral architecture change, which alters one chunk without affecting any other element
-- C. Wear, that is replacing deteriorated parts such as razor blades or vehicle tires
-- D. Reuse, that is converting the product so that it works with a different voltage or fuel type
-
-- Answer: A,C
-- Explanation: Slide 10 lists "Add-ons: Additional components, often from third parties, such as mass storage devices" and "Wear: Replacement of deteriorated parts like razor blades or vehicle tires", so A and C are correct. B reverses the slide, which says "Modular chunks allow isolated changes, while integral changes affect multiple elements", and D confuses reuse with adaptation, because "Reuse: Updating specific elements, like user interfaces, while retaining core components" is a different entry from "Adaptation: Conversion for different environments, e.g., voltage or fuel type changes".
-
-### L8Q18 (Multiple, Challenging)
-
-- Topic: Variety, standardization and product performance
-- Source: Lesson 8 / slide 11 and slide 12
-
-According to slides 11 and 12, which of the following statements about product architecture are correct?
-
-- A. Component standardization uses the same component in multiple products, increases manufacturing volumes, leads to lower costs and improved quality, and can occur within a firm or across different manufacturers using a common supplier's component
-- B. Modular product architectures allow easy variation without adding complexity, as in Swatch assembling hundreds of different watch models at low cost using standard components
-- C. Integral architecture optimizes holistic performance and characteristics such as acceleration, energy consumption and aesthetics, and the BMW S1000RR reaches this by function sharing that combines structural support and power conversion in one element, reducing size, mass and material use
-- D. Integral architecture is what allows a firm to offer hundreds of product variants at low cost using standard components, as Swatch does
-
-- Answer: A,B,C
-- Explanation: Slide 11 states that component standardization "utilizes the same component in multiple products, increasing manufacturing volumes", "Leads to lower costs and improved quality", "Can occur within a firm or across different manufacturers using a common supplier's component", and that "Modular product architectures allow for easy variation without adding complexity", with Swatch assembling "hundreds of different watch models at low cost using standard components like hands, faces, wristbands, movements, and cases". Slide 12 adds that product performance includes "speed, efficiency, life, accuracy, and noise", that the integral architecture "optimizes holistic performance and characteristics like acceleration, energy consumption, and aesthetics", and that the BMW S1000RR "uses function sharing by combining structural support and power conversion in one element, reducing size, mass, and material use". D reverses slide 11, which credits the modular product architecture with the easy variation and with the Swatch example.
-
-### L8Q19 (True/False, Intermediate)
-
-- Topic: Design for manufacturing
-- Source: Lesson 8 / slide 13
-
-According to slide 13, the DFM strategy focuses on minimizing the number of parts by integrating components within a chunk. ( )
-
-- True / False
-
-- Answer: True
-- Explanation: Slide 13 states that "DFM strategy focuses on minimizing parts through component integration within chunks", and adds that integration across chunks "is challenging and alters architecture, requiring DFM considerations during system-level design".
-
-### L8Q20 (Single, Intermediate)
-
-- Topic: Product development management
-- Source: Lesson 8 / slide 14
-
-According to slide 14, how do the modular architecture and the integral architecture differ in product development management?
-
-- A. The modular architecture needs less system-level planning but needs denser coordination during detail design
-- B. Both architectures need careful system-level planning, and they differ only in the number of chunks
-- C. The modular architecture needs careful system-level planning with chunk teams focused on performance, cost and schedule, while the integral architecture needs less system-level planning but more intensive coordination during detail design
-- D. The integral architecture involves limited functional interactions, which makes it suitable for geographically dispersed teams
-
-- Answer: C
-- Explanation: Slide 14 states "Modular: Requires careful system-level planning; chunk teams focus on performance, cost, and schedule" and "Integral: Requires less system-level planning but more intensive coordination during detail design", adding that the modular architecture "involves limited functional interactions, making it easier for geographically dispersed teams" while the integral architecture "requires close coordination among different groups, leading to more involved project management". A swaps the two, B ignores the difference the slide draws, and D gives the limited functional interactions to the wrong architecture.
-
-### L8Q21 (Single, Basic)
-
-- Topic: Four-step method for establishing the architecture
-- Source: Lesson 8 / slide 15
-
-A team is establishing the architecture for a new printer. According to the four-step method on slide 15, what is the first step?
-
-- A. Cluster the elements of the schematic into chunks
-- B. Develop a rough geometric layout
-- C. Identify the fundamental and incidental interactions
-- D. Create a product schematic
-
-- Answer: D
-- Explanation: Slide 15 orders the four steps as "a. Create a product schematic, b. Cluster schematic elements, c. Develop a rough geometric layout, d. Identify fundamental and incidental interactions", and its caption notes that the schematic shows both functional elements such as "Store Output" and physical elements such as "Print Cartridge". A, B and C are the second, third and fourth steps, and the slide also says that establishing the architecture "involves cross-functional team efforts" whose outcomes include "geometric layouts, chunk descriptions, and interaction documentation".
-
-### L8Q22 (Multiple, Challenging)
-
-- Topic: Nine-chunk architecture of the DeskJet printer
-- Source: Lesson 8 / slide 16
-
-A team is clustering the elements of the DeskJet schematic into chunks. According to slide 16, which of the following are among the nine chunks of the proposed DeskJet architecture?
-
-- A. Paper Feed Motor
-- B. Print Cartridge
-- C. Ink Reservoir
-- D. User Interface Board
-
-- Answer: B,D
-- Explanation: The nine chunks labelled in the clustering figure on slide 16 are Print Cartridge, Chassis, Enclosure, Print Mechanism, Paper Tray, Logic Board, Host Driver Software, Power Cord and "Brick", and User Interface Board, and the caption says "Nine chunks make up this proposed architecture for the DeskJet printer". A and C are not among them, although both are parts one might expect to find in a printer. The same slide also says that assigning elements to chunks "can vary from 1 to 15 chunks" and that a way to manage complexity is "to start with each element as its own chunk and then cluster".
-
-### L8Q23 (Single, Basic)
-
-- Topic: Rough geometric layout
-- Source: Lesson 8 / slide 17
-
-According to slide 17, which of the following does creating a rough geometric layout involve?
-
-- A. Dimensional relationships and trade-offs such as paper tray size against printer height, alternative layouts, and coordination with industrial designers on aesthetics and usability
-- B. Only fixing the numbering of the chunks, without considering their positions or interfaces
-- C. Only fixing the number of chunks, and leaving the layout to the detail design phase
-- D. Using computer models only, since drawings and physical models are not allowed
-
-- Answer: A
-- Explanation: Slide 17 lists the key considerations as "Dimensional relationships, trade-offs (e.g., paper tray size vs. printer height), alternative layouts, and coordination with industrial designers for aesthetics and usability", and says the layout "Utilizes drawings, computer models, or physical models for 2D/3D layouts" in order to determine "chunk positions and interfaces". B and C contradict that purpose of the layout, and D excludes two of the three tools the slide lists.
-
-### L8Q24 (True/False, Intermediate)
-
-- Topic: Fundamental and incidental interactions
-- Source: Lesson 8 / slide 18
-
-According to slide 18, incidental interactions are the planned and essential interactions of the system, such as the paper flow in a printer. ( )
-
-- True / False
-
-- Answer: False
-- Explanation: Slide 18 defines "Fundamental interactions: Planned and essential for system operation (e.g., paper flow in a printer)" and "Incidental interactions: Arise due to physical implementation or geometric arrangement (e.g., vibrations affecting print cartridge positioning)", so the statement describes a fundamental interaction rather than an incidental one.
-
-### L8Q25 (Single, Intermediate)
-
-- Topic: Reading the incidental interaction graph
-- Source: Lesson 8 / slide 18
-
-In the incidental interaction graph on slide 18, which interaction is labelled between the Print Mechanism and the Logic Board, and what kind of interaction is it?
-
-- A. RF Interference, and it is a fundamental interaction
-- B. Thermal Distortion, and it is a fundamental interaction
-- C. Vibration, and it is a fundamental interaction
-- D. Thermal Distortion, and it is an incidental interaction
-
-- Answer: D
-- Explanation: The graph on slide 18, captioned "Incidental interaction graph", labels the link between the Print Mechanism and the Logic Board as "Thermal Distortion", and the slide explains that incidental interactions "Arise due to physical implementation or geometric arrangement", so it is an incidental interaction. A gives the wrong label, because "RF Interference" is labelled between the Logic Board and the Power Cord and "Brick"; C gives the wrong label, because "Vibration" is labelled between the Paper Tray and the Print Mechanism; and B gets the classification of the labelled interaction wrong.
-
-### L8Q26 (Multiple, Intermediate)
-
-- Topic: Architectures for service products
-- Source: Lesson 8 / slide 25 and slide 14
-
-The group discussion on slide 25 asks whether service products such as bank accounts or insurance policies have architectures, and how that affects the planning of a group project. Reading slide 25 together with the product development management material on slide 14, which of the following follow from the courseware?
-
-- A. Slide 25 poses both questions without answering them, so any conclusion about service architectures is an inference rather than a statement of the courseware
-- B. On slide 14 the modular architecture requires careful system-level planning with chunk teams focused on performance, cost and schedule, while the integral architecture requires less system-level planning but more intensive coordination during detail design, so a group project plan has to say which of the two it is choosing
-- C. On slide 14 the integral architecture involves limited functional interactions, which makes it easier for geographically dispersed teams, so a service project is best run by geographically dispersed teams
-- D. Slide 25 already states that a bank account is a physical product with a modular architecture, so the question of service architecture has been answered for the class
-
-- Answer: A,B
-- Explanation: Slide 25 is a group discussion page that asks "Do service products, such as bank accounts or insurance policies, have architectures?" and "How does it affect the planning of your group project?" and supplies no conclusion, so A is right and D is wrong, because the page never says that a bank account is a physical product with a modular architecture. Slide 14 states that the modular architecture "involves limited functional interactions, making it easier for geographically dispersed teams" and "Requires careful system-level planning; chunk teams focus on performance, cost, and schedule", while the integral architecture "requires close coordination among different groups, leading to more involved project management" and "Requires less system-level planning but more intensive coordination during detail design", which is what B applies to the planning of the group project; C reverses the slide by giving the limited functional interactions to the integral architecture.
-
-### L8Q27 (Single, Basic)
-
-- Topic: Definition of intellectual property
-- Source: Lesson 8 / slide 19
-
-According to slide 19, which of the following comes closest to the courseware's definition of intellectual property?
-
-- A. Only the registered trademarks that a business uses in commerce
-- B. Only the exclusive right of manufacture that an inventor obtains
-- C. A system of rights similar to real property law, which can be co-owned, sold, inherited, used as collateral, and sued upon for trespassing or infringement
-- D. Only the rights that authors hold over literary and artistic works
-
-- Answer: C
-- Explanation: Slide 19 says "The definition is similar to real property law" and that IP "can be co-owned, sold, inherited, use as collateral, sue for trespassing, or infringement etc.", giving "Inventions; Knowledge, Literary and artistic work, identity use in commerce, such as symbols, names and images" as examples. A, B and D each narrow intellectual property to one of those categories, which the slide does not do.
-
-### L8Q28 (Single, Intermediate)
-
-- Topic: Origin and duration of intellectual property
-- Source: Lesson 8 / slide 20
-
-According to slide 20, what is the origin of intellectual property?
-
-- A. To give creators a permanent and exclusive right over their creations, so that they personally benefit
-- B. To provide inventors with the same property rights as physical goods, and never to expire
-- C. To establish a registration system that exists mainly in order to collect state revenue
-- D. To prevent copying in order to encourage people to exercise creativity, which eventually benefits society rather than the individual
-
-- Answer: D
-- Explanation: Slide 20 says "The origin of IP is to prevent copying in order to encourage people to exercise creativity, as to benefit the society eventually but not the individual", and adds that "most IP has an expiry date - monopoly for a limited period (50, 70 years?)"; the monopoly examples it lists are copyright, designs, geographical indications, trade secrets, trademarks and patents. A and B contradict the "not the individual" and "limited period" statements, and C is not mentioned on the slide.
-
-### L8Q29 (Multiple, Intermediate)
-
-- Topic: Copyright, patent, trademark and trade secret
-- Source: Lesson 8 / slide 21
-
-According to slide 21, which of the following statements about the four types of intellectual property are correct?
-
-- A. A patent must be an entirely new invention and cannot be an improvement on an existing invention
-- B. A trade secret is protected only once it has been published to the public
-- C. Copyright covers only the expression and not the idea
-- D. A trademark is a sign that distinguishes the goods and services of one trader from those of others
-
-- Answer: C,D
-- Explanation: Slide 21 says copyright "only cover expression but not idea" and describes a trademark as "A sign that distinguishes the goods and services of one trader from those of others". The same slide says an invention "can be—and is most likely to be—an improvement to an existing invention", which is the opposite of A, and it protects a trade secret precisely because it is "Not open to public", which is the opposite of B.
-
-### L8Q30 (Single, Basic)
-
-- Topic: Characteristics of a patent
-- Source: Lesson 8 / slide 21
-
-According to slide 21, which of the following statements about patents is correct?
-
-- A. About 90% of patents are for improvements to existing patented inventions, because an invention can be, and most likely is, an improvement to an existing invention
-- B. A patent must cover an entirely new device, process or product, and an improvement to an existing invention cannot be patented
-- C. There is an international patent, so the same exclusive right applies in every country
-- D. A patent covers the expression of a creator's work, such as a user manual, rather than the invention itself
-
-- Answer: A
-- Explanation: Slide 21 states that an invention "does not have to be an entirely new device, process or product", that it "can be—and is most likely to be—an improvement to an existing invention", and that "About 90% of patents are for improvements to existing patented inventions". The same slide records "No international patent" and that copyright "only cover expression but not idea", so B, C and D each contradict the courseware.
-
-### L8Q31 (True/False, Intermediate)
-
-- Topic: Copyright covers expression, not ideas
-- Source: Lesson 8 / slide 21 and slide 22
-
-According to slide 21, copyright covers both the expression of a creator and the idea behind that expression. ( )
-
-- True / False
-
-- Answer: False
-- Explanation: Slide 21 states that copyright "only cover expression but not idea", and slide 22 adds that the original, unaltered works may be used while any work that adds new material, such as adding footnotes to a play or a new recording of Mozart's work, "is given new copyright upon creation", so the line always falls on the expression rather than on the idea.
-
-### L8Q32 (Single, Intermediate)
-
-- Topic: Categorising intellectual property cases
-- Source: Lesson 8 / slide 23
-
-A wine producer names its product after the region where the grapes are grown, fermented and bottled. According to slide 23, which category of intellectual property does this belong to?
-
-- A. Trademarks
-- B. Geographical Indications
-- C. Patent
-- D. Trade Secrets
-
-- Answer: B
-- Explanation: Slide 23 lists Champagne under "Geographical Indications" and describes it as "the wine, is named after the region where it is grown, fermented, and bottled", for example "Champagne, France". The same slide pairs Apple with Design, Tea WG and Adidas with Trademarks, Sildenafil with Patent, and Coca Cola with Trade Secrets, so A, C and D describe the other categories.
-
-### L8Q33 (True/False, Intermediate)
-
-- Topic: The monkey selfie copyright case
-- Source: Lesson 8 / slide 24
-
-The court held that the Naruto monkey is a legal person with the standing to hold copyright, so the 2015 lawsuit that PETA brought on the monkey's behalf could continue on its merits. ( )
-
-- True / False
-
-- Answer: False
-- Explanation: Slide 24 says PETA sued Slater and the self-publishing company Blurb on Naruto's behalf in 2015, and that the court concluded this monkey, "and all animals, since they are not human", "lacks statutory standing under the Copyright Act". The page then asks "What about AI invention?" as a further question about authorship.
-
-### L8Q34 (Single, Challenging)
-
-- Topic: What the grant of a patent requires
-- Source: Lesson 8 / slide 21 and Lesson 9 / slide 2
-
-According to the courseware, what does the grant of a patent require?
-
-- A. The invention to be useful, novel and nonobvious, with the claims defining the final patented invention
-- B. The invention to be an entirely new device, process or product, never an improvement to an existing invention
-- C. The patent to be registered internationally, so that the exclusive right applies in every country
-- D. The creator to hold the right over the expression of the work, such as user manuals, webpages, drawings or computer program codes, rather than over the idea behind it
-
-- Answer: A
-- Explanation: Lesson 9 slide 2 states that patents "grant temporary monopolies, balancing invention incentives with free information dissemination", that "utility patents are key for technology-based product development", and that they "require inventions to be useful, novel, and nonobvious; claims define the final patented invention". Lesson 8 slide 21 adds that an invention "does not have to be an entirely new device, process or product" and "can be—and is most likely to be—an improvement to an existing invention", and that there is "No international patent", so B and C contradict the courseware, while D describes copyright, which slide 21 says "only cover expression but not idea".
-
-### L8Q35 (Multiple, Challenging)
-
-- Topic: Copyright case questions
-- Source: Lesson 8 / slide 22
-
-According to slide 22, which of the following statements about copyright cases are correct?
-
-- A. Disney holds copyright on the original version of Mickey Mouse and on all those that follow, with the term running from 1922 to 2003 and to 2024 under the Mickey Mouse Protection Act
-- B. The original, unaltered works may be used, but a work that adds new material, such as adding footnotes to a play or a new recording of Mozart's work, is given new copyright upon creation and can then only be used within the copyright guidelines
-- C. Both Butterfly Lovers and the romance of Juliet and Romeo have been adapted into opera, film, TV drama, stage play, figure skating and music, and the slide asks whether they are similar but purely coincidental
-- D. Because Mickey Mouse did not wear white gloves until 1929, the character was unprotected by copyright before that date
-
-- Answer: A,B,C
-- Explanation: The "The Image & Character" section of slide 22 says Disney "has a copyright on the original version of Mickey Mouse and all those that follow", with the term running "from originally 1922 to 2003 and to 2024 under Mickey Mouse Protection Act", and it asks what is meant by "original" while noting that "Mickey doesn't actually wear white gloves until 1929" — that is the point the case raises, not a date at which protection ended, so D is wrong. The "The Novel, Poet & Music" section states that "You may use the original, unaltered works" and that any work which adds new material "is given new copyright upon creation", which is B. The "The Drama, Film & Movie" section lists the artistic forms both stories have been adapted into and asks "Are they similar but purely coincidental?", which is C.
-
----
-
-## Lesson 9 工业设计、服务设计与价值
-
-Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Lesson 9 .pdf`
-
-### L9Q01 (Single, Basic)
-
-- Topic: Origin of industrial design
-- Source: Lesson 9 / slide 5
-
-According to slide 5, industrial design originated with which of the following?
-
-- A. The Industrial Revolution, moving production from handcrafted goods to mass-produced goods
-- B. 20th-century advances in transportation and materials, such as injection-moulded plastics and aluminium
-- C. The post-war work of designers such as Raymond Loewy and Henry Dreyfuss
-- D. The adoption of user-centered design principles at Apple
-
-- Answer: A
-- Explanation: Slide 5 says industrial design "originated from the Industrial Revolution, transitioning from handcrafted to mass-produced goods". B is the technological impact section, C the post-war developments and D the modern trends, so all three name later stages rather than the origin.
-
-### L9Q02 (Single, Basic)
-
-- Topic: MAYA principle
-- Source: Lesson 9 / slide 5
-
-Slide 5 gives the MAYA principle as balancing innovation with what?
-
-- A. Manufacturing cost against the price the market will bear
-- B. Innovation against consumer acceptance
-- C. Form against function in the finished product
-- D. Development speed against the number of prototypes
-
-- Answer: B
-- Explanation: Slide 5 describes the MAYA principle as "balancing innovation with consumer acceptance", so B is correct. A mixes in cost and marketability, which the slide lists as what industrial design balances; C restates the "form follows function" theory on the same slide; D describes the time cost of iteration discussed on slide 7.
-
-### L9Q03 (Multiple, Basic)
-
-- Topic: Dieter Rams principles for good design
-- Source: Lesson 9 / slide 5
-
-Which of the following appear among the ten principles for good design that slide 5 attributes to Dieter Rams?
-
-- A. Innovativeness
-- B. Streamlining
-- C. Environmental friendliness
-- D. Form follows function
-
-- Answer: A,C
-- Explanation: Slide 5 lists innovativeness, usefulness, aesthetics, understandability, unobtrusiveness, honesty, longevity, thoroughness, environmental friendliness and minimalism, so A and C are among them. B belongs to the technological impact section of the same slide, and D is one of the historical theories it cites.
-
-### L9Q04 (Single, Basic)
-
-- Topic: User experience and aesthetics
-- Source: Lesson 9 / slide 6
-
-According to slide 6, which three items make up user experience?
-
-- A. Visual differentiation, pride of ownership and team motivation
-- B. Ease of maintenance, interaction complexity and safety
-- C. Usability, user interface and ergonomics
-- D. Marketability, cost and durability
-
-- Answer: C
-- Explanation: Slide 6 states that "user experience includes usability, user interface, and ergonomics". A lists the three aesthetic needs on the same slide, B lists user experience needs rather than what user experience includes, and D is not a combination the courseware gives.
-
-### L9Q05 (True/False, Basic)
-
-- Topic: Familiarity under user experience needs
-- Source: Lesson 9 / slide 6
-
-Slide 6 places familiarity among the aesthetic needs. ( )
-
-- True / False
-
-- Answer: False
-- Explanation: Slide 6 lists familiarity under user experience needs, alongside usability, ease of maintenance, interaction complexity and safety, while the aesthetic needs are visual differentiation, pride of ownership and team motivation.
-
-### L9Q06 (Single, Basic)
-
-- Topic: ProtectiveClean case study
-- Source: Lesson 9 / slide 6
-
-Using the Philips ProtectiveClean toothbrush as its case study, what does slide 6 say about the role of industrial design in product success?
-
-- A. It only adds visual appeal after the product is on the market
-- B. It only works through reducing the cost of the product
-- C. It is barely involved, because the product is technology-driven
-- D. Ergonomics and aesthetics are both crucial to success, and ID plays a significant role in the critical success factors
-
-- Answer: D
-- Explanation: Slide 6 states for the case study that "ergonomics and aesthetics [are] crucial for success" and that "ID played a significant role in critical success factors". A and B are not on the slide, and C goes against its conclusion; the table on slide 15 only says that ID is involved little in the early technical development of technology-driven products, not that it stays out.
-
-### L9Q07 (Single, Intermediate)
-
-- Topic: Economic impact of industrial design
-- Source: Lesson 9 / slide 7
-
-What did the McKinsey study of 300 companies reported on slide 7 find?
-
-- A. Firms in the top 25% of design competency saw 32% higher revenues and 56% higher total returns over five years
-- B. Firms in the top 25% of design competency saw 56% higher revenues and 32% higher total returns over five years
-- C. All firms in the study saw an average revenue increase of 32% over five years
-- D. The more a firm spent on industrial design, the lower its total returns became
-
-- Answer: A
-- Explanation: Slide 7 says firms in the top 25% of design competency "saw a 32% increase in revenues and a 56% increase in total returns over five years". B swaps the two figures, C extends the result to all 300 companies, and D runs against the reported link between design competency and business performance.
-
-### L9Q08 (Multiple, Intermediate)
-
-- Topic: Costs of industrial design
-- Source: Lesson 9 / slide 7
-
-Which of the following are costs of industrial design that slide 7 identifies?
-
-- A. Direct cost, determined by designer type, project duration and materials
-- B. Manufacturing cost for implementing product details, which can be optimized if ID is involved early
-- C. Time cost, the delay penalties from extended design iterations and prototypes
-- D. Marketing cost for promoting the product after launch
-
-- Answer: A,B,C
-- Explanation: Slide 7 names exactly three: direct cost, "determined by designer type, project duration, and materials", manufacturing cost, which "can be optimized if ID is involved early", and time cost, which brings "delay penalties due to extended design iterations and prototypes". D is not in that list, and the slide mentions the McKinsey study on design competency, not a marketing cost.
-
-### L9Q09 (Single, Intermediate)
-
-- Topic: The industrial design process
-- Source: Lesson 9 / slide 9
-
-According to slide 9, where does "creating control drawings or models" sit in the industrial design process?
-
-- A. Before customer needs are investigated, to set the design direction
-- B. After the final concept is selected and before coordination with engineering, manufacturing and vendors
-- C. During preliminary and further refinement, where foam models are made
-- D. After coordination with vendors, as the last step of the process
-
-- Answer: B
-- Explanation: Slide 9 lists the process as investigating customer needs, conceptualization, preliminary and further refinement, final concept selection, creating control drawings or models, and coordinating with engineering, manufacturing and vendors. C confuses control drawings with the foam models of slide 12.
-
-### L9Q10 (Single, Basic)
-
-- Topic: Investigation of customer needs
-- Source: Lesson 9 / slide 10
-
-In the investigation of customer needs phase, what does slide 10 say industrial designers do?
-
-- A. They write up the interviews as a needs document and take no part in anything else
-- B. They design the technical subfunctions of the product
-- C. They study environments, interview users and conduct focus groups to gain insight
-- D. They produce the control drawings and hand them to engineering
-
-- Answer: C
-- Explanation: Slide 10 says "IDs study environments, interview users, and conduct focus groups for insights", and adds that marketing, engineering and ID work together for comprehensive understanding. B belongs to conceptualization on slide 11, and D to the control drawings on slide 14.
-
-### L9Q11 (Single, Intermediate)
-
-- Topic: Hard models and detailed renderings
-- Source: Lesson 9 / slide 13
-
-On slide 13, how do hard models and detailed renderings divide the work of further refinement and final concept selection?
-
-- A. Both are used only for color studies
-- B. Renderings are made from wood, foam, plastic or metal and are used to promote the product
-- C. Hard models are only an intermediate step between sketches and renderings and are not used to collect feedback
-- D. Hard models are realistic replicas of final designs used to refine specifications, gather customer feedback and promote the product, while renderings, often in 2D or 3D, support color studies and customer feedback on features
-
-- Answer: D
-- Explanation: Slide 13 says hard models are "realistic replicas of final designs made from materials like wood, foam, plastic, or metal", used for refining specifications, gaining customer feedback and promoting products, and that the process moves from sketches to detailed renderings, often in 2D or 3D, used for color studies and customer feedback on features. A merges the two uses, B swaps the materials and the purpose, and C denies the customer feedback that slide 13 gives hard models.
-
-### L9Q12 (Single, Basic)
-
-- Topic: Control drawings or models
-- Source: Lesson 9 / slide 14
-
-According to slide 14, what do control drawings or models document?
-
-- A. Functionality, sizes, colors, finishes and key dimensions
-- B. The focus group roster and the list of interview questions
-- C. The scores and weights used in the concept screening matrix
-- D. The budget, schedule and staffing plan
-
-- Answer: A
-- Explanation: Slide 14 says control drawings or models "document functionality, sizes, colors, finishes, and key dimensions", and are used to fabricate final design models and prototypes before being passed to engineering for detailed part design. B belongs to slide 10, C to concept screening in Lesson 7, and D is the content of a contract book in Lesson 1.
-
-### L9Q13 (Multiple, Intermediate)
-
-- Topic: Conceptualization
-- Source: Lesson 9 / slide 11
-
-In the conceptualization phase, which of the following agree with slide 11?
-
-- A. Industrial designers work on form and user interfaces
-- B. Engineers address technical subfunctions
-- C. Concepts are evaluated against customer needs, feasibility, cost and manufacturing
-- D. The phase is carried out by industrial designers alone, without engineers
-
-- Answer: A,B,C
-- Explanation: Slide 11 says industrial designers conceptualize products by focusing on form and user interfaces, that engineers address technical subfunctions while sketches help idea evaluation, and that concepts are evaluated on customer needs, feasibility, cost and manufacturing. D contradicts the collaboration the same slide describes, including codesigning through sketches.
-
-### L9Q14 (Multiple, Challenging)
-
-- Topic: Role of industrial design by product type
-- Source: Lesson 9 / slide 15
-
-According to the table on slide 15, which of the following are correct?
-
-- A. In technology-driven products, ID is usually involved little in early technical development but is brought in later to help identify customer needs
-- B. In user-driven products, ID works closely with marketing to identify customer needs and takes part in focus groups, one-to-one interviews and observation
-- C. In user-driven products, ID selects the final concept at the system-level design stage and then coordinates with engineering, manufacturing and marketing to complete the final design
-- D. In technology-driven products, ID is normally brought in after early technical development and is responsible for packaging the product, taking the specifications and constraints from engineering and marketing
-
-- Answer: A,B,D
-- Explanation: The table on slide 15 says that in technology-driven work ID "typically plays a small role in early technical development but is brought in to help identify customer needs", and that in the detailed design phase "ID is responsible for packaging the product, receiving specifications and constraints from engineering and marketing"; in user-driven work ID works closely with marketing on customer needs, focus groups, one-to-one interviews and observation. C gives the wrong stage, because in the system-level design row ID narrows the concepts down and refines the most promising one, while the final concept is selected in the row on detailed design, testing and refinement.
-
-### L9Q15 (Single, Challenging)
-
-- Topic: ProtectiveClean evaluation categories
-- Source: Lesson 9 / slide 16
-
-In the assessment of the ProtectiveClean toothbrush development project on slide 16, what reason is given for the ability to maintain and repair the product?
-
-- A. Children and adults can both grip the handle comfortably and operate the controls
-- B. The design solved the problem of debris getting trapped between the brush head and the handle of earlier models
-- C. The final design kept only the features that met real customer needs, with materials that are durable, manufacturable and good-looking
-- D. The visual language and user interaction carried on the heritage of the Sonicare family while staying clearly different from earlier models
-
-- Answer: B
-- Explanation: The assessment on slide 16 covers five categories, and the reason given for maintenance and repair is that the design solved the problem of debris trapped between the brush head and the handle of earlier models. A is the reason given for usability, C for appropriate use of resources and D for product differentiation.
-
-### L9Q16 (True/False, Intermediate)
-
-- Topic: Preliminary refinement models
-- Source: Lesson 9 / slide 12
-
-Slide 12 states that the full-scale rough models built in the preliminary refinement phase are the fastest method for concept evaluation. ( )
-
-- True / False
-
-- Answer: False
-- Explanation: Slide 12 calls these full-scale rough models "the second-fastest method for concept evaluation", so they rank second rather than first.
-
-### L9Q17 (Single, Basic)
-
-- Topic: Product-service systems
-- Source: Lesson 9 / slide 19
-
-How does slide 19 describe a product-service system?
-
-- A. A tangible good produced by a manufacturer, such as an automobile
-- B. An intangible offering associated with a physical product, such as automobile insurance
-- C. A combination of a physical product and a service, such as car rentals and vehicle financing
-- D. An architecture that divides a product's functional elements into physical chunks
-
-- Answer: C
-- Explanation: Slide 19 says "product-service systems combine physical products and services, such as car rentals and vehicle financing". A and B are the separate examples the slide gives of a physical product and of a service, and D is product architecture from Lesson 8.
-
-### L9Q18 (Single, Basic)
-
-- Topic: How services differ from products
-- Source: Lesson 9 / slide 20
-
-Slide 20 lists several ways in which services and products differ. Which one does the slide actually state?
-
-- A. Services supply only intangible offerings and never involve tangible resources
-- B. Services and products must be developed with completely different processes
-- C. Modular architecture and customization are forbidden in services
-- D. Services often involve customer interaction, timing considerations and the need to match capacity with demand
-
-- Answer: D
-- Explanation: Slide 20 says services often involve "customer interaction, timing considerations, and the need for matching capacity with demand", and that modular architecture and customization are common in services. A goes against slide 19, where services are often associated with physical products; B misreads "similar processes but ... key differences"; C reverses the third point.
-
-### L9Q19 (Single, Basic)
-
-- Topic: Examples of product-service systems
-- Source: Lesson 9 / slide 20
-
-Which of the following is one of the product-service systems listed on slide 20?
-
-- A. Healthcare: medical devices and procedures
-- B. Cars manufactured and sold on their own
-- C. Automobile insurance bought separately by the customer
-- D. The food a restaurant serves, without the service experience
-
-- Answer: A
-- Explanation: Slide 20 lists mobile communications, enterprise computing, restaurants, airlines and healthcare, and names "medical devices and procedures" under healthcare. B and C are the physical product and the service examples from slide 19, and D keeps only the food half of the restaurant example.
-
-### L9Q20 (True/False, Intermediate)
-
-- Topic: Opportunity with a potential solution concept
-- Source: Lesson 9 / slide 21
-
-Slide 21 uses the "swinging ball" opportunity of the FroliCat team to show that an opportunity can already include a potential solution concept. ( )
-
-- True / False
-
-- Answer: True
-- Explanation: The caption on slide 21 calls this "an example of an opportunity that includes a potential solution concept" and notes that the opportunity was first recorded in a sketch.
-
-### L9Q21 (Single, Challenging)
-
-- Topic: Opportunity funnel at Zipcar
-- Source: Lesson 9 / slide 21
-
-In the opportunity diagram on slide 21, what is the order and the number of opportunities at each stage?
-
-- A. 7 original opportunities, then 50 opportunities with representative product concepts, then 1 mission statement, then 3 opportunities with exploratory prototypes and sample packaging
-- B. 50 original opportunities, then 7 opportunities with representative product concepts, then 1 opportunity articulated as a mission statement, then 3 opportunities with exploratory prototypes and sample packaging
-- C. 50 original opportunities, then 3 opportunities with exploratory prototypes and sample packaging, then 1 mission statement, then 7 opportunities with representative product concepts
-- D. 1 mission statement, then 7 opportunities with representative product concepts, then 3 opportunities with exploratory prototypes and sample packaging, then 50 original opportunities
-
-- Answer: B
-- Explanation: The diagram on slide 21 runs from "50 Raw Opportunities" to "7 Opportunities with Representative Product Concepts", then to "1 Opportunity Articulated as a Mission Statement for Product Development Team", and finally to "3 Opportunities with Exploratory Prototypes and Sample Packaging". A swaps 50 and 7, C swaps 7 and 3, and D reverses the whole sequence.
-
-### L9Q22 (Multiple, Intermediate)
-
-- Topic: Service concept and storyboards
-- Source: Lesson 9 / slide 22
-
-About the service concept on slide 22, which of the following agree with the slide?
-
-- A. Product concepts for physical goods use sketches for geometry and configuration
-- B. Service concepts are typically conveyed through textual descriptions and narratives
-- C. Storyboards can graphically illustrate key steps in a service experience
-- D. Zipcar's service concept consists of online reservations only
-
-- Answer: A,B,C
-- Explanation: Slide 22 states all three points, and gives Zipcar's service concept as short-term automobile rentals, convenient parking locations, online reservations and automatic billing. D leaves out three of those four elements.
-
-### L9Q23 (Single, Basic)
-
-- Topic: Membership process improvements
-- Source: Lesson 9 / slide 25
-
-How does slide 25 say Zipcar improved the membership process?
-
-- A. It added an in-person orientation and made driving record checks slower
-- B. It stopped issuing access cards and kept only online membership
-- C. It removed the in-person orientation, sped up driving record checks and cut access card issuance to two days
-- D. It moved membership registration to a central on-site desk at headquarters
-
-- Answer: C
-- Explanation: Slide 25 says membership was streamlined by "eliminating in-person orientation" and by implementing "faster driving record checks, reducing access card issuance to two days". A reverses both changes, and B and D are not on the slide.
-
-### L9Q24 (Single, Basic)
-
-- Topic: Local and shared infrastructure
-- Source: Lesson 9 / slide 25
-
-According to slide 25, which of the following does Zipcar keep as shared infrastructure managed at headquarters?
-
-- A. Vehicle fleet, parking, maintenance, management and sales
-- B. Purchasing vehicles and deploying them to the fleet
-- C. Buying parking space and cleaning and servicing vehicles
-- D. Online reservation and mobile app support
-
-- Answer: D
-- Explanation: Slide 25 puts vehicle fleet, parking, maintenance, management and sales under local infrastructure, and online reservation and mobile app support under shared infrastructure managed at headquarters. B and C belong to the physical system layer of the flow diagram on slide 24.
-
-### L9Q25 (Single, Intermediate)
-
-- Topic: Acquisition by Avis
-- Source: Lesson 9 / slide 26
-
-According to slide 26, when did Avis acquire Zipcar, and why?
-
-- A. In 2013, to leverage the infrastructure of Zipcar and increase growth
-- B. In 2010, to close Zipcar's business in the United States
-- C. In 2013, to cut daily rental prices by 25% and grow the member base
-- D. In 2016, to convert Zipcar members into Avis loyalty programme members
-
-- Answer: A
-- Explanation: Slide 26 states that "Avis acquired Zipcar in 2013 to leverage its infrastructure and increase growth", and adds that the acquisition brought technical and logistical challenges but also opportunities for innovation. B has no basis on the slide, C reverses the price increase recorded there, and D gives the wrong year and an outcome the slide does not mention.
-
-### L9Q26 (Single, Basic)
-
-- Topic: Employee involvement in service improvement
-- Source: Lesson 9 / slide 26
-
-According to slide 26, what were employees required to do to find improvement points?
-
-- A. Handle internal finance only, without meeting customers
-- B. Take customer calls and use the service themselves, with discounts that encourage first-hand experience
-- C. Collect reactions through advertising rather than serving customers
-- D. Purchase vehicles and deploy them to the fleet
-
-- Answer: B
-- Explanation: Slide 26 says "employees were required to take customer calls and use the service to identify improvements" and that "employees received discounts to encourage service usage and firsthand experience". D belongs to the physical system layer of the flow diagram on slide 24, and A and C are not on the slide.
-
-### L9Q27 (Multiple, Intermediate)
-
-- Topic: Service adjustments and innovations
-- Source: Lesson 9 / slide 26
-
-Which of the following match the service adjustments and innovations reported on slide 26?
-
-- A. The daily charge was increased by 25% after six months
-- B. Members were told about the price increase through personal messages, and membership loss was minimal
-- C. The price increase led to a clear drop in membership, and the personal messages had no effect
-- D. New technologies were added, including an advanced reservation system and a smartphone app for vehicle access
-
-- Answer: A,B,D
-- Explanation: Slide 26 says Zipcar adjusted pricing after six months by "increasing the daily charge by 25%", that "personal messages to members about price increases resulted in minimal membership loss", and that new technologies included "an advanced reservation system and a smartphone app for vehicle access". C contradicts the minimal membership loss.
-
-### L9Q28 (True/False, Intermediate)
-
-- Topic: Marketing expansion at Zipcar
-- Source: Lesson 9 / slide 25
-
-Slide 25 says the early marketing of Zipcar included word-of-mouth, PR and institution-specific campaigns, and was later expanded to print and online ads in new cities. ( )
-
-- True / False
-
-- Answer: True
-- Explanation: Slide 25 lists "word-of-mouth, PR, and institution-specific campaigns" as the initial marketing and says the company "expanded marketing to print and online ads in new cities".
-
-### L9Q29 (Single, Intermediate)
-
-- Topic: Corporate identity and visual equity
-- Source: Lesson 9 / slide 8
-
-A startup wants a recognizable corporate identity. According to slide 8, what do consistent visual elements such as color and form establish?
-
-- A. Lower manufacturing cost, because identical colors simplify assembly
-- B. Legal protection of the company's logos against imitation
-- C. Visual equity and positive brand associations
-- D. Market stability for the company regardless of product quality
-
-- Answer: C
-- Explanation: Slide 8 says consistent visual elements, such as color and form, "establish visual equity and positive brand associations", and that corporate identity is shaped by the visual style of an organization, influencing market positioning. A and D promise results the slide does not give, and B is a legal question the slides do not raise.
-
-### L9Q30 (Single, Intermediate)
-
-- Topic: Modern design trends
-- Source: Lesson 9 / slide 5
-
-Slide 5 names two trends that continue into contemporary practice. Which pair?
-
-- A. Streamlining and aerodynamic principles borrowed from transportation design
-- B. Cross-disciplinary design and ergonomics research developed after the Second World War
-- C. A consistent design language and a user-friendly image built through rounded forms
-- D. User-centered design principles and the integration of physical and digital experiences
-
-- Answer: D
-- Explanation: Slide 5 names "user-centered design principles" that emphasize simplicity and user experience, and says the work of Jony Ive at Apple "integrates physical and digital experiences". A is the technological impact section, B the post-war developments, and C the Apple corporate identity example on slide 8.
-
-### L9Q31 (True/False, Intermediate)
-
-- Topic: Preliminary refinement models
-- Source: Lesson 9 / slide 12
-
-Slide 12 says these models enable the development team to visualize and modify concepts in three dimensions, involving industrial designers, engineers, marketing personnel and potential customers. ( )
-
-- True / False
-
-- Answer: True
-- Explanation: Slide 12 states that the models "enable the development team to visualize and modify concepts in three dimensions, involving industrial designers, engineers, marketing personnel, and potential customers", so the statement reproduces the slide.
-
-### L9Q32 (Multiple, Challenging)
-
-- Topic: Minimum viable service at Zipcar
-- Source: Lesson 9 / slide 23
-
-According to slide 23, which of the following describe how Zipcar handled its initial deployment?
-
-- A. Resource constraints prevented immediate deployment of all innovative ideas
-- B. The team launched every innovative solution concept at once to learn fastest
-- C. Steps and features were prioritized on cost and time efficiency
-- D. Sophisticated features such as RFID-based locks and wireless tracking were deferred
-
-- Answer: A,C,D
-- Explanation: Slide 23 says resource constraints "prevented immediate deployment of all innovative ideas", that steps and features were prioritized "based on cost and time efficiency", and that sophisticated features like RFID-based locks and wireless tracking were deferred while mileage data was logged manually for billing. B contradicts the same slide, which says a minimally viable service was launched to start learning and incremental improvement.
-
-### L9Q33 (Multiple, Intermediate)
-
-- Topic: Corporate identity discussion
-- Source: Lesson 9 / slide 17 and slide 8
-
-Slide 17 asks which firms have a strong corporate identity and which aspects of their products helped to develop that identity. Which answers fit that task?
-
-- A. A verdict that the products look attractive
-- B. The specific design features that make each firm's identity recognizable
-- C. How consistent color and form support the identity
-- D. The advertising budget each firm spends each year
-
-- Answer: B,C
-- Explanation: Slide 17 asks which aspects of their products helped to develop the identity, and slide 8 says consistent visual elements, such as color and form, establish visual equity and positive brand associations, so B and C answer the task. A stops at attractiveness instead of naming an aspect of the products, and D is a budget comparison that neither slide raises.
-
-### L9Q34 (Multiple, Challenging)
-
-- Topic: Industrial design resourcing and vendor coordination
-- Source: Lesson 9 / slide 9 and slide 14
-
-According to slides 9 and 14, which statements about industrial design are correct?
-
-- A. Small companies use consulting firms, while large companies have internal ID departments
-- B. Consulting firms only provide styling, and detailed engineering design stays with the client
-- C. Industrial designers hand over the control drawings to engineering and then leave the project
-- D. Some consulting firms offer comprehensive services, including detailed engineering design and vendor management
-
-- Answer: A,D
-- Explanation: Slide 9 says large companies have internal ID departments while small companies use consulting firms, and slide 14 says some consulting firms offer comprehensive services, including detailed engineering design and vendor management. B understates what slide 14 offers, and C contradicts the collaboration with engineering, manufacturing and external vendors that slide 14 requires.
-
-### L9Q35 (Multiple, Intermediate)
-
-- Topic: Service process flow diagram and the group exercise
-- Source: Lesson 9 / slide 24 and slide 27
-
-A team is preparing the group discussion by studying the Zipcar case. Which of the following match slides 24 and 27?
-
-- A. Slide 24 organises the service process flow into customer acquisition and relationship management, transaction, and physical system layers
-- B. In the transaction layer on slide 24, customers search for a car, reserve it, use it, return it, and are then billed
-- C. The physical system layer on slide 24 covers activities such as buying vehicles, installing technology and cleaning vehicles
-- D. Slide 27 asks the group to identify the firms with the strongest corporate identity and the aspects of their products that built it
-
-- Answer: A,B,C
-- Explanation: Slide 24 draws the Zipcar flow in three layers - customer acquisition and relationship management, transaction and physical system - with the vehicle database linking the vehicle activities; the transaction row runs from online vehicle search through reservation, use and return to billing, while the physical system row covers parking, vehicle purchase, technology installation, cleaning and servicing. Slide 27 asks the group to "define the service process flow for a service of interest to you" and lists coffee shops, new computers, hotels and graduate school applications among the suggestions, so D gives the task of slide 17 instead.
+- Explanation: Slide 20 states that "market response is critically dependent on the product concept" and that "product concept choice impacts manufacturing costs", and slide 5 shows concept selection in the flow between concept generation and concept testing. Slide 20 also lists a reduced time to product introduction through improved communication and fewer false starts among the benefits, which is why the choice has to be made early.

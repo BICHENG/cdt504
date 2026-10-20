@@ -3,6 +3,20 @@ Each named knowledge point in the bilingual guide is located on a slide of the
 courseware, then matched to the questions that cover it.
 
 
+## Summary
+
+| lesson | knowledge points | covered | questions | slides with no question |
+|---|---|---|---|---|
+| 1 | 17 | 17 | 35 | none |
+| 2 | 12 | 12 | 35 | none |
+| 3 | 18 | 18 | 35 | none |
+| 4 | 18 | 18 | 35 | none |
+| 5 | 18 | 18 | 35 | none |
+| 6 | 11 | 11 | 35 | 13, 15 |
+| 7 | 12 | 12 | 35 | 22 |
+
+Slides listed in the last column carry no fact of their own (section dividers, closing pages), so no question may cite them.
+
 ## Lesson 1
 
 | knowledge point | slide | questions | n |
@@ -82,7 +96,7 @@ courseware, then matched to the questions that cover it.
 | Translation example. | 18 | L4Q20, L4Q22, L4Q23, L4Q24 | 4 |
 | Preserve evidence. | 17 | L4Q20, L4Q21 | 2 |
 | Build a hierarchy. | 20 | L4Q25, L4Q26, L4Q27 | 3 |
-| Thermostat hierarchy. | 21 | L4Q23, L4Q27, L4Q28 | 3 |
+| Thermostat hierarchy. | 21 | L4Q27, L4Q28 | 2 |
 | Assess importance. | 22 | L4Q28, L4Q29, L4Q30, L4Q31 | 4 |
 | The example five-point scale. | 22 | L4Q28, L4Q29, L4Q30, L4Q31 | 4 |
 | Reflection. | 24 | L4Q32, L4Q33 | 2 |
@@ -115,17 +129,17 @@ courseware, then matched to the questions that cover it.
 
 | knowledge point | slide | questions | n |
 |---|---|---|---|
-| Product concept. | 5 | L6Q01, L6Q02, L6Q03, L6Q04, L6Q05, L6Q29 | 6 |
-| Common dysfunctions. | 6 | L6Q05, L6Q06, L6Q07, L6Q31 | 4 |
-| Five steps. | 7 | L6Q08, L6Q09, L6Q10, L6Q11, L6Q21, L6Q23, L6Q27, L6Q35 | 8 |
-| Clarify and decompose. | 8 | L6Q12, L6Q13, L6Q14, L6Q15 | 4 |
+| Product concept. | 5 | L6Q01, L6Q02, L6Q03, L6Q04, L6Q29 | 5 |
+| Common dysfunctions. | 6 | L6Q06, L6Q07, L6Q31 | 3 |
+| Five steps. | 7 | L6Q08, L6Q09, L6Q10, L6Q11, L6Q21, L6Q23, L6Q35 | 7 |
+| Clarify and decompose. | 8 | L6Q12, L6Q13, L6Q14, L6Q15, L6Q35 | 5 |
 | External search. | 9 | L6Q15, L6Q16, L6Q17, L6Q20, L6Q30, L6Q32 | 6 |
 | Internal search. | 10 | L6Q18, L6Q19, L6Q20, L6Q25, L6Q26, L6Q33 | 6 |
 | Concept fragments. | 11 | L6Q21, L6Q22, L6Q34 | 3 |
-| Classification tree. | 12 | L6Q23, L6Q27 | 2 |
+| Classification tree. | 12 | L6Q23 | 1 |
 | Combination table. | 11 | L6Q21, L6Q22, L6Q34 | 3 |
-| Exploration is iterative. | 14 | L6Q24, L6Q27 | 2 |
-| Reflection and practice. | 16 | L6Q28, L6Q35 | 2 |
+| Exploration is iterative. | 14 | L6Q05, L6Q24, L6Q27 | 3 |
+| Reflection and practice. | 16 | L6Q28 | 1 |
 
 ## Lesson 7
 
@@ -143,61 +157,3 @@ courseware, then matched to the questions that cover it.
 | Reflect on the decision. | 18 | L7Q28, L7Q29, L7Q30 | 3 |
 | Benefits and limits. | 20 | L7Q34, L7Q35 | 2 |
 | Practice. | 18 | L7Q28, L7Q29, L7Q30 | 3 |
-
-## Lesson 8
-
-| knowledge point | slide | questions | n |
-|---|---|---|---|
-| Purpose. | 4 | L8Q01, L8Q02, L8Q04, L8Q05, L8Q06, L8Q07 | 6 |
-| Seven steps. | 5 | L8Q03, L8Q08 | 2 |
-| Communicating a concept. | 4 | L8Q01, L8Q02, L8Q04, L8Q05, L8Q06, L8Q07 | 6 |
-| Links to other activities. | 4 | L8Q01, L8Q02, L8Q04, L8Q05, L8Q06, L8Q07 | 6 |
-| When testing is proportionate. | 4 | L8Q01, L8Q02, L8Q04, L8Q05, L8Q06, L8Q07 | 6 |
-| Revision distinction. | 4 | L8Q01, L8Q02, L8Q04, L8Q05, L8Q06, L8Q07 | 6 |
-| Function and physical elements. | 7 | L8Q09, L8Q10, L8Q11 | 3 |
-| Modular architecture. | 7 | L8Q09, L8Q10, L8Q11 | 3 |
-| Three modular types. | 8 | L8Q12, L8Q13 | 2 |
-| When architecture is defined. | 9 | L8Q14, L8Q15 | 2 |
-| Effects on product change. | 10 | L8Q16, L8Q17 | 2 |
-| Variety, performance and manufacturing. | 11 | L8Q18 | 1 |
-| Four steps. | 15 | L8Q21 | 1 |
-| Schematic. | 16 | L8Q22 | 1 |
-| Clustering and layout. | 16 | L8Q22 | 1 |
-| Two kinds of interaction. | 18 | L8Q24, L8Q25 | 2 |
-| Coordination tools. | 14 | L8Q20, L8Q26 | 2 |
-| Service architecture. | 14 | L8Q20, L8Q26 | 2 |
-| Intellectual property. | 19 | L8Q27 | 1 |
-| Copyright. | 21 | L8Q29, L8Q30, L8Q31, L8Q34 | 4 |
-| Patent. | 21 | L8Q29, L8Q30, L8Q31, L8Q34 | 4 |
-| Trademark and trade secret. | 21 | L8Q29, L8Q30, L8Q31, L8Q34 | 4 |
-| Designs and geographical indications. | 23 | L8Q32 | 1 |
-| Case questions. | 22 | L8Q31, L8Q35 | 2 |
-
-## Lesson 9
-
-| knowledge point | slide | questions | n |
-|---|---|---|---|
-| Industrial design. | 5 | L9Q01, L9Q02, L9Q03, L9Q30 | 4 |
-| Historical ideas. | 5 | L9Q01, L9Q02, L9Q03, L9Q30 | 4 |
-| Rams and contemporary practice. | 5 | L9Q01, L9Q02, L9Q03, L9Q30 | 4 |
-| Assessing importance. | 6 | L9Q04, L9Q05, L9Q06 | 3 |
-| Benefits and costs. | 7 | L9Q07, L9Q08 | 2 |
-| Corporate identity. | 8 | L9Q29, L9Q33 | 2 |
-| Process. | 9 | L9Q09, L9Q34 | 2 |
-| Needs and concept work. | 11 | L9Q13 | 1 |
-| Model progression. | 13 | L9Q11 | 1 |
-| Technology-driven versus user-driven products. | 11 | L9Q13 | 1 |
-| Toothbrush case. | 11 | L9Q13 | 1 |
-| Practice. | 13 | L9Q11 | 1 |
-| Products, services and PSS. | 19 | L9Q17 | 1 |
-| Distinctive service concerns. | 20 | L9Q18, L9Q19 | 2 |
-| Service concepts and storyboards. | 22 | L9Q22 | 1 |
-| Decompose the journey. | 22 | L9Q22 | 1 |
-| Minimum viable service. | 23 | L9Q32 | 1 |
-| Three process layers. | 22 | L9Q22 | 1 |
-| Refine the flow. | 25 | L9Q23, L9Q24, L9Q28 | 3 |
-| Local versus shared infrastructure. | 25 | L9Q23, L9Q24, L9Q28 | 3 |
-| Learning from customers and employees. | 26 | L9Q25, L9Q26, L9Q27 | 3 |
-| Pricing and technology. | 26 | L9Q25, L9Q26, L9Q27 | 3 |
-| Acquisition and capacity. | 26 | L9Q25, L9Q26, L9Q27 | 3 |
-| Practice. | 26 | L9Q25, L9Q26, L9Q27 | 3 |

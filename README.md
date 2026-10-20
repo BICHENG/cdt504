@@ -5,8 +5,10 @@ Open <https://bicheng.github.io/cdt504/> to run the self-test in the browser.
 ## What is here
 
 - `index.html` - the self-contained test page (no network needed after load).
-- `CDT504_Exam_Bank.md` - all 315 questions with answers, explanations and source slides.
-- `COVERAGE.md` - knowledge point coverage: every named point in the bilingual guide, the slide it comes from, and the questions that cover it.
+- `GLOSSARY.md` - glossary: every courseware term in English and Chinese, with the slide it comes from, plus English -> Chinese and Chinese -> English quick indexes.
+- `CONCEPTS.md` - concept table: every named exam point of Lessons 1-7 in English and Chinese, with its source slide and the questions that cover it.
+- `CDT504_Exam_Bank.md` - all 245 questions with answers, explanations and source slides.
+- `COVERAGE.md` - knowledge point coverage check: the same mapping in table form.
 
 ## Test modes
 
@@ -15,4 +17,5 @@ Open <https://bicheng.github.io/cdt504/> to run the self-test in the browser.
 - **Random draw** - 35 questions drawn at random, timed, same instant feedback.
 - **Exam** - everything, timed, answers stay hidden until you submit.
 
+Scope: Lessons 1-7, 35 questions each, 245 in total - the range of the class quiz.
 Every question cites the courseware slide it comes from. The only source is `lectures/CDT504` in the course archive; terminology follows the slides.
