@@ -119,7 +119,7 @@ The courseware states that the journey from discovery to market for new innovati
 - True / False
 
 - Answer: True
-- Explanation: Slide 10 states "On average, the journey from discovery to market takes 12 years, however, in newer areas of medicine, like gene therapy, it can take up to 30 years."
+- Explanation: Slide 10 states "On average, the journey from discovery to market takes 12 years, however, in newer areas of medicine, like gene therapy, it can take up to 30 years." The statement repeats this, so the answer is True.
 
 ### L1Q08 (Single, Basic)
 
@@ -255,7 +255,7 @@ The activities of the front-end process must proceed in a purely sequential fash
 - Topic: Output of identifying customer needs
 - Source: Lesson 1 / slide 17
 
-The goal of identifying customer needs is to understand customers' needs and to effectively communicate them to the development team. After interviewing 20 users a colleague says the needs are collected; according to slide 17, what else must this activity deliver?
+The goal of identifying customer needs is to understand customers' needs and to effectively communicate them to the development team. After interviewing 20 users a colleague says the needs are collected; what else must this activity deliver?
 
 - A. A set of carefully constructed customer need statements, organized in a hierarchical list, with importance weightings for many or all of the need
 - B. Twenty interview recordings kept for later retrieval
@@ -270,7 +270,7 @@ The goal of identifying customer needs is to understand customers' needs and to 
 - Topic: What establishing target specifications does
 - Source: Lesson 1 / slide 18
 
-A product manager wants to turn the customer statement "the battery must last long" into something the team can work with. According to slide 18, what does establish target specifications actually do?
+A product manager wants to turn the customer statement "the battery must last long" into something the team can work with. What does establishing target specifications actually do?
 
 - A. Copies the customer needs into specification items without any technical translation
 - B. Translates the customer needs into technical terms that precisely describe what the product has to do, with the targets set early in the process and later refined for the constraints of the chosen product concept
@@ -315,7 +315,7 @@ Which description matches the courseware's account of concept selection?
 - Topic: Concept testing and its consequences
 - Source: Lesson 1 / slide 21
 
-Concept testing comes back with a poor customer response. According to slide 21, what can the team do?
+Concept testing comes back with a poor customer response. What can the team do?
 
 - A. The development project may be terminated, or some earlier activities may be repeated as necessary
 - B. The team must go straight to detail design, because the problem lies in the details
@@ -330,7 +330,7 @@ Concept testing comes back with a poor customer response. According to slide 21,
 - Topic: Setting final specifications
 - Source: Lesson 1 / slide 22
 
-A concept has been selected and tested. According to slide 22, what must the team do with the target specifications at this point?
+A concept has been selected and tested. What must the team do with the target specifications at this point?
 
 - A. Leave them unchanged, because they were set early in the process
 - B. Replace them with a new set of customer need statements
@@ -375,7 +375,7 @@ A project is about to start and management asks for the economic justification. 
 - Topic: Competitive benchmarking
 - Source: Lesson 1 / slide 25
 
-Before setting target specifications, the team wants to understand competing products. According to slide 25, what is the role of competitive benchmarking?
+Before setting target specifications, the team wants to understand competing products. What is the role of competitive benchmarking?
 
 - A. It is used only after the launch, to evaluate sales performance
 - B. It is done by the finance function alone, to work out the profit
@@ -405,7 +405,7 @@ A team must choose the right kind of model for two jobs: showing customers how t
 - Topic: Technology-push product development
 - Source: Lesson 1 / slide 27
 
-A company first develops a new battery technology and only then looks for the market it can serve. According to slide 27, which kind of process is this?
+A company first develops a new battery technology and only then looks for the market it can serve. Which kind of product development process is this?
 
 - A. Technology-push product development
 - B. Market-pull product development
@@ -420,7 +420,7 @@ A company first develops a new battery technology and only then looks for the ma
 - Topic: Platform products
 - Source: Lesson 1 / slide 27
 
-A company builds a new model around an existing technological subsystem. According to the variants on slide 27, what kind of process is this and what does concept development assume?
+A company builds a new model around an existing technological subsystem. Among the variants of the generic product development process, what kind of process is this and what does concept development assume?
 
 - A. Process-intensive products, where the characteristics of the product are highly constrained by the production process
 - B. Platform products, where concept development assumes a proven technology platform
@@ -450,7 +450,7 @@ Which of the following are listed as variants of the generic product development
 - Topic: Choosing the product development process flow diagram
 - Source: Lesson 1 / slide 28
 
-A team needs the product development process flow diagram that shows a repeated design-build-test cycle with a review at every cycle. According to slide 28, which product development process, and which gates, fit?
+A team needs the product development process flow diagram that shows a repeated design-build-test cycle with a review at every cycle. Which product development process, and which gates, fit?
 
 - A. The generic product development process, with the gates Mission Approval, Concept Review, Preliminary Design Review, Critical Design Review, Production Approval and Project Review
 - B. The complex system development process, where several design-test branches run in parallel before integration and test
@@ -515,7 +515,7 @@ The reasons for using product development team members located at multiple sites
 - True / False
 
 - Answer: False
-- Explanation: Slide 32 lists access to information about regional markets as the first of its reasons, together with availability of technical expertise, location of manufacturing facilities and suppliers, cost saving through lower wages, and outsourcing to increase product development capacity, so the statement denies a reason that is actually given.
+- Explanation: Slide 32 lists access to information about regional markets as the first of its reasons, together with availability of technical expertise, location of manufacturing facilities and suppliers, cost saving through lower wages, and outsourcing to increase product development capacity. The statement denies the first of those reasons, so the answer is False.
 
 ### L1Q35 (True/False, Intermediate)
 
@@ -1098,7 +1098,7 @@ The four questions a product manager should care about cover which product devel
 - Topic: Extended questions for the mission statement
 - Source: Lesson 3 / slide 6
 
-According to slide 6, which of the following is one of the extended questions whose answers should be included in a mission statement for the team?
+Which of the following is one of the extended questions whose answers should be included in a mission statement for the team?
 
 - A. Which members of the development staff should sign up for the new project
 - B. What the financial targets for the project are
@@ -1143,7 +1143,7 @@ What is a new product platform project?
 - Topic: Starbucks mobile app: key features and the benefits behind them
 - Source: Lesson 3 / slide 9
 
-Slide 9 describes the Starbucks mobile app introduced in 2009. Which statement about its key features and the benefits behind them is correct?
+The course describes the Starbucks mobile app introduced in 2009. Which statement about its key features and the benefits behind them is correct?
 
 - A. The key features are Mobile Ordering, Mobile Payment and a Rewards Program, and the benefit they deliver is a consistent 5-star customer review
 - B. The key features are Mobile Ordering, Mobile Payment and membership card linking, and the benefit they deliver is reducing in-store waiting times
@@ -1173,7 +1173,7 @@ About derivatives of existing product platforms, which of the following statemen
 - Topic: Incremental improvements to existing products
 - Source: Lesson 3 / slide 11
 
-According to slide 11, modifications such as colour changes or a larger capacity battery are often released to the market...
+Incremental improvements such as colour changes or a larger capacity battery are often released to the market...
 
 - A. Without introducing a new product name and changing only the model number
 - B. Under a new product name, so that customers can see the upgrade at a glance
@@ -1188,7 +1188,7 @@ According to slide 11, modifications such as colour changes or a larger capacity
 - Topic: Fundamentally new product
 - Source: Lesson 3 / slide 12
 
-In the Dyson example on slide 12, what did the firm, known for its innovation in vacuum technology, apply that expertise to?
+In the Dyson example in this course, what did the firm, known for its innovation in vacuum technology, apply that expertise to?
 
 - A. Re-tooling its existing production lines so that the current vacuum range could be made in larger batches
 - B. Extending an existing platform with a new feature for a familiar adjacent market
@@ -1215,7 +1215,7 @@ The product plan should be modified based on the latest information from develop
 - Topic: The five-step product planning process
 - Source: Lesson 3 / slide 14
 
-Which of the following are steps of the five-step product planning process set out on slide 14?
+Which of the following are steps of the five-step product planning process set out in this course?
 
 - A. Identify opportunities
 - B. Allocate resources and plan timing
@@ -1260,7 +1260,7 @@ A firm is choosing between two opportunities for new products in existing produc
 - Topic: Competitive strategy
 - Source: Lesson 3 / slide 17
 
-Which of the following correctly describe the competitive strategies set out on slide 17?
+Which of the following correctly describe the competitive strategies set out in this course?
 
 - A. Technology leadership: the firm emphasizes basic research and the development of new technologies, and their deployment through product development
 - B. Cost leadership: the firm competes on production efficiency through economies of scale, superior manufacturing methods, low-cost labor or better management of the production system
@@ -1320,7 +1320,7 @@ In the SharkNinja Cordless Vacuum Project technology roadmap, which value in the
 - Topic: Evaluating fundamentally new product opportunities
 - Source: Lesson 3 / slide 20
 
-According to slide 20, which of the following are criteria for evaluating fundamentally new product opportunities?
+Which of the following are criteria for evaluating fundamentally new product opportunities?
 
 - A. Market size (units/year x average price)
 - B. The sales target for the first year after launch
@@ -1419,7 +1419,7 @@ Determining the timing and sequence of projects, sometimes called pipeline manag
 - Topic: Timing of product introductions
 - Source: Lesson 3 / slide 24
 
-A manufacturer plans to launch a new product before the quality is adequate. According to slide 24, what is the most direct consequence?
+A manufacturer plans to launch a new product before the quality is adequate. What is the most direct consequence?
 
 - A. Early adopters buy the low-end product and may later trade up to the high-end product
 - B. The reputation of the brand can be seriously damaged
@@ -1434,7 +1434,7 @@ A manufacturer plans to launch a new product before the quality is adequate. Acc
 - Topic: Mission statement in pre-project planning
 - Source: Lesson 3 / slide 25
 
-According to slide 25, for each project that has been approved, when and by whom is the mission statement produced?
+For each project that has been approved, when and by whom is the mission statement produced?
 
 - A. By a small cross-functional core team during pre-project planning, before substantial resources are applied
 - B. By senior managers alone, before the project is formally approved
@@ -1449,7 +1449,7 @@ According to slide 25, for each project that has been approved, when and by whom
 - Topic: Elements of the mission statement
 - Source: Lesson 3 / slide 25
 
-According to slide 25, which of the following are elements of the mission statement?
+Which of the following are elements of the mission statement for a new product development project?
 
 - A. Brief (one-sentence) description of the product
 - B. Benefit proposition
@@ -1494,7 +1494,7 @@ In the SharkNinja mission statement illustration, which entry belongs under Assu
 - Topic: Assumptions and constraints
 - Source: Lesson 3 / slide 27
 
-A firm adopts a corporate policy of environmentally responsible design even though customers never ask for low environmental impact. According to slide 27, why should manufacturing, service or environmental strategies be part of the mission statement for a new product?
+A firm adopts a corporate policy of environmentally responsible design even though customers never ask for low environmental impact. Why should manufacturing, service or environmental strategies be part of the mission statement for a new product?
 
 - A. Because the customer needs analysis will never mention these issues, so they must be settled by the marketing department before design starts
 - B. Because every product development project must be funded from the technology development budget
@@ -1551,7 +1551,7 @@ The reflection step asks whether the assumptions listed in the mission statement
 - Topic: In-class exercise
 - Source: Lesson 3 / slide 30
 
-What does the in-class exercise on slide 30 ask students to do?
+What does the in-class exercise in the product planning and strategy lesson ask students to do?
 
 - A. Design a new product, draw its technology roadmap and give a project budget
 - B. Identify the corporate strategy of a company through the Internet or published corporate annual reports, learn about its product lines and newest products and how they support that strategy, and say what types of projects would be expected in its product plan
@@ -1587,7 +1587,7 @@ The method presented in this lesson is built around the example of creating a be
 - Topic: Goals of the identification method
 - Source: Lesson 4 / slide 4
 
-According to the goals of the method listed on slide 4, which of the following are goals of that method?
+The method presented in this lesson for comprehensively identifying a set of customer needs has a stated set of goals. Which of the following are goals of that method?
 
 - A. Ensure that the product is focused on customer needs
 - B. Identify latent or hidden needs as well as explicit needs
@@ -1602,7 +1602,7 @@ According to the goals of the method listed on slide 4, which of the following a
 - Topic: Customer needs activity in the concept development process
 - Source: Lesson 4 / slide 5 and slide 8
 
-Slide 5 shows the customer-needs activity in relation to the other concept development activities, and slide 8 sets out the five steps of the method. Which of the following is true of that activity?
+The concept development process includes a customer-needs activity, and the method for identifying customer needs is organised into five steps. Which of the following is true of that activity?
 
 - A. It comes after the product concepts have been generated and tested, and it ends by selecting the product concept
 - B. It comes after the final specifications have been set, and it begins by benchmarking competitive products
@@ -1617,7 +1617,7 @@ Slide 5 shows the customer-needs activity in relation to the other concept devel
 - Topic: Latent needs
 - Source: Lesson 4 / slide 6
 
-According to slide 6, which statement correctly describes latent needs?
+Which statement correctly describes latent needs?
 
 - A. Needs that are not yet widely recognized by most customers and are not yet addressed by existing products, which do exist and, if fulfilled, would result in greater customer satisfaction
 - B. Needs that customers can state directly and that existing products already address
@@ -1632,7 +1632,7 @@ According to slide 6, which statement correctly describes latent needs?
 - Topic: Nest Learning Thermostat case
 - Source: Lesson 4 / slide 7
 
-Slide 7 states that the Nest Learning Thermostat was the last product Tony Fadell created at Apple before leaving the company, and that Nest Labs was acquired by Google for $3.2 billion three years after its formation. ( )
+The Nest Learning Thermostat was the last product Tony Fadell created at Apple before leaving the company, and Nest Labs was acquired by Google for $3.2 billion three years after its formation. ( )
 
 - True / False
 
@@ -1659,7 +1659,7 @@ The five-step method for identifying customer needs lists its steps in order. Wh
 - Topic: Focus groups
 - Source: Lesson 4 / slide 9
 
-According to slide 9, how is a focus group conducted?
+Focus groups are one of the three modes for gathering raw data from customers. How is a focus group conducted?
 
 - A. One or more development team members discuss needs with a single customer at a time, usually in the customer's environment
 - B. A moderator facilitates a two-hour discussion with a group of 8 to 12 customers, typically in a special room equipped with a transparent mirror that allows several development team members to observe the group
@@ -1674,7 +1674,7 @@ According to slide 9, how is a focus group conducted?
 - Topic: Interviews
 - Source: Lesson 4 / slide 9
 
-According to slide 9, which statement correctly describes an interview as a way of gathering raw data from customers?
+Which statement correctly describes an interview as one of the three modes for gathering raw data from customers?
 
 - A. One or more development team members discuss needs with a single customer at a time, usually conducted in the customer's environment, and typically last one to two hours
 - B. One or more development team members discuss needs with a group of 8 to 12 customers at once, over two hours
@@ -1689,7 +1689,7 @@ According to slide 9, which statement correctly describes an interview as a way 
 - Topic: Observing the product in use
 - Source: Lesson 4 / slide 10
 
-A development team watches a consumer replace an existing thermostat. According to slide 10, what kind of detail can such an observation reveal?
+A development team watches a consumer replace an existing thermostat. What kind of detail can such an observation reveal?
 
 - A. The price the customer is willing to pay for a new thermostat
 - B. The number of degrees the customer wants to change the setting by each day
@@ -1704,7 +1704,7 @@ A development team watches a consumer replace an existing thermostat. According 
 - Topic: Ways of observing the product in use
 - Source: Lesson 4 / slide 10
 
-Slide 10 describes how a team may observe the product in use. Which of the following are ways of observing described on the slide?
+Which of the following are ways of observing the product in use when a team gathers raw data from customers?
 
 - A. Completely passive, without any direct interaction with the customer
 - B. Working side by side with a customer, so that team members develop firsthand experience using the product
@@ -1719,7 +1719,7 @@ Slide 10 describes how a team may observe the product in use. Which of the follo
 - Topic: Interviewee selection
 - Source: Lesson 4 / slide 11
 
-For a product where one customer, the purchaser, makes the buying decision and another customer, the user, actually uses the product, what does slide 11 recommend?
+For a product where one customer, the purchaser, makes the buying decision and another customer, the user, actually uses the product, what does the lesson recommend about whom to gather data from?
 
 - A. Interview only the purchaser, because the purchaser makes the buying decision
 - B. Interview only the user, because the needs come from actual use
@@ -1734,7 +1734,7 @@ For a product where one customer, the purchaser, makes the buying decision and a
 - Topic: Lead users
 - Source: Lesson 4 / slide 12
 
-Slide 12 says that lead users are particularly useful sources of data for two reasons. Which of the following is one of them?
+Lead users are particularly useful sources of data for two reasons. Which of the following is one of them?
 
 - A. They are the largest group in the market, so their answers represent the whole market
 - B. They have no contact with existing products, so their opinions are unbiased
@@ -1749,7 +1749,7 @@ Slide 12 says that lead users are particularly useful sources of data for two re
 - Topic: Lead users and extreme users
 - Source: Lesson 4 / slide 12 and slide 13
 
-Slides 12 and 13 describe two groups of customers that help the team identify needs. Which of the following statements about them are correct?
+Two groups of customers help the team identify needs efficiently: lead users and extreme users. Which of the following statements about them are correct?
 
 - A. Lead users experience needs months or years ahead of the majority of the market, and stand to benefit substantially from product innovations
 - B. Extreme users are those who use the product in unusual ways or who have special needs
@@ -1757,14 +1757,14 @@ Slides 12 and 13 describe two groups of customers that help the team identify ne
 - D. Extreme users can reveal needs that the mainstream market feels less acutely, but which are nevertheless important opportunities for competitive advantage
 
 - Answer: A,B,D
-- Explanation: Slide 12 defines lead users as customers who experience needs months or years ahead of the majority of the market and stand to benefit substantially from product innovations, and slide 13 defines extreme users as those who use the product in unusual ways or who have special needs. Slide 13 adds that extreme users can expose needs the mainstream market feels less acutely but that still matter competitively. C is wrong: needs that are explicit for lead users are still latent for the majority of the market.
+- Explanation: Slide 12 defines lead users as customers who experience needs months or years ahead of the majority of the market and stand to benefit substantially from product innovations; slide 13 defines extreme users as those who use the product in unusual ways or who have special needs. Slide 13 adds that extreme users can expose needs the mainstream market feels less acutely but that still matter competitively. C is wrong: needs explicit for lead users are still latent for the majority of the market.
 
 ### L4Q14 (Multiple, Intermediate)
 
 - Topic: Extreme users
 - Source: Lesson 4 / slide 13
 
-According to slide 13, which of the following are examples of extreme users of the thermostat?
+Which of the following are examples of extreme users of the thermostat?
 
 - A. Customers who use the product in the most ordinary way, so that they represent the mainstream market
 - B. People who have limited vision or dexterity
@@ -1779,7 +1779,7 @@ According to slide 13, which of the following are examples of extreme users of t
 - Topic: Interview prompts
 - Source: Lesson 4 / slide 14
 
-The techniques presented for eliciting customer needs data are aimed primarily at interviewing end users. What does slide 14 add about their reach?
+The techniques presented for eliciting customer needs data are aimed primarily at interviewing end users. What does the lesson add about the reach of these techniques?
 
 - A. They apply to all of the three data-gathering modes and to all types of stakeholders
 - B. They can only be used in focus groups
@@ -1794,7 +1794,7 @@ The techniques presented for eliciting customer needs data are aimed primarily a
 - Topic: Interview prompts
 - Source: Lesson 4 / slide 14
 
-Which of the following is one of the helpful questions and prompts that slide 14 recommends for use after the interviewers introduce themselves and explain the purpose of the interview?
+Which of the following is one of the helpful questions and prompts that the lesson recommends for use after the interviewers introduce themselves and explain the purpose of the interview?
 
 - A. "If we replaced the knob with a touch panel, would that be more convenient for you?"
 - B. "What price do you think our product should be sold for?"
@@ -1809,7 +1809,7 @@ Which of the following is one of the helpful questions and prompts that slide 14
 - Topic: Effective interaction with customers
 - Source: Lesson 4 / slide 15
 
-Under "Effective Interaction with Customers", which of the following does slide 15 recommend?
+Under "Effective Interaction with Customers", which of the following does the lesson recommend?
 
 - A. Adaptability: prioritize gathering useful information over strictly following the interview guide
 - B. Use visual aids: bring existing and competitor products to stimulate discussion and get early reactions to new concepts
@@ -1824,7 +1824,7 @@ Under "Effective Interaction with Customers", which of the following does slide 
 - Topic: Engagement techniques
 - Source: Lesson 4 / slide 15
 
-Half way through an interview a customer mentions something you had not anticipated, and the customer clearly cares about it. According to the Engagement Techniques on slide 15, what should the team do?
+Half way through an interview a customer mentions something you had not anticipated, and the customer clearly cares about it. According to the Engagement Techniques, what should the team do?
 
 - A. Move on, so that the interview stays within the planned time
 - B. Follow the unexpected comment, to uncover latent needs
@@ -1839,7 +1839,7 @@ Half way through an interview a customer mentions something you had not anticipa
 - Topic: Documenting interactions with customers
 - Source: Lesson 4 / slide 16
 
-Which of the following descriptions of ways to document interactions with customers agree with slide 16?
+Which of the following descriptions of ways to document interactions with customers are accurate?
 
 - A. Audio recording is easy to make, but time-consuming and costly to transcribe, and it can intimidate customers
 - B. Still photography provides dynamic information about the product in use
@@ -1854,7 +1854,7 @@ Which of the following descriptions of ways to document interactions with custom
 - Topic: Customer data template
 - Source: Lesson 4 / slide 17 and slide 18
 
-The customer data template on slide 17 keeps the customer statement next to the interpreted need. According to slide 18, why does the translation process need this record?
+The customer data template keeps the customer statement next to the interpreted need. Why does the translation process need this record?
 
 - A. Customer needs stem from interpreting raw data and can vary among analysts, so multiple team members are used for the translation process to ensure accuracy
 - B. The interpreted need is the only record the development process keeps, and the customer statement may be discarded
@@ -1881,7 +1881,7 @@ The customer data template lists the complete set of customer statements and int
 - Topic: Customer needs translation process
 - Source: Lesson 4 / slide 18
 
-Slide 18 states that customer needs stem from interpreting raw data and can vary among analysts, and that the translation should therefore involve multiple team members to ensure accuracy. ( )
+Customer needs stem from interpreting raw data and can vary among analysts, and the translation should therefore involve multiple team members to ensure accuracy. ( )
 
 - True / False
 
@@ -1893,7 +1893,7 @@ Slide 18 states that customer needs stem from interpreting raw data and can vary
 - Topic: What not how in needs statements
 - Source: Lesson 4 / slide 18 and slide 19
 
-A customer says, "I would like my iPhone to adjust my thermostat." Which needs statement follows the guideline on slide 18 to express what the product should do, not how it should do it?
+A customer says, "I would like my iPhone to adjust my thermostat." Which needs statement follows the guideline for writing needs statements that expresses what the product should do, not how it should do it?
 
 - A. The thermostat is accompanied by a downloadable iPhone app.
 - B. The thermostat can be controlled remotely without requiring a special device.
@@ -1908,7 +1908,7 @@ A customer says, "I would like my iPhone to adjust my thermostat." Which needs s
 - Topic: Guidelines for writing needs statements
 - Source: Lesson 4 / slide 18 and slide 19
 
-Slide 18 lists the guidelines for writing needs statements, and slide 19 pairs each guideline with a customer statement, a right needs statement and a wrong needs statement. Which of the following guidelines are among those on slide 18?
+The course gives a set of guidelines for writing needs statements, and pairs each guideline with a customer statement, a right needs statement and a wrong needs statement. Which of the following guidelines are among them?
 
 - A. Express needs in terms of what the product should do, not how it should do it
 - B. Maintain the same level of detail as the raw data
@@ -1923,7 +1923,7 @@ Slide 18 lists the guidelines for writing needs statements, and slide 19 pairs e
 - Topic: Step 3 organizing the needs into a hierarchy
 - Source: Lesson 4 / slide 20
 
-Steps 1 and 2 of the needs process yield a large list of needs that is difficult to summarize. According to slide 20, what does Step 3 produce?
+Steps 1 and 2 of the needs process yield a large list of needs that is difficult to summarize. What does Step 3 of the five-step method produce?
 
 - A. A document that reclassifies the needs by the technical modules the development team owns
 - B. A hierarchical list of primary, secondary, and possibly tertiary needs
@@ -1938,7 +1938,7 @@ Steps 1 and 2 of the needs process yield a large list of needs that is difficult
 - Topic: Procedure for organizing needs
 - Source: Lesson 4 / slide 20
 
-Which of the following are steps in the procedure for organizing needs on slide 20?
+Which of the following are steps in the procedure for organizing needs into a hierarchy?
 
 - A. Write each needs statement on a separate card
 - B. Group the cards by the technical module of the development team that will own each one
@@ -1953,7 +1953,7 @@ Which of the following are steps in the procedure for organizing needs on slide 
 - Topic: Primary and secondary needs
 - Source: Lesson 4 / slide 20 and slide 21
 
-Slide 21 shows a hierarchical list of primary and secondary customer needs for the thermostat, and slide 20 explains the structure of such a list. According to the slide, which of the following is a primary need?
+In the hierarchical list of primary and secondary customer needs for the thermostat, each primary need heads a group of more detailed secondary needs. Which of the following is a primary need?
 
 - A. The thermostat is smart
 - B. The thermostat saves energy
@@ -1968,7 +1968,7 @@ Slide 21 shows a hierarchical list of primary and secondary customer needs for t
 - Topic: Importance ratings and latent needs in the hierarchy
 - Source: Lesson 4 / slide 21 and slide 22
 
-Which of the following statements about the markings in the hierarchical list on slide 21 are correct?
+The hierarchical list of customer needs uses a special notation to show how important each need is and which needs are still latent. Which of the following statements about the markings are correct?
 
 - A. An exclamation mark denotes a need that the product should not have
 - B. The number of asterisks indicates the importance rating, with *** denoting critically important needs
@@ -1983,7 +1983,7 @@ Which of the following statements about the markings in the hierarchical list on
 - Topic: Approaches to assessing needs
 - Source: Lesson 4 / slide 22
 
-Slide 22 gives two main methods for assessing the relative importance of needs. Which pair are they?
+Which pair of methods does the course give for assessing the relative importance of customer needs?
 
 - A. Customer interviews and customer focus groups
 - B. Observation and documentation of customer data
@@ -1998,7 +1998,7 @@ Slide 22 gives two main methods for assessing the relative importance of needs. 
 - Topic: Establishing the relative importance of needs
 - Source: Lesson 4 / slide 22
 
-A team has finished the hierarchical list of needs but has not yet decided which needs to develop first. According to slide 22, what is the right next step?
+A team has finished the hierarchical list of needs but has not yet decided which needs to develop first. What is the right next step?
 
 - A. Take the first needs statements in the order they were written and develop those
 - B. Score every secondary need in the hierarchy from 1 to 5
@@ -2013,7 +2013,7 @@ A team has finished the hierarchical list of needs but has not yet decided which
 - Topic: Conducting customer surveys
 - Source: Lesson 4 / slide 22 and slide 23
 
-Slide 23 shows an example importance survey. According to slide 22, what can customer surveys do?
+What can customer surveys do when the relative importance of identified needs is being assessed?
 
 - A. Establish the final specifications of the product
 - B. Prove that the needs hierarchy is complete
@@ -2021,14 +2021,14 @@ Slide 23 shows an example importance survey. According to slide 22, what can cus
 - D. Identify unique or unexpected needs, aiding in discovering latent needs
 
 - Answer: D
-- Explanation: Slide 22 states that surveys can identify unique or unexpected needs, aiding in discovering latent needs, and that importance is rated on a scale of 1 to 5, with critical needs marked by asterisks and latent needs by exclamation marks. A is wrong because Step 4 assigns numerical importance to a subset of needs and does not set the specifications, B is wrong because the slide says nothing about proving the hierarchy complete, and C is wrong because surveys typically address a subset of needs rather than every need.
+- Explanation: Slide 22 states that surveys can identify unique or unexpected needs, aiding in discovering latent needs, and that importance is rated on a scale of 1 to 5, with critical needs marked by asterisks and latent needs by exclamation marks. A is wrong because Step 4 assigns numerical importance to a subset of needs and does not set specifications; B is wrong because nothing shows the hierarchy is complete; C is wrong because surveys typically address a subset of needs rather than every need.
 
 ### L4Q32 (Single, Intermediate)
 
 - Topic: Step 5 reflecting on the results and the process
 - Source: Lesson 4 / slide 24
 
-Slide 24 says the process of identifying customer needs can be usefully structured but is not an exact science. What does the slide require of the team at Step 5?
+The process of identifying customer needs can be usefully structured but is not an exact science. What does the method require of the team at Step 5?
 
 - A. Interview every customer again, so that Step 1 produces twice as much data
 - B. Keep only the needs that appear most often in the customer data
@@ -2043,7 +2043,7 @@ Slide 24 says the process of identifying customer needs can be usefully structur
 - Topic: Reflection questions at Step 5
 - Source: Lesson 4 / slide 24
 
-Among the questions slide 24 suggests asking at Step 5 is whether the team has assessed the pricing and promotional strategies of the main competing products. ( )
+Among the questions suggested for asking at Step 5 is whether the team has assessed the pricing and promotional strategies of the main competing products. ( )
 
 - True / False
 
@@ -2055,15 +2055,15 @@ Among the questions slide 24 suggests asking at Step 5 is whether the team has a
 - Topic: Human centric design objective and examples
 - Source: Lesson 4 / slides 25, 26 and 27
 
-Slide 25 sets out the objective of the human centric design approach, and slides 26 and 27 put two products forward for analysis. Which of the following statements are correct?
+The human centric design approach states an objective for the design process, and two products are put forward for analysis: a children's toothbrush that is unusually fat, and a urinal with a fly in it. Which of the following statements are correct?
 
 - A. The main objective is to create products that people want to use
 - B. The human centric design approach can improve your profits, because people are typically willing to pay more for well-designed products, services, hardware and software that are easy to use and intuitively designed
-- C. Slide 26 asks the class to analyse why children's toothbrushes are so fat
-- D. Slide 27 asks how a smart thermostat was designed to learn the temperature schedule of the home
+- C. One of the two class analyses asks why children's toothbrushes are so fat
+- D. One of the two class analyses asks how a smart thermostat was designed to learn the temperature schedule of the home
 
 - Answer: A,B,C
-- Explanation: Slide 25 states that the main objective of the human centric approach is to create products that people want to use, and that it can improve your profits because people are typically willing to pay more for well-designed products, services, hardware and software that are easy to use and intuitively designed. Slide 26 puts a children's toothbrush forward and asks why it is so fat. D is wrong: slide 27 is the urinal with a fly in it, which the slide relates to winning a Nobel Prize.
+- Explanation: Slide 25 states that the main objective of the human centric approach is to create products that people want to use, and that it can improve profits because people are typically willing to pay more for well-designed products, services, hardware and software that are easy to use and intuitively designed. Slide 26 puts a children's toothbrush forward and asks why it is so fat. D is wrong: slide 27 is the urinal with a fly in it, linked to winning a Nobel Prize.
 
 ### L4Q35 (True/False, Intermediate)
 
@@ -2075,7 +2075,7 @@ The closing activities of the lesson ask students to share their own human centr
 - True / False
 
 - Answer: True
-- Explanation: Slide 28 asks "What's your human centric design experience?" for students to share with peers, and slide 29 sets the in-class individual exercise: choose a product that continually annoys you, identify the needs the developers of this product missed, why you think these needs were not met, and whether the developers deliberately ignored these needs.
+- Explanation: Slide 28 asks "What's your human centric design experience?" for students to share with peers. Slide 29 sets the in-class individual exercise: choose a product that continually annoys you, identify the needs the developers of this product missed, why you think these needs were not met, and whether the developers deliberately ignored these needs.
 
 ---
 
@@ -2088,7 +2088,7 @@ Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Less
 - Topic: Specification and objective targets
 - Source: Lesson 5 / slide 4
 
-Slide 4 says that development teams use precise specifications to translate needs into measurable goals. According to the slide, what does a specification do?
+Development teams use precise specifications to translate customer needs into measurable goals. What does a specification do?
 
 - A. It keeps a customer's preference in the team's own subjective words
 - B. It includes metrics and values, providing clear, objective targets
@@ -2103,7 +2103,7 @@ Slide 4 says that development teams use precise specifications to translate need
 - Topic: Metric for a subjective need
 - Source: Lesson 5 / slides 4, 9 and 11
 
-Slide 4 gives "easy to install" as an example of a customer need that is often expressed subjectively. Which metric makes that need measurable?
+"Easy to install" is an example of a customer need that is often expressed subjectively. In the needs-metrics matrix, which metric makes that need measurable?
 
 - A. The customer's subjective satisfaction with the installation process
 - B. The retail price of the front fork
@@ -2118,7 +2118,7 @@ Slide 4 gives "easy to install" as an example of a customer need that is often e
 - Topic: When specifications are established
 - Source: Lesson 5 / slide 5
 
-Slide 5 says that initial specifications are set early in development, particularly effective for simple products like soap or soup. How are the specifications of a technology-intensive product set?
+Initial specifications are set early in development, which is particularly effective for simple products like soap or soup. How are the specifications of a technology-intensive product set?
 
 - A. Early in development and set once, in the same way as for simple products like soap or soup
 - B. After identifying customer needs, as target specifications refined later based on technological constraints and production costs
@@ -2133,7 +2133,7 @@ Slide 5 says that initial specifications are set early in development, particula
 - Topic: Contract book and final specifications
 - Source: Lesson 5 / slide 5
 
-Slide 5 says that final specifications involve trade-offs among desirable characteristics. Where does the slide say these final specifications are documented, and what does that document include?
+Final specifications involve trade-offs among desirable characteristics. Where are these final specifications documented, and what does that document include?
 
 - A. In a bill of materials, listing the parts, their quantities and their unit costs
 - B. In a needs-metrics matrix, marking the relationship between customer needs and metrics
@@ -2148,7 +2148,7 @@ Slide 5 says that final specifications involve trade-offs among desirable charac
 - Topic: Final specifications documented in the contract book
 - Source: Lesson 5 / slide 5
 
-Slide 5 states that final specifications involve trade-offs among desirable characteristics and are documented in the project's contract book. ( )
+Final specifications involve trade-offs among desirable characteristics and are documented in the project's contract book. ( )
 
 - True / False
 
@@ -2160,7 +2160,7 @@ Slide 5 states that final specifications involve trade-offs among desirable char
 - Topic: Purpose of target specifications
 - Source: Lesson 5 / slide 6
 
-Slide 6 says that target specifications are goals set early to define a successful product in the marketplace. What happens to them later?
+Target specifications are goals set early to define a successful product in the marketplace. What happens to them later?
 
 - A. They lock the final design details, so nothing changes after the contract is signed
 - B. They keep the customer's original words, so needs are never written into technical documents
@@ -2175,7 +2175,7 @@ Slide 6 says that target specifications are goals set early to define a successf
 - Topic: Bicycle-fork case: identifying customer needs
 - Source: Lesson 5 / slide 7
 
-In the Specialized bicycle fork case on slide 7, how did the team identify customer needs?
+In the Specialized bicycle front suspension fork case, how did the team identify customer needs?
 
 - A. Through riding experiences, interviews and dealer consultations
 - B. From the annual financial reports of competitors
@@ -2190,7 +2190,7 @@ In the Specialized bicycle fork case on slide 7, how did the team identify custo
 - Topic: Bicycle-fork case: development challenges
 - Source: Lesson 5 / slide 7
 
-In the Specialized bicycle fork case on slide 7, which challenges did the team face during development?
+In the Specialized bicycle front suspension fork case, which challenges did the team face during development?
 
 - A. Translating customer needs into precise targets, defining success criteria, ensuring market share and balancing trade-offs like cost and weight
 - B. Only the lack of laboratory equipment, with no difficulty in identifying needs or setting targets
@@ -2205,7 +2205,7 @@ In the Specialized bicycle fork case on slide 7, which challenges did the team f
 - Topic: Generating metrics from customer needs
 - Source: Lesson 5 / slide 8
 
-Slide 8 says that metrics should directly reflect how well the product meets customer needs. Which statement about generating metrics matches the slide?
+Metrics should directly reflect how well the product meets customer needs. Which statement about generating metrics is correct?
 
 - A. Translate each customer need into one metric, keeping the same wording
 - B. Let the production department list what is easy to measure, then match the needs to those metrics
@@ -2220,7 +2220,7 @@ Slide 8 says that metrics should directly reflect how well the product meets cus
 - Topic: One need and one metric
 - Source: Lesson 5 / slides 8, 9 and 11
 
-Slide 8 states that ideally each need has a single metric, but complex needs may require multiple metrics. Which statement about this rule is correct?
+Ideally each need has a single metric, but complex needs may require multiple metrics. Which statement about this rule is correct?
 
 - A. Every need must have exactly one metric, and extra needs have to be merged
 - B. A metric may serve only one need, otherwise the matrix cannot be marked
@@ -2235,7 +2235,7 @@ Slide 8 states that ideally each need has a single metric, but complex needs may
 - Topic: Meaning of a mark in the needs-metrics matrix
 - Source: Lesson 5 / slide 8 and slide 9
 
-Slide 8 explains what a mark in the needs-metrics matrix indicates. What does a mark mean?
+What does a mark in the needs-metrics matrix indicate?
 
 - A. That performance on a metric influences the satisfaction of a need
 - B. That a need must be determined directly by one metric
@@ -2265,7 +2265,7 @@ Which statements about the needs-metrics matrix are correct?
 - Topic: Needs and metrics named Instills pride
 - Source: Lesson 5 / slide 9
 
-In the needs-metrics matrix on slide 9, "Instills pride" appears both as a customer need and as a metric. ( )
+"Instills pride" appears both as a customer need and as a metric in the needs-metrics matrix. ( )
 
 - True / False
 
@@ -2277,7 +2277,7 @@ In the needs-metrics matrix on slide 9, "Instills pride" appears both as a custo
 - Topic: Metrics as dependent variables
 - Source: Lesson 5 / slide 10
 
-Slide 10 gives guidelines for constructing metrics. Which of them describes what a metric should be?
+The guidelines for constructing metrics address completeness and correlation with customer needs, the kind of variable a metric should be, and how easily it can be measured. Which of them describes what a metric should be?
 
 - A. An independent variable, so that the designer must use a prescribed structure
 - B. A dependent variable, allowing designers the freedom to achieve specifications using the best approach
@@ -2292,7 +2292,7 @@ Slide 10 gives guidelines for constructing metrics. Which of them describes what
 - Topic: Subjective needs and customer panels
 - Source: Lesson 5 / slide 10
 
-Slide 10 says that some needs, like instilling pride, are subjective. What should the team do with such a need?
+Some needs, like instilling pride, are subjective. What should the team do with such a need?
 
 - A. Convert it into an equivalent physical quantity, such as handlebar vibration attenuation in dB
 - B. Drop it from the specifications, because it cannot be quantified
@@ -2307,7 +2307,7 @@ Slide 10 says that some needs, like instilling pride, are subjective. What shoul
 - Topic: Guidelines for constructing metrics
 - Source: Lesson 5 / slide 10
 
-Which of the three guidelines for constructing metrics on slide 10 are stated there?
+Which of the following are the three guidelines for constructing metrics?
 
 - A. Metrics should be complete and correlate with customer needs, and multiple metrics may be required for a single need
 - B. Metrics should be dependent variables, allowing designers the freedom to achieve specifications using the best approach
@@ -2322,7 +2322,7 @@ Which of the three guidelines for constructing metrics on slide 10 are stated th
 - Topic: Role of competitive benchmarking
 - Source: Lesson 5 / slide 11
 
-Slide 11 says competitive benchmarking is essential for determining commercial success relative to competitors. What else does it require?
+Competitive benchmarking is essential for determining commercial success relative to competitors. What else does it require?
 
 - A. Nothing further, because the chart alone settles the target values
 - B. A guarantee that this product will cost less than every competitor
@@ -2337,7 +2337,7 @@ Slide 11 says competitive benchmarking is essential for determining commercial s
 - Topic: Two benchmarking charts
 - Source: Lesson 5 / slide 11 and slide 12
 
-Slide 11 says Sample 1 compares product metrics of competitors. What does Sample 2 on slide 12 compare?
+Competitive benchmarking is presented with two charts, Sample 1 and Sample 2, and Sample 1 compares the product metrics of competitors. What does Sample 2 compare?
 
 - A. Customer perceptions of satisfaction
 - B. Product metrics of competitors, drawn in a different way
@@ -2352,19 +2352,19 @@ Slide 11 says Sample 1 compares product metrics of competitors. What does Sample
 - Topic: Perceived satisfaction and metric performance
 - Source: Lesson 5 / slide 11 and slide 12
 
-Slide 12's Sample 2 shows that a higher perceived satisfaction with a need always means a better value for the corresponding metric in Sample 1. ( )
+Sample 2, the competitive benchmarking chart based on perceived satisfaction of needs, shows that a higher perceived satisfaction with a need always means a better value for the corresponding metric in Sample 1, the chart based on product metrics. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 11 says both charts highlight discrepancies and are instructive, so a stronger result in one view does not follow from the other, and it adds that data verification is crucial when discrepancies appear.
+- Explanation: Slide 11 says both charts highlight discrepancies and are instructive, so a stronger result in one view does not follow from the other. It also notes that data verification is crucial when discrepancies appear.
 
 ### L5Q20 (Single, Basic)
 
 - Topic: Ideal and marginally acceptable target values
 - Source: Lesson 5 / slide 13
 
-Slide 13 gives two types of target value: the ideal value and the marginally acceptable value. What are they, and what do they do?
+There are two types of target value: the ideal value and the marginally acceptable value. What are they, and what do they do?
 
 - A. The ideal value is the commercially viable boundary and the marginally acceptable value is the best result, and target values are only needed for pricing
 - B. The ideal value is the best result and the marginally acceptable value is commercially viable, and they guide concept generation, selection and refining specifications
@@ -2379,7 +2379,7 @@ Slide 13 gives two types of target value: the ideal value and the marginally acc
 - Topic: Expressing an upper bound
 - Source: Lesson 5 / slide 13
 
-The team wants to set a target value for suspension fork mass, where smaller is better. Which form does slide 13 prescribe?
+The team wants to set a target value for suspension fork mass, where smaller is better. Which form should the target value take?
 
 - A. Exactly 1.4 kg
 - B. At least 1.4 kg
@@ -2394,7 +2394,7 @@ The team wants to set a target value for suspension fork mass, where smaller is 
 - Topic: Forms for expressing target values
 - Source: Lesson 5 / slide 13
 
-Slide 13 sets out the forms for expressing a target value. Which of these statements match the slide?
+Target values can be expressed in forms such as "At least X", "At most X", "Between X and Y" and "Exactly X". Which of the following statements about these forms are correct?
 
 - A. "At least X" sets an upper bound, smaller is better
 - B. "At most X" sets an upper bound, smaller is better
@@ -2409,7 +2409,7 @@ Slide 13 sets out the forms for expressing a target value. Which of these statem
 - Topic: Reviewing target values
 - Source: Lesson 5 / slide 14
 
-Slide 14 lists the key questions to ask after setting target values. Which of them are on the slide?
+After setting target values, the team asks a set of key questions. Which of the following are among them?
 
 - A. Whether the target values have already been written into the final specification document
 - B. Whether anyone is "gaming" metrics to achieve higher results
@@ -2424,7 +2424,7 @@ Slide 14 lists the key questions to ask after setting target values. Which of th
 - Topic: Five steps for setting final specifications
 - Source: Lesson 5 / slide 15
 
-Slide 15 proposes a five-step process for setting the final specifications. Which steps does it include?
+A five-step process is used to set the final specifications. Which steps does it include?
 
 - A. Develop technical models
 - B. Develop cost models
@@ -2439,7 +2439,7 @@ Slide 15 proposes a five-step process for setting the final specifications. Whic
 - Topic: Technical models
 - Source: Lesson 5 / slide 16
 
-Slide 16 says analytical models can quickly predict performance without costly experiments, but are often available for a small subset of metrics. How should the models be organised?
+Analytical models can quickly predict performance without costly experiments, but are often available for a small subset of metrics. How should the models be organised?
 
 - A. As one complex model that couples every design decision to every metric
 - B. As independent models for different metrics, such as separate models for brake mounting stiffness and vibration attenuation
@@ -2454,7 +2454,7 @@ Slide 16 says analytical models can quickly predict performance without costly e
 - Topic: Conjoint analysis
 - Source: Lesson 5 / slide 18
 
-In a mature fork market where the performance metrics are well known, a team wants to know which combination of specifications is most attractive. Which tool does slide 18 prescribe, and what does it produce?
+In a mature fork market where the performance metrics are well known, a team wants to know which combination of specifications is most attractive. Which tool should the team use, and what does it produce?
 
 - A. Conjoint analysis, which uses customer survey data to model preferences and predict market share
 - B. The competitive map, which compares only the manufacturing cost and the Monster test score
@@ -2469,7 +2469,7 @@ In a mature fork market where the performance metrics are well known, a team wan
 - Topic: Flowing down specifications
 - Source: Lesson 5 / slide 19
 
-Slide 19 describes flowing down specifications to subsystems. Which statements are correct?
+When a complex product's specifications are flowed down to its subsystems, which of the following statements are correct?
 
 - A. Simple products and complex products can both have their specifications set by one small team in the same way
 - B. Specifications such as cost, mass and power consumption can be budgeted and summed across subsystems
@@ -2484,7 +2484,7 @@ Slide 19 describes flowing down specifications to subsystems. Which statements a
 - Topic: In-class group exercise
 - Source: Lesson 5 / slide 21
 
-The in-class group exercise on slide 21 asks each group to list a set of metrics that correspond to the needs the group project is addressing, and also to set the ideal and marginally acceptable target values for them. ( )
+The in-class group exercise asks each group to list a set of metrics that correspond to the needs the group project is addressing, and also to set the ideal and marginally acceptable target values for them. ( )
 
 - True / False
 
@@ -2496,7 +2496,7 @@ The in-class group exercise on slide 21 asks each group to list a set of metrics
 - Topic: Discrete target values
 - Source: Lesson 5 / slide 13
 
-Slide 13 also allows a target value to be stated as a set of specific choices. Which example is its form of discrete values?
+A target value may also be stated as a set of specific choices. Which of the following examples uses the form of discrete values?
 
 - A. A spring preload of 480 to 800 N
 - B. A rake offset of exactly 38 mm
@@ -2511,7 +2511,7 @@ Slide 13 also allows a target value to be stated as a set of specific choices. W
 - Topic: Competitive map
 - Source: Lesson 5 / slide 18
 
-Slide 18 shows a competitive map used when refining the specifications. What does the map plot, and what does it show the team?
+A competitive map is used when refining the specifications. What does the map plot, and what does it show the team?
 
 - A. Customer needs against metrics, showing which metrics influence which needs
 - B. The ideal and marginally acceptable target values of each competitor against our own
@@ -2526,7 +2526,7 @@ Slide 18 shows a competitive map used when refining the specifications. What doe
 - Topic: Complex dependencies when setting targets
 - Source: Lesson 5 / slide 13
 
-Slide 13 lists complex dependencies and considerations for setting target values. Which of them does the slide give?
+Setting target values involves several dependencies and considerations. Which of the following apply?
 
 - A. Metrics interdependence, with complex targets added in the final phase
 - B. Competitive benchmarking has no part in setting targets, it only describes the competitors
@@ -2541,7 +2541,7 @@ Slide 13 lists complex dependencies and considerations for setting target values
 - Topic: Bill of materials and cost calculation
 - Source: Lesson 5 / slide 17
 
-The bill of materials on slide 17 lists high and low cost estimates for the fork, with assembly costed at an hourly rate. Which of the following follow from the numbers on that slide?
+A bill of materials for the fork gives a total cost of 104.19 in the high case and 78.68 in the low case. Assembly is charged at 20 dollars per hour, adding 10.00 in the high case and 6.67 in the low case, and overhead is charged at 25% of the direct cost, where the direct cost is the parts plus the assembly. Which of the following follow from these numbers?
 
 - A. In the high case the parts total 73.35, because 104.19 minus 10.00 of assembly minus 20.84 of overhead leaves 73.35
 - B. The low case overhead is 15.74, because the overhead is 25% of the low case total cost of 78.68
@@ -2556,7 +2556,7 @@ The bill of materials on slide 17 lists high and low cost estimates for the fork
 - Topic: Reflecting on the outcome and the process
 - Source: Lesson 5 / slide 20
 
-Slide 20 lists what to reflect on after the final specifications are set. Which items are on that list?
+After the final specifications are set, the team reflects on the outcome and the process. Which of the following items belong to that reflection?
 
 - A. Whether the product meets customer needs and competitive standards, revisiting the concept if necessary
 - B. Whether the technical and cost models are free of uncertainty, so they need no refinement
@@ -2571,7 +2571,7 @@ Slide 20 lists what to reflect on after the final specifications are set. Which 
 - Topic: Market and media considerations
 - Source: Lesson 5 / slide 10
 
-Slide 10 adds market and media considerations to the guidelines for constructing metrics. Which of its statements are correct?
+Market and media considerations add to the guidelines for constructing metrics. Which of the following statements are correct?
 
 - A. Metrics should include criteria used in popular market evaluations
 - B. If media evaluation criteria do not align with the identified customer needs, the team should reassess or collaborate with media to revise the criteria
@@ -2586,12 +2586,12 @@ Slide 10 adds market and media considerations to the guidelines for constructing
 - Topic: Four steps to establish target specifications
 - Source: Lesson 5 / slide 6
 
-Slide 6 gives the four steps to establish target specifications in this order: collect competitive benchmarking information, prepare a list of metrics, set ideal and marginally acceptable target values, reflect on the results and the process. ( )
+The four steps to establish target specifications are, in this order: collect competitive benchmarking information, prepare a list of metrics, set ideal and marginally acceptable target values, reflect on the results and the process. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 6 lists the steps as prepare a list of metrics, collect competitive benchmarking information, set ideal and marginally acceptable target values, and reflect on the results and the process, so the statement swaps the first two steps and is not the order the slide gives.
+- Explanation: Slide 6 lists the steps as prepare a list of metrics, collect competitive benchmarking information, set ideal and marginally acceptable target values, and reflect on the results and the process. The statement swaps the first two steps, so it is not the order the slide gives.
 
 ---
 
@@ -2604,7 +2604,7 @@ Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Less
 - Topic: Product concept
 - Source: Lesson 6 / slide 5
 
-According to slide 5, which three aspects does a product concept describe?
+Which three aspects does a product concept describe?
 
 - A. Target cost, manufacturing process and distribution channel
 - B. The technology, the working principles and the form that may satisfy customer needs
@@ -2619,7 +2619,7 @@ According to slide 5, which three aspects does a product concept describe?
 - Topic: Concept generation process
 - Source: Lesson 6 / slide 5
 
-Slide 5 describes concept generation as inexpensive and quick. What share of the development effort does it take?
+Concept generation is inexpensive and quick. What share of the development effort does it take?
 
 - A. Less than 5% of the budget and 15% of the development time
 - B. Less than 15% of the budget and 5% of the development time
@@ -2634,7 +2634,7 @@ Slide 5 describes concept generation as inexpensive and quick. What share of the
 - Topic: Early exploration
 - Source: Lesson 6 / slide 5
 
-Slide 5 says that thorough exploration early is worth the effort. Why?
+Why is thorough exploration early worth the effort?
 
 - A. It allows the concept screening step to be skipped afterwards
 - B. It guarantees that the concepts will pass customer testing
@@ -2649,7 +2649,7 @@ Slide 5 says that thorough exploration early is worth the effort. Why?
 - Topic: Concept generation process
 - Source: Lesson 6 / slide 5
 
-According to slide 5, where does concept generation start, and what does it produce?
+Where does concept generation start, and what does it produce?
 
 - A. It starts from an analysis of competing products and produces one settled solution
 - B. It starts from the final specifications and the process plan and produces a design ready for production
@@ -2664,7 +2664,7 @@ According to slide 5, where does concept generation start, and what does it prod
 - Topic: Exploration process
 - Source: Lesson 6 / slide 14
 
-A team has used the classification tree and the combination table to narrow its alternatives, and some subproblems are still open. According to slide 14, what happens to those subproblems?
+A team has used the classification tree and the combination table to narrow its alternatives, and some subproblems are still open. What happens to those subproblems?
 
 - A. They are addressed eventually, after the alternatives have been narrowed
 - B. They are dropped, because the narrowed alternatives already cover every subproblem
@@ -2679,7 +2679,7 @@ A team has used the classification tree and the combination table to narrow its 
 - Topic: Structured approach
 - Source: Lesson 6 / slide 6
 
-According to slide 6, what benefit does a structured approach bring to concept generation?
+What benefit does a structured approach bring to concept generation?
 
 - A. It cuts the alternatives down to a single one that can be handed to the next stage
 - B. It lets the most experienced member lead the whole concept generation process
@@ -2694,7 +2694,7 @@ According to slide 6, what benefit does a structured approach bring to concept g
 - Topic: Structured approach
 - Source: Lesson 6 / slide 6
 
-The heading on slide 6 states the effect of structured approaches in which way?
+Which of the following describes the effect of structured approaches in concept generation?
 
 - A. They speed up production and shorten the batch delivery cycle
 - B. They reduce the likelihood of costly problems
@@ -2709,7 +2709,7 @@ The heading on slide 6 states the effect of structured approaches in which way?
 - Topic: Five step concept generation method
 - Source: Lesson 6 / slide 7
 
-According to the five step concept generation method on slide 7, in what order do the five steps come?
+In the five step concept generation method, in what order do the five steps come?
 
 - A. Clarify the problem, explore systematically, search externally, search internally, reflect
 - B. Search externally, clarify the problem, search internally, explore systematically, reflect
@@ -2724,7 +2724,7 @@ According to the five step concept generation method on slide 7, in what order d
 - Topic: Five step concept generation method
 - Source: Lesson 6 / slide 7
 
-In the chart on slide 7, how does the output of step 1 reach the later steps?
+In the five step concept generation method, the output of step 1 feeds the external and the internal search. Which statement about that relationship is correct?
 
 - A. It produces subproblems, and the subproblems then branch into the external search and the internal search
 - B. It produces an already settled solution, and the two searches only review it afterwards
@@ -2754,7 +2754,7 @@ A team has completed both searches: the external search brought existing concept
 - Topic: Reflection step
 - Source: Lesson 6 / slide 7
 
-Step 5 of the five step method on slide 7 is reflection on the solutions and the process. Which activity does the slide name for that step?
+Step 5 of the five step concept generation method is reflection on the solutions and the process. Which activity belongs to that step?
 
 - A. Drawing every concept as a three-dimensional model
 - B. Completing a patent search and confirming that the concepts can be patented
@@ -2769,7 +2769,7 @@ Step 5 of the five step method on slide 7 is reflection on the solutions and the
 - Topic: Clarifying the problem
 - Source: Lesson 6 / slide 8
 
-A new project has just received a mission statement, a customer needs list and preliminary product specifications. According to slide 8, how should the five step method use them?
+A new project has just received a mission statement, a customer needs list and preliminary product specifications. How should the five step concept generation method use them?
 
 - A. As inputs to step 1, to build a general understanding of the problem and break it into subproblems
 - B. As inputs to step 4, to draw the concept classification tree
@@ -2784,7 +2784,7 @@ A new project has just received a mission statement, a customer needs list and p
 - Topic: Problem decomposition
 - Source: Lesson 6 / slide 8
 
-The document copier design example on slide 8 shows how a complex problem can be broken down. Which of the following is one of the decomposition techniques the slide gives?
+The design of a document copier is a standard example of a complex problem that has to be broken down. Which of the following is one of the decomposition techniques used for it?
 
 - A. By equipment cost, starting with the cheapest subproblem
 - B. By the internal division of labour, one subproblem per team member
@@ -2799,7 +2799,7 @@ The document copier design example on slide 8 shows how a complex problem can be
 - Topic: Critical subproblems
 - Source: Lesson 6 / slide 8
 
-Slide 8 asks the team to focus on the critical subproblems. How should the subproblems be handled?
+In problem decomposition, the team focuses on the critical subproblems. How should the subproblems be handled?
 
 - A. Solve all the less critical ones first and then attack the core technology
 - B. Give each subproblem an equal share of time so that every member has work
@@ -2814,7 +2814,7 @@ Slide 8 asks the team to focus on the critical subproblems. How should the subpr
 - Topic: External search
 - Source: Lesson 6 / slide 8 and slide 9
 
-A team wants to know which solutions already exist before it commits to production. According to slide 9, what is external search for?
+A team wants to know which solutions already exist before it commits to production. What is external search for?
 
 - A. Replacing the team's own understanding of customer needs with material from outside
 - B. Finding existing solutions for the overall problem and for the subproblems
@@ -2829,7 +2829,7 @@ A team wants to know which solutions already exist before it commits to producti
 - Topic: External search
 - Source: Lesson 6 / slide 9
 
-Slide 9 recommends the expand-and-focus approach to information gathering in external search. What is the reason for it?
+The expand-and-focus approach is recommended for information gathering in external search. What is the reason for it?
 
 - A. Lock down a few information sources first and then widen the search one by one
 - B. Complete the internal search first and decide afterwards whether an external search is needed
@@ -2844,7 +2844,7 @@ Slide 9 recommends the expand-and-focus approach to information gathering in ext
 - Topic: External search
 - Source: Lesson 6 / slide 9
 
-During an external search the team finds that a solution is already protected by a patent. What does slide 9 say about patent searches?
+During an external search the team finds that a solution is already protected by a patent. What does the course say about patent searches?
 
 - A. A patent gives only a patent number and no technical information
 - B. A patent is always free, so using the patented solution costs the team nothing
@@ -2859,7 +2859,7 @@ During an external search the team finds that a solution is already protected by
 - Topic: Internal search
 - Source: Lesson 6 / slide 10
 
-Internal search has barely started when a team member says that a colleague's idea could not possibly work. Which guideline on slide 10 does this break most directly?
+Internal search has barely started when a team member says that a colleague's idea could not possibly work. Which guideline for improving internal search does this break most directly?
 
 - A. Suspend Judgment: do not criticize ideas immediately, but focus on suggesting improvements
 - B. Generate a Lot of Ideas: the more ideas there are, the wider the exploration of the solution space
@@ -2874,7 +2874,7 @@ Internal search has barely started when a team member says that a colleague's id
 - Topic: Internal search
 - Source: Lesson 6 / slide 10
 
-Which of the following are the guidelines for improving internal search listed on slide 10?
+Which of the following are the guidelines for improving internal search?
 
 - A. Suspend Judgment: do not criticize ideas immediately, but focus on suggesting improvements
 - B. Generate a Lot of Ideas: more ideas increase the exploration of the solution space and stimulate further creativity
@@ -2889,7 +2889,7 @@ Which of the following are the guidelines for improving internal search listed o
 - Topic: External search
 - Source: Lesson 6 / slide 9 and slide 10
 
-Which of the following are information-gathering methods for external search listed on slide 9?
+Which of the following are information-gathering methods used in external search?
 
 - A. Brainstorming discussions inside the team
 - B. Lead user interviews
@@ -2904,7 +2904,7 @@ Which of the following are information-gathering methods for external search lis
 - Topic: Five step concept generation method
 - Source: Lesson 6 / slide 7 and slide 11
 
-Which of the following does slide 7 state about the five step concept generation method itself?
+Which of the following are true of the five step concept generation method itself?
 
 - A. It breaks complex problems into simpler subproblems
 - B. It uses classification trees and concept combination tables to explore and integrate solutions
@@ -2919,7 +2919,7 @@ Which of the following does slide 7 state about the five step concept generation
 - Topic: Concept fragments
 - Source: Lesson 6 / slide 11
 
-A team's search activities have produced a large number of concept fragments. Which of the following statements agree with slide 11?
+A team's search activities have produced a large number of concept fragments. Which of the following statements about managing those fragments are correct?
 
 - A. The team should combine all the fragments into one complete product, and this step carries no risk
 - B. Many combinations of the fragments may be nonsensical
@@ -2934,7 +2934,7 @@ A team's search activities have produced a large number of concept fragments. Wh
 - Topic: Classification tree
 - Source: Lesson 6 / slide 7 and slide 12
 
-About the concept classification tree, which of the following statements agree with slide 12?
+About the concept classification tree, which of the following statements are correct?
 
 - A. It divides the entire space of possible solutions into several distinct classes
 - B. Those classes make comparison and pruning easier
@@ -2949,7 +2949,7 @@ About the concept classification tree, which of the following statements agree w
 - Topic: Exploration process
 - Source: Lesson 6 / slide 14
 
-About managing the exploration process, which of the following practices does slide 14 indicate?
+About managing the exploration process, which of the following practices does the course describe?
 
 - A. Teams usually generate multiple classification trees and concept combination tables
 - B. The classification tree and the combination table are produced by an outside agency, and the team only reviews them
@@ -2964,7 +2964,7 @@ About managing the exploration process, which of the following practices does sl
 - Topic: Internal search
 - Source: Lesson 6 / slide 10
 
-Slide 10 lists Suspend Judgment among the guidelines for improving internal search, and gives it as: evaluate each idea as it is proposed and keep only the ones that already look workable. ( )
+Suspend Judgment is one of the guidelines for improving internal search, and it says: evaluate each idea as it is proposed and keep only the ones that already look workable. ( )
 
 - True / False
 
@@ -2976,7 +2976,7 @@ Slide 10 lists Suspend Judgment among the guidelines for improving internal sear
 - Topic: Internal search
 - Source: Lesson 6 / slide 10
 
-Slide 10 states that individuals often generate more and better concepts alone, and that group sessions are essential for consensus, communication and refining concepts. ( )
+Individuals often generate more and better concepts alone, and group sessions are essential for consensus, communication and refining concepts. ( )
 
 - True / False
 
@@ -2988,7 +2988,7 @@ Slide 10 states that individuals often generate more and better concepts alone, 
 - Topic: Exploration process
 - Source: Lesson 6 / slide 14
 
-Slide 14 states that the team should address every subproblem before it narrows the alternatives, so that no subproblem is left unexplored. ( )
+The team should address every subproblem before it narrows the alternatives, so that no subproblem is left unexplored. ( )
 
 - True / False
 
@@ -3000,7 +3000,7 @@ Slide 14 states that the team should address every subproblem before it narrows 
 - Topic: In-class exercise
 - Source: Lesson 6 / slide 16
 
-The in-class exercise on slide 16 asks each group to prepare an internal-search plan for the problem and the solution of its group project. ( )
+The in-class exercise in this lesson asks each group to prepare an internal-search plan for the problem and the solution of its group project. ( )
 
 - True / False
 
@@ -3012,7 +3012,7 @@ The in-class exercise on slide 16 asks each group to prepare an internal-search 
 - Topic: Product concept
 - Source: Lesson 6 / slide 5
 
-According to slide 5, which statement gives both the usual way a product concept is presented and what its quality affects?
+Which statement gives both the usual way a product concept is presented and what its quality affects?
 
 - A. It is usually presented as a sketch or model with a brief description, and its quality significantly affects customer satisfaction and commercial success
 - B. It is usually presented as a costed bill of materials, and its quality significantly affects the production lead time
@@ -3027,7 +3027,7 @@ According to slide 5, which statement gives both the usual way a product concept
 - Topic: External search
 - Source: Lesson 6 / slide 9
 
-A team has found that an existing product already solves most of the problem, and it also has new ideas of its own for the rest. According to slide 9, what does the courseware say about combining the two?
+A team has found that an existing product already solves most of the problem, and it also has new ideas of its own for the rest. What does the course say about combining the two?
 
 - A. The existing product should always be preferred, because any new idea makes the design harder to produce
 - B. Combining conventional solutions with novel ideas can yield superior designs
@@ -3042,7 +3042,7 @@ A team has found that an existing product already solves most of the problem, an
 - Topic: Common dysfunctions
 - Source: Lesson 6 / slide 6
 
-Which of the following are common dysfunctions in concept generation listed on slide 6?
+Which of the following are common dysfunctions in concept generation?
 
 - A. Limited alternatives are often proposed by assertive team members
 - B. The team leaves the concept stage before it has compared the alternatives
@@ -3057,7 +3057,7 @@ Which of the following are common dysfunctions in concept generation listed on s
 - Topic: External search
 - Source: Lesson 6 / slide 9
 
-According to slide 9, which of the following statements about the external search methods are correct?
+Which of the following statements about the external search methods are correct?
 
 - A. Benchmarking of products with similar functionality reveals only the strengths of competitive products
 - B. Lead users experience the needs early and may have created their own solutions
@@ -3072,7 +3072,7 @@ According to slide 9, which of the following statements about the external searc
 - Topic: Internal search
 - Source: Lesson 6 / slide 10
 
-According to slide 10, which of the following statements about internal search are correct?
+Which of the following statements about internal search are correct?
 
 - A. Internal search generates solution concepts from personal and team knowledge
 - B. Making plenty of sketches helps in spatial reasoning and concept expression
@@ -3087,7 +3087,7 @@ According to slide 10, which of the following statements about internal search a
 - Topic: Concept fragments
 - Source: Lesson 6 / slide 11
 
-According to slide 11, which of the following statements about the concept fragments collected during search are correct?
+Which of the following statements about the concept fragments collected during search are correct?
 
 - A. Search activities leave the team with numerous fragments rather than with a finished product to develop
 - B. Organizing the fragments and making selective combinations of them is the real work, rather than accumulating a long list of ideas
@@ -3102,7 +3102,7 @@ According to slide 11, which of the following statements about the concept fragm
 - Topic: Clarifying the problem
 - Source: Lesson 6 / slide 7 and slide 8
 
-Slide 8's guidance on engaging team members in understanding customer needs and target specifications belongs to the first step of the five step method, the step that clarifies the problem. ( )
+The guidance on engaging team members in understanding customer needs and target specifications belongs to the first step of the five step concept generation method, the step that clarifies the problem. ( )
 
 - True / False
 
@@ -3120,7 +3120,7 @@ Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Less
 - Topic: Concept selection in the product development process
 - Source: Lesson 7 / slide 5
 
-In the product development process chart on slide 5, where is the step "Select Product Concept(s)" placed?
+In the product development process taught in this course, where is the step "Select Product Concept(s)" placed?
 
 - A. After "Generate Product Concepts" and before "Test Product Concept(s)"
 - B. After "Identify Customer Needs" and before "Establish Target Specifications"
@@ -3135,7 +3135,7 @@ In the product development process chart on slide 5, where is the step "Select P
 - Topic: Nature of concept selection
 - Source: Lesson 7 / slide 5
 
-Which statement about concept selection agrees with slide 5?
+Which statement about concept selection agrees with this course?
 
 - A. Concept selection fixes the final alternative in one pass, and the outcome is never revised afterwards
 - B. Concept selection only picks one of the existing concepts, without any combination or improvement
@@ -3150,7 +3150,7 @@ Which statement about concept selection agrees with slide 5?
 - Topic: Types of opportunities
 - Source: Lesson 7 / slide 6
 
-Slide 6 divides opportunities along the dimensions of knowledge of need and knowledge of solution. Which of the following belongs to Horizon 1 Opportunities?
+This course divides opportunities along the dimensions of knowledge of need and knowledge of solution. Which of the following belongs to Horizon 1 Opportunities?
 
 - A. New-category products and service
 - B. Adjacent growth
@@ -3165,7 +3165,7 @@ Slide 6 divides opportunities along the dimensions of knowledge of need and know
 - Topic: Medical Supply Company case study
 - Source: Lesson 7 / slide 7
 
-In the Medical Supply Company case on slide 7, what did the team do first when it came to selecting a product concept?
+In the Medical Supply Company case, what did the team do first when it came to selecting a product concept?
 
 - A. It picked the best drawn of the seven sketches as the direction for further development
 - B. It summarized the needs of its client and the intended end users and established seven criteria on which the choice would be based
@@ -3180,7 +3180,7 @@ In the Medical Supply Company case on slide 7, what did the team do first when i
 - Topic: The seven concept selection criteria
 - Source: Lesson 7 / slide 7
 
-Which of the following are among the seven criteria the courseware lists for selecting the syringe concept on slide 7?
+Which of the following are among the seven criteria the course lists for selecting the syringe concept in the Medical Supply Company case?
 
 - A. Ease of handling
 - B. Dose metering accuracy
@@ -3195,7 +3195,7 @@ Which of the following are among the seven criteria the courseware lists for sel
 - Topic: Medical Supply Company case study
 - Source: Lesson 7 / slide 7
 
-In the Medical Supply Company case on slide 7, what did the company ask the design firm to develop, and what problems had it identified in its current product?
+In the Medical Supply Company case, what did the company ask the design firm to develop, and what problems had it identified in its current product?
 
 - A. A disposable syringe with a standard dose setting, to fix the high cost of the stainless steel material
 - B. A reusable syringe with precise dosage control, to fix the high cost of the stainless steel material and the inaccurate dosing
@@ -3210,7 +3210,7 @@ In the Medical Supply Company case on slide 7, what did the company ask the desi
 - Topic: The seven concept sketches
 - Source: Lesson 7 / slide 8
 
-Among the seven concept sketches on slide 8, what is the name of the scheme for concept D?
+Among the seven concept sketches for the syringe in the Medical Supply Company case, what is the name of the scheme for concept D?
 
 - A. Plunge Stop
 - B. Ratchet
@@ -3225,7 +3225,7 @@ Among the seven concept sketches on slide 8, what is the name of the scheme for 
 - Topic: Purpose of the selection methodology
 - Source: Lesson 7 / slide 9
 
-The funnel chart on slide 9 places concept generation, concept screening, concept scoring and concept testing in a narrowing sequence. According to slide 9, where do screening and scoring lead the team?
+In the concept selection methodology of this course, concept generation, concept screening, concept scoring and concept testing form a narrowing sequence. Where do screening and scoring lead the team?
 
 - A. To a larger pool of candidate concepts, so that more alternatives can be tested
 - B. To the concept with the lowest cost, which is handed straight to the purchasing department
@@ -3240,7 +3240,7 @@ The funnel chart on slide 9 places concept generation, concept screening, concep
 - Topic: Concept screening and concept scoring
 - Source: Lesson 7 / slide 10
 
-Slide 10 distinguishes concept screening from concept scoring. Which statement captures the difference correctly?
+This course distinguishes concept screening from concept scoring. Which statement captures the difference correctly?
 
 - A. Concept screening uses a scoring matrix to weed concepts out roughly, and concept scoring uses a screening matrix to pick the best one
 - B. Concept screening makes a quick evaluation with a screening matrix to narrow the viable alternatives, and concept scoring analyses the remaining concepts in detail with a scoring matrix to select the best one
@@ -3260,14 +3260,14 @@ Concept screening and concept scoring follow the same six-step process. ( )
 - True / False
 
 - Answer: True
-- Explanation: Slide 10 states that "both stages, concept screening and concept scoring, follow a six-step process" that leads the team through the concept selection activity, so the statement is true.
+- Explanation: Slide 10 states that "both stages, concept screening and concept scoring, follow a six-step process" that leads the team through the concept selection activity. The statement reproduces that fact, so it is true.
 
 ### L7Q11 (Multiple, Intermediate)
 
 - Topic: The six-step process
 - Source: Lesson 7 / slide 10
 
-Slide 10 sets out the six steps of the concept selection activity. Which of the following are steps of that activity?
+The concept selection activity of this course follows a six-step process. Which of the following are steps of that activity?
 
 - A. Prepare the selection matrix
 - B. Rank the concepts
@@ -3282,7 +3282,7 @@ Slide 10 sets out the six steps of the concept selection activity. Which of the 
 - Topic: Choosing the reference concept
 - Source: Lesson 7 / slide 11
 
-Slide 11 says that a reference concept is chosen for benchmarking. Which of the following can the reference concept be?
+In concept selection, a reference concept is chosen for benchmarking. Which of the following can the reference concept be?
 
 - A. The concept with the highest net score in the screening matrix
 - B. An industry standard
@@ -3309,7 +3309,7 @@ When the selection matrix is prepared, the selection criteria are listed on the 
 - Topic: Objective metrics in screening
 - Source: Lesson 7 / slide 12
 
-The ratings in concept screening can be subjective. Which of the following does slide 12 give as an example of an objective metric?
+The ratings in concept screening can be subjective. Which of the following does this course give as an example of an objective metric?
 
 - A. The preference rating users give for the appearance of the product
 - B. The design team's own score for how innovative a scheme is
@@ -3324,7 +3324,7 @@ The ratings in concept screening can be subjective. Which of the following does 
 - Topic: Coarse relative ratings
 - Source: Lesson 7 / slide 12
 
-About the coarse relative ratings discussed on slide 12, which of the following statements agree with the courseware?
+About the coarse relative ratings used in concept screening, which of the following statements does this course support?
 
 - A. Coarse relative ratings can be difficult to produce
 - B. The way to avoid the difficulty is to describe every concept precisely before starting the ratings
@@ -3339,7 +3339,7 @@ About the coarse relative ratings discussed on slide 12, which of the following 
 - Topic: Rating the concepts
 - Source: Lesson 7 / slide 12
 
-When the concepts are rated against the reference concept, slide 12 describes two ways to work through the matrix. Which one is correct?
+When the concepts are rated against the reference concept, this course describes two ways to work through the selection matrix. Which one is correct?
 
 - A. Rate every concept completely on the first criterion before any concept is rated on a second criterion, and drop the reference concept
 - B. Rate only the concepts that scored best in the previous screening round, to save time
@@ -3354,7 +3354,7 @@ When the concepts are rated against the reference concept, slide 12 describes tw
 - Topic: Net score and ranking
 - Source: Lesson 7 / slide 13
 
-Concept C (Ratchet) is rated "+" on one criterion, "0" on three and "-" on three against the reference concept. Under the rule on slide 13, what are its net score and its rank?
+Concept C (Ratchet) is rated "+" on one criterion, "0" on three and "-" on three against the reference concept. In the screening matrix for the case concepts, concept A scores 2, concept E scores 1, concepts D, F and G score 0 and concept B scores -1. Under the net score rule, what are the net score and the rank of concept C?
 
 - A. Net score 1, rank 1
 - B. Net score 0, rank 3
@@ -3369,7 +3369,7 @@ Concept C (Ratchet) is rated "+" on one criterion, "0" on three and "-" on three
 - Topic: Ties in the screening matrix
 - Source: Lesson 7 / slide 13
 
-The caption of the screening matrix notes that three concepts are ranked "3" and all received the same net score. Which group is exactly those three concepts?
+In the screening matrix for the case concepts the ranks are A 1, B 6, C 7, D 3, E 2, F 3 and G 3. Which group is exactly the three concepts that are tied at rank 3?
 
 - A. A, E and B
 - B. D, F and G
@@ -3399,7 +3399,7 @@ About ranking the concepts with net scores, which of the following statements ar
 - Topic: Combining and improving concepts
 - Source: Lesson 7 / slide 15
 
-Slide 15 asks the team to combine and improve the concepts after the screening ranking. How does the case produce concept DF?
+After the screening ranking, the team combines and improves the concepts. How does the case produce concept DF?
 
 - A. By merging the lowest scoring concept C with the reference concept D
 - B. By merging the two lowest ranked concepts, B and C
@@ -3414,7 +3414,7 @@ Slide 15 asks the team to combine and improve the concepts after the screening r
 - Topic: New and revised concepts
 - Source: Lesson 7 / slide 16
 
-Slide 16 shows the concepts that the team generated or revised during the selection process. Which pair of concepts comes out of that step?
+The team generated or revised concepts during the selection process. Which pair of concepts comes out of that step?
 
 - A. DF and G+
 - B. D and F
@@ -3434,7 +3434,7 @@ Concept G+ is the revised concept G with its bulk removed while its core techniq
 - True / False
 
 - Answer: True
-- Explanation: Slide 15 says concept G was "revised to remove bulk while keeping its core technique", and slide 16 shows the revised concept G+ next to the new concept DF.
+- Explanation: Slide 15 says concept G was "revised to remove bulk while keeping its core technique". Slide 16 shows the revised concept G+ next to the new concept DF, which is exactly what the statement describes.
 
 ### L7Q23 (Single, Basic)
 
@@ -3456,7 +3456,7 @@ In the syringe case, which group of concepts did the team take into concept scor
 - Topic: Deciding after the selection
 - Source: Lesson 7 / slide 17
 
-Slide 17 says that the team decides what to do next while it selects the concepts. Which kind of decision does it take?
+While it selects the concepts, the team decides what to do next. Which kind of decision does it take?
 
 - A. Whether to abandon the project and move to another product line
 - B. Which issues need further investigation, and whether to run another screening round or move to concept scoring with detailed criteria
@@ -3471,7 +3471,7 @@ Slide 17 says that the team decides what to do next while it selects the concept
 - Topic: Weighted total score
 - Source: Lesson 7 / slide 17
 
-In the concept scoring matrix on slide 17, concept DF (Lever Stop) is rated 3, 4, 3, 3, 5, 3 and 3 on the seven criteria, whose weights are 5%, 15%, 10%, 25%, 15%, 20% and 10%. What is the weighted total of DF?
+In the concept scoring matrix for the syringe case, concept DF (Lever Stop) is rated 3, 4, 3, 3, 5, 3 and 3 on the seven criteria, whose weights are 5%, 15%, 10%, 25%, 15%, 20% and 10%. What is the weighted total of DF?
 
 - A. 2.75
 - B. 3.10
@@ -3536,14 +3536,14 @@ If disagreement appears in the reflect step, it proves that the ratings in the s
 - True / False
 
 - Answer: False
-- Explanation: Slide 18 says the opposite: "disagreement may indicate missing criteria or errors in the screening matrix", and it adds that consensus "reduces mistakes and boosts team commitment to development activities".
+- Explanation: Slide 18 says the opposite: "disagreement may indicate missing criteria or errors in the screening matrix". It also notes that consensus "reduces mistakes and boosts team commitment to development activities", so the ratings cannot be assumed correct.
 
 ### L7Q30 (Single, Intermediate)
 
 - Topic: Consensus in the reflect step
 - Source: Lesson 7 / slide 18
 
-What direct benefit does slide 18 attribute to reaching consensus?
+What direct benefit does this course attribute to reaching consensus in the reflect step?
 
 - A. The weights of the criteria automatically add up to 100%
 - B. The team no longer needs to record the decision process
@@ -3573,7 +3573,7 @@ The in-class exercise asks you to use the concept selection methods on products 
 - Topic: Concept evaluation process
 - Source: Lesson 7 / slide 19
 
-Slide 19 describes how concept scoring is prepared and carried out. Which of the following practices appear in the courseware?
+This course describes how concept scoring is prepared and carried out. Which of the following practices appear in the courseware?
 
 - A. Prepare a matrix and identify a reference concept, often using a computer spreadsheet
 - B. Refine the concepts and add detailed selection criteria, potentially using hierarchical relations
@@ -3588,7 +3588,7 @@ Slide 19 describes how concept scoring is prepared and carried out. Which of the
 - Topic: Weighting the criteria
 - Source: Lesson 7 / slide 19
 
-Slide 19 says that several different schemes can be used to weight the criteria. Which of the following is one of the schemes given there?
+This course says that several different schemes can be used to weight the criteria. Which of the following is one of the schemes given there?
 
 - A. Assign an importance value from 1 to 5 to each criterion, or allocate 100 percentage points among them
 - B. Assign an importance value from 10 to 20 to each criterion
@@ -3603,7 +3603,7 @@ Slide 19 says that several different schemes can be used to weight the criteria.
 - Topic: Benefits of a structured concept selection process
 - Source: Lesson 7 / slide 20
 
-Slide 20 lists the benefits of a structured concept selection process. Which of the following belong to that list?
+This course lists the benefits of a structured concept selection process. Which of the following belong to that list?
 
 - A. A customer-focused product, through evaluation against customer-oriented criteria
 - B. A common scoring template that removes all disagreement in the team's decision
