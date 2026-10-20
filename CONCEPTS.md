@@ -18,7 +18,7 @@
 | 5 | Lesson 5 Specifications and Metrics | 第5课 规格与指标 | 4-10 | 6 | 17 |
 | 5 | Lesson 5 Benchmarking and Target Values | 第5课 标杆比较与目标数值 | 11-14 | 6 | 30 |
 | 5 | Lesson 5 Final Specifications and Models | 第5课 最终规格与模型 | 15-21 | 6 | 8 |
-| 6 | Lesson 6 Concept Generation | 第6课 概念生成 | 5-10 | 6 | 32 |
+| 6 | Lesson 6 Concept Generation | 第6课 概念生成 | 5-10 | 6 | 35 |
 | 6 | Lesson 6 Systematic Exploration | 第6课 系统探索与反思 | 11-16 | 5 | 11 |
 | 7 | Lesson 7 Concept Screening | 第7课 概念筛选 | 5-16 | 6 | 16 |
 | 7 | Lesson 7 Concept Scoring and Decisions | 第7课 概念评分与决策 | 17-22 | 6 | 19 |
@@ -1149,7 +1149,7 @@
 
 **中文要点**：产品概念。概念描述可能满足客户需求的技术、工作原理及形式，用草图、模型和简短文字表达。早期探索替 代方案，可避免后期才发现更好方案而付出高成本。
 
-**覆盖题目**：L6Q01, L6Q02, L6Q03, L6Q04, L6Q29
+**覆盖题目**：L6Q01, L6Q02, L6Q03, L6Q04, L6Q29, L6Q31
 
 ### 6.2 Common dysfunctions.
 
@@ -1197,7 +1197,7 @@
 
 **中文要点**：外部搜索。访谈领先用户、咨询专家、检索专利文献、研究相关产品。先扩展再聚焦。现有方案可节省时间成 本，但采用专利方案可能需要许可。
 
-**覆盖题目**：L6Q15, L6Q16, L6Q17, L6Q20, L6Q30, L6Q32
+**覆盖题目**：L6Q15, L6Q16, L6Q17, L6Q20, L6Q28, L6Q30, L6Q32
 
 ### 6.6 Internal search.
 
@@ -1209,7 +1209,7 @@
 
 **中文要点**：内部搜索。利用个人与团队知识，暂缓批评，生成大量想法，欢迎暂时不可行的方案，并使用草图或简单模型。 结合独立构思与集体讨论，兼顾多样性及完善。
 
-**覆盖题目**：L6Q18, L6Q19, L6Q20, L6Q25, L6Q26, L6Q33
+**覆盖题目**：L6Q18, L6Q19, L6Q20, L6Q25, L6Q26, L6Q28, L6Q33
 
 ---
 

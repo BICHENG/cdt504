@@ -87,12 +87,12 @@ A team is being staffed and someone asks what the manufacturing function is resp
 Which of the following are listed as responsibilities of the marketing function in a product development team?
 
 - A. Mediating customer interactions and identifying product opportunities
-- B. Defining market segments and identifying customer needs
-- C. Demonstrating available technologies and investigating patent issues
+- B. Defining the market segments that the product will serve
+- C. Issuing and defending the patents that protect the new product
 - D. Setting target prices and handling product launch and promotion
 
 - Answer: A,B,D
-- Explanation: Slide 8 gives marketing as "Mediates customer interactions, identifies product opportunities, defines market segments, identifies customer needs, sets target prices, and handles product launch and promotion," so A, B and D all come from that list. C belongs to other functions: slide 15 shows research demonstrating available technologies and legal investigating patent issues.
+- Explanation: Slide 8 gives marketing as "Mediates customer interactions, identifies product opportunities, defines market segments, identifies customer needs, sets target prices, and handles product launch and promotion," so A, B and D restate duties that come from that list. C is wrong because protecting the product with patents is legal work, not a marketing duty. The other two functions on the same slide take the product's physical form (design) and the production system (manufacturing).
 
 ### L1Q06 (Single, Basic)
 
@@ -101,13 +101,13 @@ Which of the following are listed as responsibilities of the marketing function 
 
 At project approval a team promises the board it can be on the market within a year. Judged by the usual duration of product development, how should the board read that promise?
 
-- A. It fits the usual pattern: few products are developed in less than a year, many take 3 to 5 years, and some take up to 10 years
+- A. It is an unusually demanding commitment: few products are developed in less than a year, many take 3 to 5 years, and some take up to 10 years
 - B. It is impossible: every product takes 3 to 5 years
 - C. It only fits software products, while hardware products always take more than 10 years
 - D. It cannot be judged, because the usual duration of product development is not discussed
 
 - Answer: A
-- Explanation: Slide 9, titled Duration and Cost of Product Development, says product development often surprises newcomers with its time and cost, and that "Few products are developed in less than a year. Many take 3 to 5 years, and some up to 10 years." B turns "many" into "every product", C invents a split between software and hardware that the slide never makes, and D is wrong because the slide does give the time pattern.
+- Explanation: Slide 9 says product development often surprises newcomers with its time and cost, and that few products are developed in less than a year, many take 3 to 5 years, and some up to 10 years, so a launch within a year is an unusually demanding promise. B turns "many" into "every product", C invents a split between software and hardware that the slide never makes, and D is wrong because the slide does give the time pattern.
 
 ### L1Q07 (True/False, Basic)
 
@@ -141,12 +141,12 @@ An aircraft maker can make the airframe lighter, but the material costs more and
 - Topic: The five challenges of product development
 - Source: Lesson 1 / slide 11
 
-Besides trade-offs, dynamics, details, competition and economics are the other four challenges of product development. ( )
+The five challenges of product development are trade-offs, dynamics, details, time pressure and economics. Because new competitors appear in the description of dynamics, competition is also one of the five challenges of product development. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 11 lists five challenges: trade-offs, dynamics, details, time pressure and economics. The fourth is time pressure, making quick decisions without complete information, not competition; competitors appear only inside the description of dynamics, which is adapting to technological advancements, evolving customer preferences, new competitors and macroeconomic shifts.
+- Explanation: Slide 11 lists exactly five challenges: trade-offs, dynamics, details, time pressure and economics. Competition is not one of them; competitors appear only inside the description of dynamics, which is adapting to technological advancements, evolving customer preferences, new competitors and macroeconomic shifts. The statement promotes competition to a challenge of its own, so it is false.
 
 ### L1Q10 (Multiple, Intermediate)
 
@@ -171,12 +171,12 @@ Product development is interesting precisely because it is challenging. Which of
 A division head asks which questions to consider before a development process is set up. Which of the following is one of the key questions?
 
 - A. How many colours the product should offer to cover more market segments
-- B. How the promotion of the product should be tied to the project cycle
+- B. How the payments to suppliers should be scheduled
 - C. What key product development activities must be included in every project
 - D. Whether the packaging material should be recyclable or degradable
 
 - Answer: C
-- Explanation: Slide 13 lists five key questions, including "What are the key product development activities that must be included in every project?", together with the questions about project milestones and review gates, whether a standard development process will work for every operating division, the role of experts from different functional areas, and whether the development organization should be divided into groups corresponding to projects or to technical and business functions. A, B and D are not among the questions the slide lists.
+- Explanation: Slide 13 lists five key questions: what key product development activities must be included in every project, what project milestones and review gates manage the process by phases, whether a standard process will work for every operating division, what role experts from different functional areas play, and whether the organization should be divided by projects or by technical and business functions. A, B and D are not among them; B concerns supplier payments, which the five questions never raise.
 
 ### L1Q12 (Single, Basic)
 
@@ -185,13 +185,13 @@ A division head asks which questions to consider before a development process is
 
 A well-defined development process is useful for five reasons. Which group is exactly that set?
 
-- A. Lower cost, shorter cycle, less rework, higher morale, more investment
+- A. Identifying customer needs, selecting a product concept, setting target prices, staff training, budget allocation
 - B. Quality assurance, coordination, planning, management, improvement
-- C. Clear division of labour, budget allocation, target pricing, risk control, staff training
+- C. Clear division of labour, risk control, supplier selection, warranty terms, staff rotation
 - D. Identifying customer needs, establishing target specifications, generating product concepts, selecting a product concept, testing product concepts
 
 - Answer: B
-- Explanation: Slide 14 names QUALITY ASSURANCE, COORDINATION, PLANNING, MANAGEMENT and IMPROVEMENT as the reasons a well-defined development process is useful. D lists the activities of the front-end process on slide 16, which is what the process does rather than what a defined process delivers; A and C are not given as reasons.
+- Explanation: Slide 14 names quality assurance, coordination, planning, management and improvement as the five reasons a well-defined development process is useful, so B reproduces that set. A mixes front-end activities with items that are never given as reasons, and C is not on the slide either. D lists the activities of the front-end process, which is what the process does rather than what a defined process delivers.
 
 ### L1Q13 (Multiple, Challenging)
 
@@ -257,13 +257,13 @@ The activities of the front-end process must proceed in a purely sequential fash
 
 The goal of identifying customer needs is to understand customers' needs and to effectively communicate them to the development team. After interviewing 20 users a colleague says the needs are collected; what else must this activity deliver?
 
-- A. A set of carefully constructed customer need statements, organized in a hierarchical list, with importance weightings for many or all of the need
+- A. A set of carefully constructed customer need statements, organized in a hierarchical list, with importance weightings for many or all of the needs
 - B. Twenty interview recordings kept for later retrieval
 - C. Three to five product concept sketches
 - D. The marginal and ideal values for each metric
 
 - Answer: A
-- Explanation: Slide 17 says the output of identifying customer needs is "a set of carefully constructed customer need statements, organized in a hierarchical list, with importance weightings for many or all of the need." B is raw interview material rather than an organized list of need statements, C is the result of concept generation on slide 19, and D is the output of establishing target specifications on slide 18, where each specification has a metric and marginal and ideal values.
+- Explanation: Slide 17 says the output of identifying customer needs is a set of carefully constructed customer need statements, organized in a hierarchical list, with importance weightings for many or all of the needs. B is raw interview material rather than an organized list of need statements, C is the result of concept generation on slide 19, and D is the output of establishing target specifications on slide 18, where each specification has a metric and marginal and ideal values.
 
 ### L1Q18 (Single, Challenging)
 
@@ -435,15 +435,15 @@ A company builds a new model around an existing technological subsystem. Among t
 - Topic: Variants of the generic product development process
 - Source: Lesson 1 / slide 27
 
-Which of the following are listed as variants of the generic product development process?
+The generic product development process is adapted into several variants, and each variant comes with its own description and distinct features. Which of the following pairings of a variant and its distinct features are correct?
 
-- A. Ecosystem products
-- B. Platform products
-- C. High-risk products
-- D. Digital products
+- A. Product-service systems: both physical and operational elements are developed, with particular attention to the design of the customer experience and the process flow
+- B. Digital products: the product and the production process must be developed together from the start, or an existing production process must be specified from the start
+- C. Customized products: risks are identified early and tracked throughout the process, with analysis and testing activities taken as early as possible
+- D. Quick-build products: detail design and testing phases are repeated a number of times until the product is completed or the time or budget runs out
 
-- Answer: B,C,D
-- Explanation: Slide 27 lists technology-push products, platform products, process-intensive products, customized products, high-risk products, quick-build products, product-service systems and complex systems as variants, and its table of process types also includes digital products, so B, C and D are all there. Ecosystem products appear nowhere on the slide; the easily confused name is product-service systems.
+- Answer: A,D
+- Explanation: A is right: product-service systems develop the physical and the operational elements together, with attention to the customer experience and the process flow. D is right: quick-build products repeat detail design and testing until the product is completed or the time or budget runs out. B is wrong: specifying a production process from the start, or developing product and process together, describes process-intensive products. C is wrong: identifying risks early and tracking them throughout describes high-risk products.
 
 ### L1Q30 (Single, Challenging)
 
@@ -465,15 +465,15 @@ A team needs the product development process flow diagram that shows a repeated 
 - Topic: Comparing the three product development process flows
 - Source: Lesson 1 / slide 28
 
-Three product development process flow diagrams are compared. Which of the following statements match them?
+The generic, the spiral and the complex system product development process each have a flow diagram with its phases and its review gates. Which of the following statements about these diagrams are correct?
 
-- A. The generic product development process has the gates Mission Approval, Concept Review, Preliminary Design Review, Critical Design Review, Production Approval and Project Review
-- B. The complex system development process carries a System Review gate after System-Level Design, and runs its parallel design-test branches into Integrate and Test and then into Validation and Ramp-Up
-- C. In all three diagrams the third phase is System-Level Design
-- D. All three diagrams end with a phase called Production Ramp-Up
+- A. All three diagrams place System-Level Design third, and all three end with a gate named Project Review
+- B. The spiral diagram carries a Cycle Plan Review and a Cycle Review in place of the Preliminary Design Review and the Critical Design Review of the generic diagram
+- C. All three diagrams carry a Production Approval gate before the final phase
+- D. The complex system diagram is the only one of the three that does not end with a phase named Production Ramp-Up
 
-- Answer: A,B,C
-- Explanation: Slide 28 supports A, B and C: the generic diagram is labelled with the six gates in A, the complex system diagram shows a System Review gate after System-Level Design and then Integrate and Test and Validation and Ramp-Up, and all three diagrams place System-Level Design third. D is wrong because the complex system development process ends with Validation and Ramp-Up rather than Production Ramp-Up.
+- Answer: A,B,D
+- Explanation: A is right: all three diagrams run Planning, Concept Development and then System-Level Design, and each closes with a Project Review gate. B is right: the spiral diagram uses Cycle Plan Review and Cycle Review where the generic diagram uses Preliminary Design Review and Critical Design Review. D is right: the complex system diagram ends with Validation and Ramp-Up, while the other two end with Production Ramp-Up. C is wrong: the spiral diagram has no Production Approval gate.
 
 ### L1Q32 (Multiple, Challenging)
 
@@ -522,12 +522,12 @@ The reasons for using product development team members located at multiple sites
 - Topic: The family dinner group exercise
 - Source: Lesson 1 / slide 33
 
-The group exercise asks the class to diagram a process for planning and cooking a family dinner, to judge whether that process resembles the generic product development process, and to say which kind of process cooking dinner is analogous to. ( )
+The class group exercise asks students to diagram a process for planning and cooking a family dinner, and then to judge whether their diagram resembles the generic product development process. ( )
 
 - True / False
 
 - Answer: True
-- Explanation: Slide 33 asks exactly these three things: "Diagram a process for planning and cooking a family dinner", "Does your process resemble the generic product development process?" and "Is cooking dinner analogous to a market-pull, technology-push, platform, process-intensive, customization, high-risk, quick-build, product-service system, or complex system process?"
+- Explanation: Slide 33 asks the class to diagram a process for planning and cooking a family dinner, and the next question asks whether that process resembles the generic product development process, so both parts of the statement are part of the exercise. The exercise also asks which kind of product development process cooking dinner is analogous to.
 
 ---
 
@@ -545,10 +545,10 @@ In the context of product development, which of the following is the definition 
 - A. A new product plan that has already been validated by the market and scheduled for full product development
 - B. An idea for a new product
 - C. A charter of organizational goals and boundary conditions that constrains an innovation effort
-- D. A systematic record of the problems and dissatisfaction that customers meet when using existing products
+- D. A technique that compiles lists of the problems customers meet with existing products and uses them to generate opportunities
 
 - Answer: B
-- Explanation: Slide 5 states "In the context of product development, an opportunity is an idea for a new product." A contradicts the same slide, which says that at the earliest stage of development uncertainty clouds the future and that some opportunities never warrant substantial further development. C is the innovation charter defined on slide 16. D describes material for the "Compile Bug Lists" technique listed on slide 17, not the definition of an opportunity.
+- Explanation: Slide 5 states that in the context of product development an opportunity is an idea for a new product, so B is the definition. A contradicts the same point, that at the earliest stage of development uncertainty clouds the future and some opportunities never warrant substantial further development. C is the innovation charter defined on slide 16. D describes the Compile Bug Lists technique of slide 17, one of the seven techniques for stimulating opportunity identification, not a definition of an opportunity.
 
 ### L2Q02 (Single, Basic)
 
@@ -570,15 +570,15 @@ At the earliest stage of development, an opportunity can be thought of as what?
 - Topic: Where opportunities come from
 - Source: Lesson 2 / slide 5
 
-Which two companies illustrate where opportunities come from?
+Two companies illustrate where opportunities come from: in one, a consumer-products company, an opportunity might be a new type of cleaner suggested by a customer; in the other, a materials company, it might be a new polymer with unusual properties. Which two companies are these examples?
 
 - A. Procter & Gamble and 3M
-- B. Asentio and FroliCat
-- C. FroliCat and Bolt
-- D. 3M and Day
+- B. Unilever and DuPont
+- C. Coca-Cola and BASF
+- D. Sony and Bayer
 
 - Answer: A
-- Explanation: Slide 5 gives the consumer-products company Procter & Gamble, where an opportunity might be a new type of cleaner suggested by a customer, and the materials company 3M, where it might be a new polymer with unusual properties. B and C use the FroliCat team of slide 18 and the Bolt cat toy of slide 10, and D uses the name behind the Real-Win-Worth-it method of slide 20, none of which is an opportunity example.
+- Explanation: Slide 5 gives the consumer-products company Procter & Gamble, where an opportunity might be a new type of cleaner suggested by a customer, and the materials company 3M, where it might be a new polymer with unusual properties, so A names the two examples the slide gives. B, C and D pair companies the slide never mentions, even where the industry fits the example, so none of them can be the pair.
 
 ### L2Q04 (Multiple, Basic)
 
@@ -600,7 +600,7 @@ Which of the following are forms an opportunity can take?
 - Topic: Three horizons and the FroliCat horizon choice
 - Source: Lesson 2 / slide 6 and slide 10
 
-On the three horizons matrix, the FroliCat team sought a next-generation solution for the existing need to entertain cats. Which horizon does that opportunity belong to?
+The three horizons matrix sorts opportunities by how much is known about the need and the solution: Horizon 1 covers improvements, extensions, variants and cost reductions in the core market; Horizon 2 covers next generation products and services for core markets; Horizon 3 covers exploration into new markets. The FroliCat team sought a next-generation solution for the existing need to entertain cats. Which horizon does that opportunity belong to?
 
 - A. Horizon 1 Opportunities
 - B. Horizon 2 Opportunities
@@ -608,7 +608,7 @@ On the three horizons matrix, the FroliCat team sought a next-generation solutio
 - D. None of the three horizons
 
 - Answer: B
-- Explanation: Slide 10 says the team "sought a next-generation solution for the existing need to entertain cats, and thus focused on Horizon 2 opportunities", and the matrix on slide 6 places next generation products and services for core markets in the Horizon 2 band. Horizon 1 is the band for improvements, extensions, variants, and cost reductions, and Horizon 3 is the band for exploration into new markets.
+- Explanation: Slide 10 says the team sought a next-generation solution for the existing need to entertain cats and thus focused on Horizon 2 opportunities, and the matrix on slide 6 places next generation products and services for core markets in the Horizon 2 band. Horizon 1 is the band for improvements, extensions, variants and cost reductions, and Horizon 3 is the band for exploration into new markets.
 
 ### L2Q06 (Multiple, Intermediate)
 
@@ -618,7 +618,7 @@ On the three horizons matrix, the FroliCat team sought a next-generation solutio
 Which statements about the three horizons matrix and about the FroliCat team are correct?
 
 - A. The vertical axis of the matrix is Knowledge of Need (e.g., user/market) and the horizontal axis is Knowledge of Solution (e.g., method/process/technology)
-- B. The FroliCat team explicitly avoided Horizon 3 opportunities because it needed to launch a product within about a year and wished to build on its initial success with the Bolt cat toy
+- B. The team explicitly avoided Horizon 3 opportunities because it needed to launch a product within about a year and wished to build on its initial success with the Bolt cat toy
 - C. Horizon 3 Opportunities cover next generation products and services for core markets
 - D. The matrix labels the band holding "improvements, extensions, variants, and cost reductions" as Horizon 1 Opportunities
 
@@ -659,43 +659,43 @@ In most settings, dozens, hundreds, or even thousands of opportunities are consi
 
 Which statements about the relationship between opportunity identification and product development are correct?
 
-- A. The two can be thought of as separate activities, but there is clearly some overlap between them
-- B. In a consumer product business like FroliCat, preliminary product concepts are almost always generated and explored with prototypes during the opportunity identification process, before a formal product development process begins
-- C. The exploratory activities are typically conducted for several alternative opportunities, with only the most promising proceeding to more comprehensive product design and development
-- D. Prototypes are only built once a formal product development process has begun, because exploring with prototypes is a development activity rather than an identification activity
+- A. In a consumer product business, preliminary product concepts are almost always generated and explored with prototypes during the opportunity identification process, before a formal product development process begins
+- B. The exploratory activities of the opportunity identification process are typically conducted for several alternative opportunities, and only the most promising one proceeds to more comprehensive product design and development
+- C. The exploratory activities of the opportunity identification process are typically conducted for several alternative opportunities, and each of them proceeds to more comprehensive product design and development
+- D. In a consumer product business, preliminary product concepts are almost always generated and explored with prototypes after a formal product development process has begun
 
-- Answer: A,B,C
-- Explanation: Slide 8 says the two can be thought of as separate activities yet clearly overlap, that in a consumer product business like FroliCat preliminary product concepts are almost always generated and explored with prototypes during opportunity identification, before a formal product development process begins, and that this exploration covers several alternative opportunities, of which only the most promising proceeds to comprehensive design and development. D contradicts the slide: prototype exploration happens before the formal process starts.
+- Answer: A,B
+- Explanation: Slide 8 says that in a consumer product business like FroliCat preliminary product concepts are almost always generated and explored with prototypes during opportunity identification, before a formal product development process begins, and that this exploration covers several alternative opportunities, of which only the most promising proceeds to comprehensive design and development. A and B state this. C is wrong: only the most promising opportunity proceeds, not every one. D is wrong: prototype exploration happens before the formal process starts.
 
 ### L2Q10 (Multiple, Basic)
 
 - Topic: FroliCat opportunity funnel
 - Source: Lesson 2 / slide 9
 
-The FroliCat funnel narrows a large pool of raw opportunities to a single opportunity for the product development team. Which of the following stage-to-stage movements does the funnel show?
+The FroliCat opportunity funnel narrows the team's raw opportunities in stages. Which statements about the funnel are correct?
 
-- A. From 50 Raw Opportunities to 7 Opportunities with Representative Product Concepts
-- B. From 7 Opportunities with Representative Product Concepts to 3 Opportunities with Exploratory Prototypes and Sample Packaging
-- C. From 50 Raw Opportunities directly to 1 Opportunity Articulated as a Mission Statement for Product Development Team
-- D. From 3 Opportunities with Exploratory Prototypes and Sample Packaging to 1 Opportunity Articulated as a Mission Statement for Product Development Team
+- A. The funnel starts from 50 raw opportunities and narrows to 7 opportunities with representative product concepts
+- B. Of the 7 opportunities with representative product concepts, 3 reach the stage with exploratory prototypes and sample packaging
+- C. Of the 7 opportunities with representative product concepts, 5 reach the stage with exploratory prototypes and sample packaging
+- D. The opportunities with exploratory prototypes and sample packaging are selected directly from the 50 raw opportunities, skipping the stage with representative product concepts
 
-- Answer: A,B,D
-- Explanation: The funnel on slide 9 runs from left to right through 50 Raw Opportunities, then 7 Opportunities with Representative Product Concepts, then 3 Opportunities with Exploratory Prototypes and Sample Packaging, and finally 1 Opportunity Articulated as a Mission Statement for Product Development Team. C is wrong because the funnel does not narrow 50 raw opportunities straight to one; the two intermediate stages lie between them.
+- Answer: A,B
+- Explanation: The funnel on slide 9 runs from left to right through 50 Raw Opportunities, then 7 Opportunities with Representative Product Concepts, then 3 Opportunities with Exploratory Prototypes and Sample Packaging, and finally 1 Opportunity Articulated as a Mission Statement for Product Development Team. A and B reproduce that funnel. C is wrong because 3 of the 7 reach the prototype stage, not 5. D is wrong because the prototype opportunities are narrowed out of the 7 concept opportunities, not straight from the 50.
 
 ### L2Q11 (Multiple, Challenging)
 
 - Topic: FroliCat opportunity funnel and the swinging ball opportunity
 - Source: Lesson 2 / slide 9
 
-Which statements about the FroliCat opportunity funnel and the "swinging ball" opportunity are correct?
+The FroliCat opportunity funnel narrows a large pool of raw opportunities through a stage with representative product concepts and a stage with exploratory prototypes and sample packaging, and ends at a single opportunity articulated as a mission statement for the product development team. The 'swinging ball' opportunity that the team eventually pursued was first recorded in a sketch. Which statements about this funnel and about this opportunity are correct?
 
 - A. All 50 raw opportunities were carried through to exploratory prototypes and sample packaging before the concepts were narrowed
-- B. The "swinging ball" opportunity eventually pursued by the FroliCat team was first recorded in a sketch, and it is presented as an example of an opportunity that includes a potential solution concept
-- C. The last stage of the funnel is 1 Opportunity Articulated as a Mission Statement for Product Development Team
-- D. The funnel narrows to 3 Opportunities with Exploratory Prototypes and Sample Packaging before it reaches that final opportunity
+- B. The stage with exploratory prototypes and sample packaging comes after the stage with representative product concepts and before the single final opportunity
+- C. The 'swinging ball' opportunity is the one the team eventually pursued, and it is the single opportunity the funnel narrows down to
+- D. The funnel narrows the raw opportunities by discarding the opportunities with representative product concepts, so those never reach the exploratory prototype stage
 
-- Answer: B,C,D
-- Explanation: Slide 9 shows the funnel reaching 3 Opportunities with Exploratory Prototypes and Sample Packaging and then 1 Opportunity Articulated as a Mission Statement for Product Development Team, and it presents the "swinging ball" opportunity, eventually pursued by the FroliCat team and as first recorded in a sketch, as an opportunity that includes a potential solution concept. A is wrong because the funnel shows only 3 opportunities reaching the exploratory prototype and sample packaging stage, not all 50 raw opportunities.
+- Answer: B,C
+- Explanation: Slide 9 shows the funnel running from 50 raw opportunities through 7 with representative product concepts and 3 with exploratory prototypes and sample packaging to one opportunity written up as a mission statement for the product development team. B and C: the prototype stage comes after the concept stage and before the final single opportunity, the 'swinging ball' one the team pursued. A and D are wrong: the concept opportunities are carried forward, and only a small subset reaches the prototype stage.
 
 ### L2Q12 (Single, Basic)
 
@@ -762,27 +762,27 @@ What is meant by seeking high quality of the opportunities generated?
 - Topic: Create high variance in the quality of opportunities
 - Source: Lesson 2 / slide 14
 
-Holding the average quality and the number of opportunities constant, a more consistent opportunity generation process will produce more exceptional opportunities. ( )
+Creating high variance in the quality of opportunities is a direct and immediately obvious implication of statistics. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 14 states the opposite: holding the average quality and number of opportunities constant, "you'll generate more exceptional ones from a process that exhibits greater variability; that is, if it's less consistent in the quality of its output". The slide adds that the quest for variability contradicts normal approaches to process improvement but is exactly what you want in opportunity creation.
+- Explanation: Slide 14 presents it as "a direct, though not immediately obvious, implication of statistics", so the statement turns "not immediately obvious" into "immediately obvious" and is therefore false. The slide adds that holding the average quality and the number of opportunities constant, a process that exhibits greater variability generates more exceptional ones, and that the quest for variability contradicts normal approaches to process improvement but is exactly what you want in opportunity creation.
 
 ### L2Q17 (Single, Intermediate)
 
 - Topic: Six steps of the opportunity identification process
 - Source: Lesson 2 / slide 15
 
-A company is designing the opportunity identification process for a new innovation role. In which order should the six steps be carried out?
+A company is setting up the opportunity identification process for a new innovation effort. In which order should the six steps be carried out?
 
-- A. Establish a charter, generate and sense many opportunities, develop promising opportunities, screen opportunities, select exceptional opportunities, reflect on the results and the process
-- B. Establish a charter, screen opportunities, generate and sense many opportunities, select exceptional opportunities, develop promising opportunities, reflect on the results and the process
-- C. Generate and sense many opportunities, establish a charter, develop promising opportunities, screen opportunities, reflect on the results and the process, select exceptional opportunities
+- A. Establish a charter, generate and sense many opportunities, screen opportunities, develop promising opportunities, reflect on the results and the process, select exceptional opportunities
+- B. Establish a charter, screen opportunities, generate and sense many opportunities, develop promising opportunities, select exceptional opportunities, reflect on the results and the process
+- C. Generate and sense many opportunities, establish a charter, screen opportunities, develop promising opportunities, select exceptional opportunities, reflect on the results and the process
 - D. Establish a charter, generate and sense many opportunities, screen opportunities, develop promising opportunities, select exceptional opportunities, reflect on the results and the process
 
 - Answer: D
-- Explanation: Slide 15 lists the six steps as establish a charter, generate and sense many opportunities, screen opportunities, develop promising opportunities, select exceptional opportunities, and reflect on the results and the process. A moves "develop promising opportunities" ahead of "screen opportunities". B screens before any opportunity has been generated. C breaks the order and makes reflection come before selection.
+- Explanation: Slide 15 lists the six steps as establish a charter, generate and sense many opportunities, screen opportunities, develop promising opportunities, select exceptional opportunities, and reflect on the results and the process. A puts the reflection before the selection it should follow, B screens before any opportunity has been generated, and C generates opportunities before the charter sets the goals and boundary conditions of the effort.
 
 ### L2Q18 (Single, Intermediate)
 
@@ -864,42 +864,42 @@ The FroliCat team is screening 50 raw opportunities and must decide which are wo
 - Topic: Applying separate screening criteria
 - Source: Lesson 2 / slide 18
 
-What happens when screening criteria such as market need, technological feasibility, and alignment with strategy are applied separately, one criterion at a time?
+The FroliCat team had 50 raw opportunities and had to reduce them to the seven worth further development. One option was to apply the screening criteria - market need, technological feasibility, alignment with strategy - to the opportunities one at a time. Which of the following describes what happened when the screening criteria were applied separately in this way?
 
 - A. Only one opportunity can survive, so no subset can be formed
-- B. The team members can no longer reach any consensus
+- B. The screening becomes faster, because each criterion can be checked off against every opportunity in turn
 - C. The process gets bogged down in unnecessary discussion
 - D. Some of the raw opportunities are never covered at all
 
 - Answer: C
-- Explanation: Slide 18 states that "Separate application of multiple screening criteria (e.g., market need, technological feasibility, alignment with strategy) tends to bog down the process in unnecessary discussion". A, B and D are not stated on the slide; B also runs against the same slide, which turns to aggregating the individual judgments of the team members precisely because separate application prolongs the discussion.
+- Explanation: Slide 18 says that applying multiple screening criteria separately, such as market need, technological feasibility and alignment with strategy, tends to bog down the process in unnecessary discussion, which is the effect the team experienced. A is wrong because the screening produced a subset of seven opportunities, not a single survivor. B is wrong because applying the criteria one at a time slowed the screening down rather than speeding it up. D is wrong because no raw opportunity was left unconsidered.
 
 ### L2Q24 (Multiple, Basic)
 
 - Topic: Origin of the FroliCat raw opportunities
 - Source: Lesson 2 / slide 18
 
-How did the FroliCat team come up with its 50 raw opportunities?
+The FroliCat team had developed 50 raw opportunities and then identified the seven of them that were worthy of further development. Which statements about this are correct?
 
-- A. From the efforts of six individuals working independently
-- B. From brainstorming sessions
-- C. By scoring them one by one with the Real-Win-Worth-it framework
-- D. From testing results on three exploratory prototypes with sample packaging
+- A. The 50 raw opportunities were the result of the efforts of six individuals working both independently and in brainstorming sessions
+- B. The seven opportunities were identified by aggregating the individual judgments of the team members
+- C. The 50 raw opportunities were scored one by one with the Real-Win-Worth-it framework
+- D. The raw opportunities were chosen on the basis of the results of testing three exploratory prototypes with sample packaging
 
 - Answer: A,B
-- Explanation: Slide 18 says the team "had developed 50 raw opportunities as the result of the efforts of six individuals working independently and in brainstorming sessions", and that the team members identified seven opportunities they felt were worthy of further development. C is wrong: the Real-Win-Worth-it method of slides 20 and 21 is a screening criterion for opportunities, not a way of developing raw opportunities. D describes the funnel of slide 9, which comes after the 50 raw opportunities.
+- Explanation: Slide 18 says the team developed 50 raw opportunities as the result of the efforts of six individuals working independently and in brainstorming sessions, so A states that in one piece. It also says the team members identified seven opportunities worth further development by aggregating their individual judgments, so B is right too. C is wrong: the Real-Win-Worth-it method on slides 20 and 21 screens opportunities, it does not generate them. D describes a funnel stage that comes after the raw opportunities were narrowed.
 
 ### L2Q25 (True/False, Basic)
 
 - Topic: FroliCat screening practice
 - Source: Lesson 2 / slide 18
 
-The FroliCat team selected 7 opportunities from its 50 raw opportunities by applying screening criteria such as market need, technological feasibility, and alignment with strategy separately to each opportunity. ( )
+The seven opportunities that the FroliCat team judged worth further development were identified by the product designers at Asentio alone, without any contribution from the marketing managers at FroliCat. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 18 states that separate application of multiple screening criteria tends to bog down the process in unnecessary discussion. What the team actually did was develop 50 raw opportunities through the efforts of six individuals working independently and in brainstorming sessions, and then identify seven opportunities worth further development by aggregating the individual judgments of the team members, including both product designers at Asentio and marketing managers at FroliCat.
+- Explanation: Slide 18 says the team members identified the seven opportunities worth further development by aggregating their individual judgments, and that those members included both product designers at Asentio and marketing managers at FroliCat, so the judgment was not the designers' alone. The six individuals who developed the 50 raw opportunities worked independently and in brainstorming sessions.
 
 ### L2Q26 (Single, Intermediate)
 
@@ -963,12 +963,12 @@ Which statement about the Real-Win-Worth-it (RWW) method is correct?
 - Topic: Concept Selection applied to product opportunities
 - Source: Lesson 2 / slide 20
 
-Concept Selection, which compares alternatives against selection criteria, uses the same basic method that can be applied to select product opportunities. ( )
+Concept Selection chooses one design concept by comparing the alternative concepts against selection criteria, and the same comparison method can be applied to select product opportunities. ( )
 
 - True / False
 
 - Answer: True
-- Explanation: Slide 20 says "Concept Selection, describes how to choose a design concept by comparing alternatives against selection criteria. The same basic method can be used to select product opportunities." The same slide then offers the Real-Win-Worth-it method as one specific approach used within established companies.
+- Explanation: Slide 20 says Concept Selection "describes how to choose a design concept by comparing alternatives against selection criteria" and that "the same basic method can be used to select product opportunities". The slide then offers the Real-Win-Worth-it method as one specific approach used within established companies, so both halves of the statement hold.
 
 ### L2Q31 (Multiple, Challenging)
 
@@ -1005,15 +1005,15 @@ In the Real-Win-Worth-it evaluation of the Swing Ball Cat Toy, which is the only
 - Topic: Results of the Swing Ball Cat Toy evaluation
 - Source: Lesson 2 / slide 21
 
-According to the Real-Win-Worth-it evaluation of the Swing Ball Cat Toy, which statements are correct?
+The team applied the Real-Win-Worth-it framework to the Swing Ball Cat Toy, answering the sub-questions under each of the three questions. Which of the following statements about that evaluation are correct?
 
-- A. Every sub-question in the Real block is answered Yes
-- B. Every sub-question in the Worth it block is answered Yes
-- C. The overall answer given under each of the three questions is YES
-- D. The three overall answers, in the order Real, Win and Worth it, are YES, NO and YES
+- A. All four sub-questions under Worth it are answered Yes, and the overall answer recorded under Worth it is YES
+- B. The evaluation sets out nine sub-questions under Real, seven under Win and four under Worth it
+- C. The overall answer recorded under each of the three questions is YES
+- D. The four sub-questions under Worth it ask whether it will make money, whether the customer will buy the product, whether the timing is right, and whether it fits our strategy
 
 - Answer: A,B,C
-- Explanation: Slide 21 answers all nine Real sub-questions and all four Worth it sub-questions with Yes, and it records an overall answer of YES under each of the three questions. D is wrong, because the Win block is also answered YES overall, even though one of its seven sub-questions is answered No.
+- Explanation: Slide 21 shows nine Real sub-questions, seven Win sub-questions and four Worth it sub-questions, answers all four Worth it sub-questions with Yes, and records an overall YES under each of the three questions, so A, B and C hold. D is wrong: the Worth it sub-questions ask about making money, having the resources and cash, acceptable risks and fit with strategy, while whether the customer will buy and whether the timing is right belong to Real and Win.
 
 ### L2Q34 (Single, Intermediate)
 
@@ -1040,7 +1040,7 @@ The in-class individual exercise asks each student to generate 10 opportunities 
 - A. Estimate the manufacturing cost and the recommended retail price of each opportunity
 - B. Develop a detailed product specification for each opportunity
 - C. Test each opportunity through customer interviews and quick prototypes
-- D. Explain why each would work and why it might not, by using the RWW Framework
+- D. Explain why each would work and why it might not, by applying the Real-Win-Worth-it framework
 
 - Answer: D
 - Explanation: Slide 23 asks students to "generate 10 opportunities for innovation based on an area of your personal passion, explaining why each would work and why it might not by using the RWW Framework", and to submit the answer on Moodle. A and B are not part of the exercise, and C describes the tasks of the step for developing promising opportunities on slide 19 rather than what the exercise requires.
@@ -1059,12 +1059,12 @@ Slides: `C:\Users\Administrator\OneDrive\lnu\lectures\CDT504\Copy of CDT504 Less
 Product planning is an activity that considers both which of the following?
 
 - A. The manufacturing cost of each product and its target retail price
-- B. The seniority structure of the development team and the technical difficulty of each project
+- B. The age of the firm's manufacturing equipment and the number of research engineers on its staff
 - C. The current product line and the potential portfolio of projects that an organization might pursue
 - D. Customer complaint records and competitors' advertising budgets
 
 - Answer: C
-- Explanation: Slide 4 states that product planning "considers both the current product line and the potential portfolio of projects that an organization might pursue". A and B concern cost and personnel rather than the two things the slide names, and D concerns customer service and marketing data, which the courseware does not list as part of product planning.
+- Explanation: Slide 4 states that product planning "considers both the current product line and the potential portfolio of projects that an organization might pursue". A is about manufacturing cost and price, B is about the age of the firm's plant and its headcount, and D is about complaint handling and competitors' advertising; none of these is the current product line or the portfolio of candidate projects.
 
 ### L3Q02 (Single, Basic)
 
@@ -1098,30 +1098,30 @@ The four questions a product manager should care about cover which product devel
 - Topic: Extended questions for the mission statement
 - Source: Lesson 3 / slide 6
 
-Which of the following is one of the extended questions whose answers should be included in a mission statement for the team?
+A product manager's critical questions about product planning are extended into five further questions, whose answers belong in the mission statement of the project that will develop the new product. Which of the following is one of those five extended questions?
 
-- A. Which members of the development staff should sign up for the new project
-- B. What the financial targets for the project are
-- C. How competitors will price their next product
-- D. Which manufacturing facility will host the pilot production line
+- A. The four types of product development projects the firm may pursue
+- B. The financial targets for the project
+- C. The opportunity funnel that brings together product development opportunities from across the enterprise
+- D. The criteria for evaluating fundamentally new product opportunities
 
 - Answer: B
-- Explanation: Slide 6 lists five extended questions: the market segment(s) to consider, the new technologies and key features to incorporate, the manufacturing and service goals and constraints, the financial targets for the project, and the budget and time frame for the project. A belongs to the staffing discussion, D to the manufacturing system, and C is a competitive question the slide does not raise.
+- Explanation: Slide 6 lists five extended questions: the market segment(s) to consider in designing the product, the new technologies and key features to incorporate, the manufacturing and service goals and constraints, the financial targets for the project, and the budget and time frame for the project. B is the financial targets. A names the four types of product development project, C the opportunity funnel, and D the criteria for evaluating fundamentally new product opportunities; none of these is one of the five.
 
 ### L3Q05 (Multiple, Basic)
 
 - Topic: Four types of product development projects
 - Source: Lesson 3 / slide 7
 
-In the classification of product development projects, which of the following statements are correct?
+A firm classifies its product development projects into types. Which of the following statements about the relationship between the types of product development project and the firm's existing products are correct?
 
-- A. New product platforms, derivatives and incremental improvements may be considered adjacent to current offerings
-- B. The fourth type departs more substantially from the firm's existing products
-- C. All four types are considered adjacent to current offerings
-- D. Only the fundamentally new product type is considered adjacent to current offerings
+- A. New product platforms, derivatives of existing product platforms and incremental improvements to existing products may be considered adjacent to current offerings
+- B. The last of the four types is the one that departs more substantially from the firm's existing products
+- C. Only the type that departs more substantially from the firm's existing products may be considered adjacent to current offerings
+- D. Every type of product development project may be considered adjacent to current offerings
 
 - Answer: A,B
-- Explanation: Slide 7 says the first three types may be considered adjacent to current offerings, while the last one departs more substantially from the firm's existing products, so A and B follow. C is wrong because only the first three types are adjacent, and D is wrong because the fundamentally new product is the type that departs more substantially, not an adjacent one.
+- Explanation: Slide 7 says that the first three types may be considered adjacent to current offerings, while the last one departs more substantially from the firm's existing products, so A and B hold. C reverses the rule: it is the first three types that may be adjacent, not the departing one. D is wrong because the last type departs rather than sitting adjacent to current offerings.
 
 ### L3Q06 (Single, Basic)
 
@@ -1162,11 +1162,11 @@ About derivatives of existing product platforms, which of the following statemen
 
 - A. They extend an existing product platform to address familiar or adjacent markets with new products or features
 - B. They must be built on a new, common platform
-- C. The example given is Apple's iOS, which initially powered the iPhone and was later extended to support the iPad, iPod Touch and Apple TV
-- D. They always need more development resources than incremental improvement projects
+- C. The products built on the extended platform can each offer functionality tailored to a different use or market
+- D. They always open markets that the firm has never served before
 
 - Answer: A,C
-- Explanation: Slide 10 says these projects "extend an existing product platform to address familiar or adjacent markets with new products or features" and then gives the iOS example in C. B is the definition of a new product platform on slide 8, so it names the wrong type, and D is not supported, because slide 10 makes no resource comparison and slide 21 states that directly comparing specific investments of different types is unwise.
+- Explanation: Slide 10 says these projects "extend an existing product platform to address familiar or adjacent markets with new products or features", and its example shows one platform extended over time so that each product built on it offers functionality tailored to a different use or market, which is C. B is the definition of a new product platform, and D contradicts the same sentence, because derivatives serve familiar or adjacent markets rather than markets the firm has never served.
 
 ### L3Q09 (Single, Basic)
 
@@ -1220,25 +1220,25 @@ Which of the following are steps of the five-step product planning process?
 - A. Identify opportunities
 - B. Allocate resources and plan timing
 - C. Reflect on the results and the process
-- D. Develop a product plan and project mission statements
+- D. Complete the detailed design of the products in the plan and release them for production
 
 - Answer: A,B,C
-- Explanation: Slide 14 lists five steps: identify opportunities, evaluate and prioritize projects, allocate resources and plan timing, complete pre-project planning, and reflect on the results and the process. D is the heading on the slide rather than one of the steps: the five steps produce a product plan and, for each selected project, a mission statement.
+- Explanation: Slide 14 lists five steps: identify opportunities, evaluate and prioritize projects, allocate resources and plan timing, complete pre-project planning, and reflect on the results and the process. A, B and C are three of them. D is not a planning step at all: the process ends with reflecting on the results and the process, while the detailed design and the production release belong to product development afterwards.
 
 ### L3Q13 (Single, Intermediate)
 
 - Topic: The opportunity funnel
 - Source: Lesson 3 / slide 15
 
-The first step of the product planning process is called the opportunity funnel. Why?
+In the five-step product planning process, what does the first step, the opportunity funnel, do?
 
-- A. Because it keeps only the single most promising opportunity for the next step
-- B. Because opportunities are narrowed layer by layer until one project is left
-- C. Because it collects only the opportunities that have already passed screening
-- D. Because it brings together inputs from across the enterprise
+- A. It brings together product development opportunities from across the enterprise, and the firm is encouraged to generate opportunities explicitly as well as to collect them passively
+- B. It screens the collected opportunities against the firm's competitive strategy and keeps the most promising one
+- C. It collects only the opportunities that have already been screened and approved
+- D. It narrows a wide set of opportunities layer by layer until a single project is left
 
-- Answer: D
-- Explanation: Slide 15 says this step "can be thought of as the opportunity funnel because it brings together inputs from across the enterprise", and adds that opportunities may involve any of the four types of projects and may be collected passively or generated explicitly. A and B describe a funnel that ends in one project, which the slide does not describe, and C is the opposite of the slide's advice to attempt to generate opportunities explicitly.
+- Answer: A
+- Explanation: Slide 15 says the first step, identifying product development opportunities, "can be thought of as the opportunity funnel because it brings together inputs from across the enterprise"; opportunities may be collected passively, but the firm is also recommended to generate them explicitly. D describes a funnel that ends in one project, which this step does not do. B moves the screening work of the second step, evaluate and prioritize projects, into the first. C contradicts the advice to generate opportunities explicitly.
 
 ### L3Q14 (Single, Intermediate)
 
@@ -1248,12 +1248,12 @@ The first step of the product planning process is called the opportunity funnel.
 A firm is choosing between two opportunities for new products in existing product categories. Which perspectives are useful for evaluating and prioritizing them?
 
 - A. Competitive strategy, market segmentation and product platforms
-- B. Cost leadership, market share and research budget
-- C. Suppliers, distribution channels and pricing
-- D. Finance, law and human resources
+- B. Competitive strategy and market segmentation, but not product platforms
+- C. Market segmentation and product platforms, but not competitive strategy
+- D. Competitive strategy, market segmentation, product platforms and the development of the manufacturing system
 
 - Answer: A
-- Explanation: Slide 16 names competitive strategy, market segmentation and product platforms as the perspectives for evaluating and prioritizing opportunities for new products in existing product categories, then turns to fundamentally new product opportunities and to balancing the portfolio. B, C and D are not on the slide; note that it introduces these as four basic perspectives although only three are named.
+- Explanation: Slide 16 names competitive strategy, market segmentation and product platforms as the perspectives for evaluating and prioritizing opportunities for new products in existing product categories, then turns to fundamentally new product opportunities and to balancing the portfolio. B and C each leave out one of the three perspectives the slide names, and D adds the development of the manufacturing system, which is not among them. Note that the slide introduces these as four basic perspectives although only three are named.
 
 ### L3Q15 (Multiple, Intermediate)
 
@@ -1279,11 +1279,11 @@ A firm maps competitors' products and its own products onto distinct market segm
 
 - A. Assess which product opportunities best address weaknesses in its own product line
 - B. Identify which product opportunities exploit weaknesses in the offerings of competitors
-- C. Fix the sequence of product introductions so that early adopters buy the high-end product
+- C. Choose the manufacturing process and the suppliers for the products in the plan
 - D. Estimate the resources required for each project in the plan by month, quarter or year
 
 - Answer: A,B
-- Explanation: Slide 18 says that mapping competitors' products and the firm's own products onto segments lets the firm "assess which product opportunities best address weaknesses in its own product line and which exploit weaknesses in the offerings of competitors", and also consider competitors' actions and the strength of its own products for each well-defined group of customers. C is the market readiness factor in project timing and D is the resource estimate, neither belonging to segmentation.
+- Explanation: Slide 18 says that mapping competitors' products and the firm's own products onto segments lets the firm "assess which product opportunities best address weaknesses in its own product line and which exploit weaknesses in the offerings of competitors", so A and B follow from the mapping. C is a manufacturing and sourcing decision and D is a resource estimate for the portfolio; a segment map produces neither.
 
 ### L3Q17 (Single, Intermediate)
 
@@ -1305,15 +1305,15 @@ A technology roadmap is a way to represent what?
 - Topic: SharkNinja Cordless Vacuum Project technology roadmap
 - Source: Lesson 3 / slide 19
 
-In the SharkNinja Cordless Vacuum Project technology roadmap, which value in the Dust Cup row belongs to the Stick USA project?
+The SharkNinja cordless vacuum technology roadmap plans four successive cordless vacuum projects. A product manager wants a cordless vacuum that holds more dust than the Stick USA project while keeping the same cleaning head width. Which project in the roadmap meets both requirements?
 
-- A. 0.3L capacity
-- B. 0.2L capacity
-- C. 0.5L capacity
-- D. TBD
+- A. Powered Lift-Away
+- B. Stick Japan
+- C. Future Cordless
+- D. Stick USA
 
 - Answer: A
-- Explanation: The roadmap shows 0.3L capacity for Stick USA, 0.2L capacity for Stick Japan and 0.5L capacity for Powered Lift-Away, while the Future Cordless column is still TBD. The roadmap on this slide shows the evolution of several subsystem technologies for the cordless vacuum projects, so the values differ from column to column.
+- Explanation: The roadmap gives Stick USA a 0.3 L cup with a standard-width DuoClean 2.0 head, Stick Japan 0.2 L with a narrow DuoClean 2.5, Powered Lift-Away 0.5 L with a standard-width DuoClean 2.0, and Future Cordless a TBD cup with a next-generation nozzle. Only Powered Lift-Away exceeds the 0.3 L cup and keeps the standard width. B has the smaller cup and the narrow head, C has no decided capacity, and D is the reference project itself.
 
 ### L3Q19 (Multiple, Intermediate)
 
@@ -1350,15 +1350,15 @@ About balancing the portfolio of projects, which of the following statements are
 - Topic: Portfolio and competitive strategy
 - Source: Lesson 3 / slide 21
 
-If a firm pursues a low-cost strategy, what should it expect its product development portfolio to contain?
+The shape of a product development portfolio should reflect the firm's competitive strategy. A firm pursuing a low-cost strategy, competing on production efficiency through economies of scale, superior manufacturing methods, low-cost labour and better management of the production system, should expect its portfolio to contain:
 
 - A. Mainly fundamentally new products and breakthrough projects
-- B. Mainly derivative products based upon existing platforms
+- B. Mainly derivative products based upon existing platforms, giving the firm a high product variety
 - C. Mainly projects that wait for the next generation of technology on the technology roadmap
 - D. More production process improvement projects
 
 - Answer: D
-- Explanation: Slide 21 says a firm pursuing a low-cost strategy "would expect the portfolio to contain more production process improvement projects". B is the portfolio of a strategy requiring high product variety, and A and C describe a strategy based on technological superiority, which needs more technology development and breakthrough projects.
+- Explanation: Slide 21 says the choice of competitive strategy should affect the shape of the portfolio, and that a firm pursuing a low-cost strategy "would expect the portfolio to contain more production process improvement projects". B is the portfolio of a strategy requiring high product variety, which needs many derivative products based upon existing platforms. A and C describe a strategy based on technological superiority, which needs more technology development and breakthrough projects.
 
 ### L3Q22 (True/False, Intermediate)
 
@@ -1377,15 +1377,15 @@ Once timing and resource allocation have been determined for the most promising 
 - Topic: Resource allocation
 - Source: Lesson 3 / slide 23
 
-A development manager wants to keep slack for contingencies and stay responsive while still executing every project in the plan on schedule. What capacity utilization target is recommended?
+Product planning advises planning capacity utilization somewhat below 100 percent, so that there is room for contingencies and for the firm to respond. Planning at 100 percent or more leaves no slack, and planning at a much lower target commits so little capacity to the product plan that the projects in it cannot all be executed on schedule. Given these conditions, what capacity utilization target is recommended?
 
-- A. 100 percent, using every resource to the limit
-- B. Above 100 percent, so that some slack is held in reserve
-- C. Somewhat below 100 percent, with 80 to 90 percent as common targets
-- D. Around 50 percent, so that priorities can be changed at any time
+- A. 50 to 60 percent, so that only a few of the projects in the plan can be executed on schedule
+- B. 65 to 75 percent, so that every project in the plan can be executed on schedule and no capacity is held back for contingencies
+- C. 80 to 90 percent, so that contingencies can be allowed for and the firm stays able to respond
+- D. 30 to 40 percent, so that all of the projects in the plan can still be executed on schedule with plenty of capacity to spare
 
 - Answer: C
-- Explanation: Slide 23 says "it is helpful to plan for capacity utilization somewhat below 100 percent (80 to 90 percent are common targets)", so that contingencies are allowed and responsiveness is possible. A and B leave no slack, and D is far below the target the courseware gives; the slide also warns that at utilization above 100 percent, or below these lower targets, there are not enough resources to execute all the projects in the plan on schedule.
+- Explanation: Slide 23 says "it is helpful to plan for capacity utilization somewhat below 100 percent (80 to 90 percent are common targets)", so that contingencies are allowed and responsiveness is possible. A and D go too far below, because at lower targets there are not enough resources to execute all of the projects in the plan on schedule, the opposite of what they claim. B is inconsistent, since planning at 65 to 75 percent leaves a quarter of the capacity idle, not none.
 
 ### L3Q24 (True/False, Intermediate)
 
@@ -1408,11 +1408,11 @@ Determining the timing and sequence of projects, sometimes called pipeline manag
 
 - A. Timing of product introductions
 - B. Technology readiness
-- C. The target retail price of the product
+- C. The packaging specification to be used for the product
 - D. The anticipated release of competing products
 
 - Answer: A,B,D
-- Explanation: Slide 24 lists timing of product introductions, technology readiness, market readiness and competition as the factors to consider, and explains under competition that the anticipated release of competing products may accelerate the timing of development projects. C is a pricing decision, not one of the factors the slide gives for the timing and sequence of projects.
+- Explanation: Slide 24 lists timing of product introductions, technology readiness, market readiness and competition as the factors to consider, and explains under competition that the anticipated release of competing products may accelerate the timing of development projects, which is D. A and B are on that list as well. C is a packaging decision, which is not one of the factors that determine the timing and sequence of projects.
 
 ### L3Q26 (Single, Intermediate)
 
@@ -1464,30 +1464,30 @@ Which of the following are elements of the mission statement for a new product d
 - Topic: Key business goals in the illustrated mission statement
 - Source: Lesson 3 / slides 19, 25 and 26
 
-In the SharkNinja mission statement illustration, what is written under Key Business Goals?
+The mission statement for the SharkNinja cordless powered lift-away vacuum project records the business goals the project is accountable for. Which of the following is one of them?
 
-- A. The battery capacity and dust cup capacity figures
-- B. The primary market: U.S. household multiroom and whole house cleaning
-- C. Launch in Fall 2018; competitive pricing allowing for target sales volume and margins; consistent 5-star customer reviews; grow cordless market share and segment penetration
-- D. Removable hand vac, MultiFlex wand and swappable battery
+- A. Deliver a removable hand vac and a MultiFlex wand with the lift-away model
+- B. Grow cordless market share and segment penetration
+- C. Charge the lift-away through multiple charging options including a charging stand
+- D. Sell to major retailers and win new and existing customers
 
-- Answer: C
-- Explanation: Slide 25 lists Key Business Goals as one of the six elements of the mission statement, and the illustration on slide 26 gives that row: Launch in Fall 2018, competitive pricing allowing for target sales volume and margins, consistent 5-star customer reviews, and growing cordless market share and segment penetration. A belongs to the Benefit Proposition and Dust Cup rows, B is the Primary Market row, and D comes from the Convenience Features row of the roadmap on slide 19.
+- Answer: B
+- Explanation: Slide 26 records four key business goals for the project: launch in Fall 2018, competitive pricing allowing for target sales volume and margins, consistent 5-star customer reviews, and grow cordless market share and segment penetration, so B is one of them. A names convenience features that the roadmap on slide 19 tracks for the Stick USA project, C belongs to the benefit proposition, and D names stakeholders.
 
 ### L3Q30 (Single, Intermediate)
 
 - Topic: Benefit proposition versus assumptions and constraints
 - Source: Lesson 3 / slides 19, 25 and 26
 
-In the SharkNinja mission statement illustration, which entry belongs under Assumptions and Constraints rather than under the Benefit Proposition?
+The mission statement for the SharkNinja cordless powered lift-away vacuum project records the assumptions and constraints that guide the development effort. Which of the following belongs in that element?
 
-- A. Large battery capacity and dust cup suitable for multiroom and whole-house cleaning
-- B. Powered hose for motorized lift-away
-- C. Powered lift-away form factor for convenient floor and detail cleaning
-- D. Swappable battery pack, with multiple charging options including a charging stand
+- A. The next-generation nozzle planned for the Future Cordless project
+- B. Carpet and hard-floor cleaning with a single DuoClean head
+- C. A powered lift-away form factor for convenient floor and detail cleaning
+- D. A DuoClean 2.5 narrow width cleaning head
 
 - Answer: B
-- Explanation: Slide 25 lists the benefit proposition and the assumptions and constraints that guide the development effort as two separate elements of the mission statement, and the illustration writes option B under Assumptions and Constraints while options A, C and D are quoted from the benefit proposition. The illustration is the SharkNinja cordless vacuum project; slide 19 shows the product-technology roadmap for it.
+- Explanation: Slide 26 writes "carpet and hard-floor cleaning with a single DuoClean head" under the assumptions and constraints that guide the development effort, so B belongs there. A and D are entries from the technology roadmap on slide 19, one for the Future Cordless project and one for Stick Japan, and C is written under the benefit proposition.
 
 ### L3Q31 (Single, Intermediate)
 
@@ -1551,15 +1551,15 @@ The reflection step asks whether the assumptions listed in the mission statement
 - Topic: In-class exercise
 - Source: Lesson 3 / slide 30
 
-What does the in-class exercise on product planning and strategy ask students to do?
+The product planning and strategy exercise is a research assignment rather than a design assignment: each student identifies the corporate strategy of a company in which they might be interested in investing, learns about the firm's product lines and newest products, and considers how those products support the corporate strategy. What must the student then produce?
 
-- A. Design a new product, draw its technology roadmap and give a project budget
-- B. Identify the corporate strategy of a company through the Internet or published corporate annual reports, learn about its product lines and newest products and how they support that strategy, and say what types of projects would be expected in its product plan
-- C. Classify every product of one company under the four types of product development projects and write a mission statement for each
-- D. Compare the competitive strategies of four companies and rank their projects with a scoring model
+- A. A technology roadmap for the company's next product, with a budget for each subsystem
+- B. The types of projects that would be expected in the company's product plan
+- C. A mission statement, with all of its elements, for each project in the plan
+- D. A ranking of the company's projects, scored against the four competitive strategies
 
 - Answer: B
-- Explanation: Slide 30 sets three tasks: conduct a search using the Internet or published corporate annual reports to identify the corporate strategy of a company in which you might be interested in investing; learn about the firm's product lines and its newest products and how these products support the corporate strategy; and say what types of projects you would expect to see in the product plan. The new products, roadmaps and scoring models in A, C and D are not part of the exercise.
+- Explanation: Slide 30 sets three tasks: conduct a search using the Internet or published corporate annual reports to identify the corporate strategy of a company in which you might be interested in investing; learn about the firm's product lines and newest products and how they support the corporate strategy; and say what types of projects you would expect to see in the product plan. The roadmaps, mission statements and scored rankings in A, C and D are design work the exercise does not ask for.
 
 ---
 
@@ -1632,12 +1632,12 @@ Which statement correctly describes latent needs?
 - Topic: Nest Learning Thermostat case
 - Source: Lesson 4 / slide 7
 
-The Nest Learning Thermostat was the last product Tony Fadell created at Apple before leaving the company, and Nest Labs was acquired by Google for $3.2 billion three years after its formation. ( )
+Tony Fadell created the Nest Learning Thermostat while he was still at Apple, and Nest Labs was acquired by Google for $3.2 billion three years after its formation. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: The acquisition part matches slide 7: "just three years after its formation, Nest Labs was acquired by Google for $3.2 billion". The product part does not: after leaving Apple, Fadell founded Nest Labs and the Nest Learning Thermostat was "the first product he and his team created from their new company, Nest Labs", not the last one he made at Apple.
+- Explanation: Slide 7 says that after leaving Apple, Fadell created the Nest Learning Thermostat, "the first product he and his team created from their new company, Nest Labs", so the first half is wrong. The acquisition half is right: "just three years after its formation, Nest Labs was acquired by Google for $3.2 billion".
 
 ### L4Q06 (Single, Basic)
 
@@ -1842,12 +1842,12 @@ Half way through an interview a customer mentions something you had not anticipa
 Which of the following descriptions of ways to document interactions with customers are accurate?
 
 - A. Audio recording is easy to make, but time-consuming and costly to transcribe, and it can intimidate customers
-- B. Still photography provides dynamic information about the product in use
+- B. Still photography provides dynamic information about the product in use, because a single photograph can record how the customer handles the product over time
 - C. Video recording is ideal for focus groups and customer observation, and helps to identify latent needs
-- D. Handwritten notes allow focus on questioning, and immediate transcription ensures accuracy and insight sharing
+- D. Handwritten notes let the interviewer concentrate on the questioning rather than on writing everything down, and transcribing them immediately after the session keeps the record accurate and lets the team share the insight
 
 - Answer: A,C,D
-- Explanation: Slide 16 describes audio recording as easy to make but time-consuming and costly to transcribe and able to intimidate customers, video recording as ideal for focus groups and customer observation, useful for team training and presentations, and helpful to identify latent needs, and notes as allowing focus on questioning with immediate transcription ensuring accuracy and insight sharing. B is wrong: still photography is less intrusive and of high image quality, but it lacks dynamic information.
+- Explanation: Slide 16: audio recording is easy to make but time-consuming and costly to transcribe and can intimidate customers; video recording is ideal for focus groups and customer observation, useful for training and presentations, and helps identify latent needs; handwritten notes allow focus on questioning, and immediate transcription ensures accuracy and insight sharing. B is wrong twice: still photography is less intrusive with high image quality, but a still frame carries no dynamic information and cannot show how the product is handled over time.
 
 ### L4Q20 (Single, Intermediate)
 
@@ -1856,25 +1856,25 @@ Which of the following descriptions of ways to document interactions with custom
 
 The customer data template keeps the customer statement next to the interpreted need. Why does the translation process need this record?
 
-- A. Customer needs stem from interpreting raw data and can vary among analysts, so multiple team members are used for the translation process to ensure accuracy
+- A. Because the interpreted need is produced by reading the raw data, keeping the customer's own words beside it lets the team check that the reading still matches what the customer actually said
 - B. The interpreted need is the only record the development process keeps, and the customer statement may be discarded
-- C. Customers may change their minds, so the earlier customer statement is needed to check the interpreted need
-- D. An interpretation can only be made after a product concept has been generated and tested
+- C. An interpretation can only be made after a product concept has been generated and tested, so the raw statement is of no use before that
+- D. Because the customer statement is written in the customer's own words, it has to be left behind and replaced by the team's own wording as soon as the interview is over
 
 - Answer: A
-- Explanation: Slide 18 states that customer needs stem from interpreting raw data and can vary among analysts, and that multiple team members should be used for the translation process to ensure accuracy; slide 17 fills the template with sample customer statements and interpreted needs, so that the raw data and the interpretation of the raw data stay together. B, C and D are not supported by either slide.
+- Explanation: Slide 18 states that customer needs are produced by interpreting raw data, and slide 17 fills the template with sample customer statements and interpreted needs, so the raw data and its interpretation stay together. That record lets the team check an interpreted need against the customer's own words. B and D contradict the template, which keeps both the customer statement and the interpreted need. C puts the interpretation after the product concepts, which come later in the development process.
 
 ### L4Q21 (True/False, Basic)
 
 - Topic: Customer data template
 - Source: Lesson 4 / slide 17
 
-The customer data template lists the complete set of customer statements and interpreted needs gathered in a typical interview session, which usually yields no more than 50 items. ( )
+The customer data template shows a partial list of the customer statements and interpreted needs gathered in a single interview, and a typical interview session may elicit more than 50 customer statements and interpreted needs. ( )
 
 - True / False
 
-- Answer: False
-- Explanation: The note on slide 17 says the opposite on both counts: the template "represents a partial list from a single interview", and "a typical interview session may elicit more than 50 customer statements and interpreted needs". The slide shows the template filled in with sample statements, not a complete set.
+- Answer: True
+- Explanation: The note on slide 17 says the template "represents a partial list from a single interview" and that "a typical interview session may elicit more than 50 customer statements and interpreted needs", so both halves of the statement hold: the template is a partial sample, and a typical session produces well over 50 statements and interpreted needs.
 
 ### L4Q22 (True/False, Intermediate)
 
@@ -1886,7 +1886,7 @@ Customer needs stem from interpreting raw data and can vary among analysts, and 
 - True / False
 
 - Answer: True
-- Explanation: Both halves are on slide 18: "Customer needs stem from interpreting raw data and can vary among analysts" and "Use multiple team members for the translation process to ensure accuracy". The variation among analysts is exactly why the slide calls for several people rather than one."
+- Explanation: Both halves are on slide 18: "Customer needs stem from interpreting raw data and can vary among analysts" and "Use multiple team members for the translation process to ensure accuracy". The variation among analysts is exactly why the slide calls for several people rather than one.
 
 ### L4Q23 (Single, Challenging)
 
@@ -1898,22 +1898,22 @@ A customer says, "I would like my iPhone to adjust my thermostat." Which needs s
 - A. The thermostat is accompanied by a downloadable iPhone app.
 - B. The thermostat can be controlled remotely without requiring a special device.
 - C. The thermostat is versatile.
-- D. The thermostat must be secure from unauthorized access.
+- D. The thermostat is adjusted by an app that sends a command to the boiler over the internet.
 
 - Answer: B
-- Explanation: Slide 19 shows the guideline "What not How" with this customer statement and marks option B as the right needs statement, while option A is the wrong one because a particular solution is not the need itself. Slide 18 gives the guideline as expressing what the product should do, not how it should do it. C is the wrong statement for the guideline Specificity, and D is the wrong statement for the guideline about avoiding "must" and "should".
+- Explanation: Slide 19 pairs the guideline "What" not "How" with the customer statement "I would like my iPhone to adjust my thermostat" and marks "The thermostat can be controlled remotely without requiring a special device" as the right needs statement, which is B. A and D both prescribe the implementation, an accompanying iPhone app or a command sent over the internet to the boiler, so they fail the what-not-how guideline; C is the wrong statement for the guideline Specificity.
 
 ### L4Q24 (Multiple, Challenging)
 
 - Topic: Guidelines for writing needs statements
 - Source: Lesson 4 / slide 18 and slide 19
 
-A set of guidelines for writing needs statements pairs each guideline with a customer statement, a right needs statement and a wrong needs statement. Which of the following guidelines are among them?
+Customer needs are produced by interpreting raw customer data, and the guidelines for writing needs statements keep a statement at the same level of detail as the raw data it was interpreted from. Which of the following are guidelines for writing needs statements?
 
 - A. Express needs in terms of what the product should do, not how it should do it
 - B. Maintain the same level of detail as the raw data
 - C. Use positive phrasing where possible to simplify product specification translation
-- D. Use "must" and "should" freely to rank needs before their importance has been assessed
+- D. Use "must" and "should" freely to rank the needs before any importance assessment has been made, so that the team can start on the top-ranked ones straight away
 
 - Answer: A,B,C
 - Explanation: Slide 18 gives five guidelines: express what the product should do, not how; maintain the same level of detail as the raw data; use positive phrasing to simplify product specification translation; frame needs as product attributes; and avoid must and should until importance has been assessed. D reverses that last guideline, and slide 19 pairs it with the wrong statement "The thermostat must be secure from unauthorized access" against the right one "The thermostat controls are secure from unauthorized access".
@@ -1938,7 +1938,7 @@ Steps 1 and 2 of the needs process yield a large list of needs that is difficult
 - Topic: Procedure for organizing needs
 - Source: Lesson 4 / slide 20
 
-Which of the following are steps in the procedure for organizing needs into a hierarchy?
+The procedure for organizing needs into a hierarchy includes a step that combines the groups into supergroups once the list ends up with more than 20 groups. Which of the following are steps in this procedure?
 
 - A. Write each needs statement on a separate card
 - B. Group the cards by the technical module of the development team that will own each one
@@ -1953,15 +1953,15 @@ Which of the following are steps in the procedure for organizing needs into a hi
 - Topic: Primary and secondary needs
 - Source: Lesson 4 / slide 20 and slide 21
 
-In the hierarchical list of primary and secondary customer needs for the thermostat, each primary need heads a group of more detailed secondary needs. Which of the following is a primary need?
+In the hierarchical list of customer needs for the thermostat, a primary need is a broad heading and the secondary needs are the more specific statements filed under it. Which of the following is a primary need?
 
-- A. The thermostat is smart
-- B. The thermostat saves energy
-- C. The thermostat provides useful information
-- D. The thermostat works normally when electric power is suspended
+- A. The thermostat lasts a long time
+- B. The thermostat is safe to bump into
+- C. The thermostat exterior surfaces do not fade or discolor over time
+- D. The thermostat prevents pipes from freezing in cold months
 
 - Answer: A
-- Explanation: Slide 21 sets the primary needs in bold above their secondary needs, and the eight primary needs include "The thermostat is smart"; slide 20 explains that a hierarchical list has primary, secondary and possibly tertiary needs, and that the thermostat example has 8 primary needs and 41 secondary needs. B, C and D are secondary needs on slide 21, listed under the primary needs "The thermostat is a good investment", "The thermostat is personal" and "The thermostat is reliable".
+- Explanation: Slide 21 lists the eight primary needs in bold above their secondary needs: easy to install, lasts a long time, easy to use, controls are precise, is smart, is personal, is a good investment and is reliable; slide 20 explains that the list has primary, secondary and possibly tertiary needs, with 8 primary and 41 secondary in the thermostat example. B and C are secondary needs under "The thermostat lasts a long time"; D is a secondary need under "The thermostat is smart".
 
 ### L4Q28 (Multiple, Intermediate)
 
@@ -1972,11 +1972,11 @@ The hierarchical list of customer needs uses a special notation to show how impo
 
 - A. An exclamation mark denotes a need that the product should not have
 - B. The number of asterisks indicates the importance rating, with *** denoting critically important needs
-- C. Each primary need in the list is followed by more detailed secondary needs
+- C. An exclamation point flags a latent need, that is, a need that exists but is not yet widely recognized
 - D. Asterisks are used only on primary needs, and the secondary needs carry no importance rating
 
 - Answer: B,C
-- Explanation: The caption on slide 21 states that importance ratings for the secondary needs are indicated by the number of *'s, with *** denoting critically important needs, and that latent needs are denoted by !; slide 22 uses the same notation. A is wrong, because a latent need is one that exists and is not yet widely recognized rather than one the product should avoid, and D is wrong because the asterisks carry exactly that importance rating on the secondary needs.
+- Explanation: The caption on slide 21 states that importance ratings for the secondary needs are indicated by the number of *'s, with *** denoting critically important needs, and that latent needs are denoted by !; slide 22 uses the same notation. A is wrong, because an exclamation point marks a latent need, which exists and is not yet widely recognized, rather than a need the product should avoid, and D is wrong because the asterisks carry exactly that importance rating on the secondary needs.
 
 ### L4Q29 (Single, Basic)
 
@@ -2013,15 +2013,15 @@ A team has finished the hierarchical list of needs but has not yet decided which
 - Topic: Conducting customer surveys
 - Source: Lesson 4 / slide 22 and slide 23
 
-What can customer surveys do when the relative importance of identified needs is being assessed?
+A team is gathering data from customers to help it rate the relative importance of identified needs. Which of the following statements about customer surveys is correct?
 
-- A. Establish the final specifications of the product
-- B. Prove that the needs hierarchy is complete
-- C. Rate every need in the hierarchy on a scale of 1 to 5
-- D. Identify unique or unexpected needs, aiding in discovering latent needs
+- A. A survey must wait until the relative importance assessments are complete before it can begin
+- B. A survey addresses every need in the hierarchy, so that no need is left unrated
+- C. A survey can only be conducted in person, and its responses can only be analyzed by the mean
+- D. A survey can identify unique or unexpected needs, aiding in discovering latent needs
 
 - Answer: D
-- Explanation: Slide 22 states that surveys can identify unique or unexpected needs, aiding in discovering latent needs, and that importance is rated on a scale of 1 to 5, with critical needs marked by asterisks and latent needs by exclamation marks. A is wrong because Step 4 assigns numerical importance to a subset of needs and does not set specifications; B is wrong because nothing shows the hierarchy is complete; C is wrong because surveys typically address a subset of needs rather than every need.
+- Explanation: Slide 22 states that surveys can begin before the relative importance assessments are complete, that they are conducted in person, by phone, online or by mail, and that responses are analyzed by mean, standard deviation or response categories, so A, B and C each contradict it. D is the point of the design: the example importance survey asks customers to tick a feature that is unique, exciting or unexpected.
 
 ### L4Q32 (Single, Intermediate)
 
@@ -2043,12 +2043,12 @@ The process of identifying customer needs can be usefully structured but is not 
 - Topic: Reflection questions at Step 5
 - Source: Lesson 4 / slide 24
 
-Among the questions suggested for asking at Step 5 is whether the team has assessed the pricing and promotional strategies of the main competing products. ( )
+The questions suggested for the reflection step ask whether the team interacted with all of the important types of customers in its target market; whether it can see beyond needs tied only to existing products so as to capture the latent needs of its target customers; which areas of inquiry it should pursue in follow-up interviews or surveys; which of the customers it spoke to would be good participants in its ongoing development efforts; what it knows now that it did not know when it started; whether it is surprised by any of the needs; and whether everyone within the organization who needs to deeply understand customer needs was involved, together with how the process might be improved in future efforts. Among these questions is whether the team has assessed the pricing and promotional strategies of the main competing products. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 24 asks whether the team interacted with all important customer types in the target market, whether it can see beyond needs tied only to existing products to capture latent needs, which areas to pursue in follow-up interviews or surveys, which customers would be good ongoing participants, what it knows now that it did not know before, whether it is surprised by any need, and whether everyone who needs to understand customer needs was involved. Competitor pricing and promotion are not among them.
+- Explanation: Slide 24 lists the reflection questions set out in the stem, and none of them concerns the pricing or the promotion of the competing products: they cover the customer types met, the latent needs seen, the follow-up work, the customers worth keeping involved, what has been learned, the needs that surprised the team and the internal participation. The competitor pricing and promotion question is not one of them.
 
 ### L4Q34 (Multiple, Intermediate)
 
@@ -2070,12 +2070,12 @@ The human centric design approach states an objective for the design process, an
 - Topic: Class activities on human centric design
 - Source: Lesson 4 / slide 28 and slide 29
 
-The closing activities on human centric design ask students to share their own human centric design experience with peers, and, in the in-class individual exercise, to choose a product that continually annoys them, identify the needs the developers of this product missed, say why those needs were not met, and decide whether the developers deliberately ignored them. ( )
+The human centric design session closes with two activities: students share their own human centric design experience with peers, and each student then does an individual exercise in which they choose a product that continually annoys them, identify the needs that the developers of this product missed, say why those needs were not met, and decide whether the developers deliberately ignored them. The individual exercise therefore asks students to diagnose unmet needs in a product that already exists, rather than to design a replacement for it. ( )
 
 - True / False
 
 - Answer: True
-- Explanation: Slide 28 asks "What's your human centric design experience?" for students to share with peers. Slide 29 sets the in-class individual exercise: choose a product that continually annoys you, identify the needs the developers of this product missed, why you think these needs were not met, and whether the developers deliberately ignored these needs.
+- Explanation: Slide 28 asks "What's your human centric design experience?" for students to share with peers. Slide 29 sets the in-class individual exercise: choose a product that continually annoys you, identify the needs the developers of this product missed, why you think these needs were not met, and whether the developers deliberately ignored these needs. Both activities work out what an existing product leaves unmet and why, so the exercise is a diagnosis of an existing product rather than a design task.
 
 ---
 
@@ -2107,11 +2107,11 @@ Development teams use precise specifications to translate customer needs into me
 
 - A. The customer's subjective satisfaction with the installation process
 - B. The retail price of the front fork
-- C. The time to assemble to frame
+- C. The time to assemble the fork
 - D. The volume of the product packaging box
 
 - Answer: C
-- Explanation: Slide 9's needs-metrics matrix marks metric 15, "Time to assemble to frame", against need 10, "Is easy to install", and the Need Nos. column of Sample 1 on slide 11 points the same metric at that need, so the installation itself is what gets measured. A stays subjective, and B and D measure price and packaging rather than installation.
+- Explanation: Slide 9's needs-metrics matrix marks metric 15, the time to assemble the fork, against need 10, "Is easy to install", and the Need Nos. column of Sample 1 on slide 11 points the same metric at that need, so the installation itself is what gets measured. A stays subjective, and B and D measure price and packaging rather than installation.
 
 ### L5Q03 (Single, Intermediate)
 
@@ -2148,12 +2148,12 @@ Final specifications involve trade-offs among desirable characteristics. Where a
 - Topic: Final specifications documented in the contract book
 - Source: Lesson 5 / slide 5
 
-Final specifications involve trade-offs among desirable characteristics and are documented in the project's contract book. ( )
+The trade-offs among the desirable characteristics are settled and the results are written into the project's contract book. That contract book is finalised while the technological constraints and the production costs are still unknown, so the specifications in it are the team's target specifications rather than the final specifications. ( )
 
 - True / False
 
-- Answer: True
-- Explanation: Slide 5 says this, and it lists the contents of the contract book as the development plan, project schedule, required resources and economic implications. The slide presents the contract book as the place where the trade-offs among desirable characteristics are recorded, not as a place where target values are still being proposed.
+- Answer: False
+- Explanation: Slide 5 runs the other way: the target specifications are established first, before the technological constraints are known, and are refined later; the final specifications, which carry the trade-offs among desirable characteristics, are documented in the contract book after the product concept has been selected, once the technological constraints and the production costs have been assessed. So the contract book holds the final specifications, and it is finalised after the constraints and the costs are known.
 
 ### L5Q06 (Single, Intermediate)
 
@@ -2190,15 +2190,15 @@ In the Specialized bicycle front suspension fork case, how did the team identify
 - Topic: Bicycle-fork case: development challenges
 - Source: Lesson 5 / slide 7
 
-In the Specialized bicycle front suspension fork case, which challenges did the team face during development?
+In the Specialized bicycle front suspension fork case, the team faced a set of development challenges. Which option lists all of them?
 
-- A. Translating customer needs into precise targets, defining success criteria, ensuring market share and balancing trade-offs like cost and weight
-- B. Only the lack of laboratory equipment, with no difficulty in identifying needs or setting targets
-- C. Mainly the failure to find dealers willing to give interviews
-- D. Only the appearance design, with the cost and weight trade-offs left out
+- A. Translating customer needs into precise targets, defining success criteria, ensuring market share, and balancing trade-offs like cost and weight
+- B. Translating customer needs into precise targets, defining success criteria, and ensuring market share
+- C. Translating customer needs into precise targets, defining success criteria, and balancing trade-offs like cost and weight
+- D. Defining success criteria, ensuring market share, and balancing trade-offs like cost and weight
 
 - Answer: A
-- Explanation: Slide 7 lists these four challenges: translating customer needs into precise targets, defining success criteria, ensuring market share, and balancing trade-offs like cost and weight. B and C contradict the slide, since identifying customer needs was itself one of the challenges, and D drops the cost and weight trade-off that the slide names.
+- Explanation: Slide 7 lists four challenges: translating customer needs into precise targets, defining success criteria, ensuring market share, and balancing trade-offs like cost and weight. Option A carries all four. B leaves out the cost and weight trade-off, C leaves out the market share challenge, and D leaves out the translation of customer needs into precise targets. Each of the three names challenges the team really faced, but none of them is the complete set.
 
 ### L5Q09 (Single, Basic)
 
@@ -2213,18 +2213,18 @@ Metrics should directly reflect how well the product meets customer needs. Which
 - D. Copy the metrics of a competitor's benchmarking chart
 
 - Answer: C
-- Explanation: Slide 8 says to generate metrics by contemplating each need and identifying measurable product characteristics, and that ideally each need has a single metric, though complex needs may require multiple metrics. A ignores the measurable requirement, B starts from what is easy to measure rather than from the need, and D copies competitor metrics instead of generating them from needs.
+- Explanation: Slide 8 says to generate metrics by contemplating each need and identifying measurable product characteristics. A keeps the need's own wording instead of identifying a measurable characteristic, B starts from what is easy to measure rather than from the need, and D copies competitor metrics instead of generating them from needs.
 
 ### L5Q10 (Single, Intermediate)
 
 - Topic: One need and one metric
 - Source: Lesson 5 / slides 8, 9 and 11
 
-Ideally each need has a single metric, but complex needs may require multiple metrics. Which statement about this rule is correct?
+A team is generating the metrics that will measure its customer needs. How should the number of metrics be decided for each need?
 
-- A. Every need must have exactly one metric, and extra needs have to be merged
+- A. Every need must have exactly one metric, and needs that appear to need a second metric are merged into one
 - B. A metric may serve only one need, otherwise the matrix cannot be marked
-- C. The number of needs must equal the number of metrics, otherwise the specifications fail
+- C. The number of metrics must equal the number of needs, otherwise the specifications fail
 - D. A single metric is normally enough for a need, but a complex need may need several metrics
 
 - Answer: D
@@ -2265,12 +2265,12 @@ Which statements about the needs-metrics matrix are correct?
 - Topic: Needs and metrics named Instills pride
 - Source: Lesson 5 / slide 9
 
-"Instills pride" appears both as a customer need and as a metric in the needs-metrics matrix. ( )
+In the needs-metrics matrix for the bicycle fork, one metric carries exactly the same wording as the need it is paired with. ( )
 
 - True / False
 
 - Answer: True
-- Explanation: On slide 9 "Instills pride" is a need and also a metric, and Sample 1 on slide 11 gives metric 17 the need number 12 and the unit "Subj.". Slide 10 explains that such a subjective need should be noted as such in the specifications and verified through customer panels.
+- Explanation: Slide 9 shows need 12 "Instills pride" marked under metric 17, whose label is also "Instills pride", so one pair in the matrix is worded identically on both sides. The other pairs are worded differently, for example need 7 "Is lightweight" under metric 9 "Total mass". The matrix therefore allows both a metric worded like its need and metrics worded differently.
 
 ### L5Q14 (Single, Intermediate)
 
@@ -2337,27 +2337,27 @@ Competitive benchmarking is essential for determining commercial success relativ
 - Topic: Two benchmarking charts
 - Source: Lesson 5 / slide 11 and slide 12
 
-Competitive benchmarking is presented with two charts, Sample 1 and Sample 2, and Sample 1 compares the product metrics of competitors. What does Sample 2 compare?
+Competitive benchmarking is presented with two charts: Sample 1 compares the product metrics of the competitors, and Sample 2 compares the customer perceptions of satisfaction for the needs. In Sample 2 every competitor is marked for every need with a cluster of dots. How is a competitor's satisfaction with a need recorded?
 
-- A. Customer perceptions of satisfaction
-- B. Product metrics of competitors, drawn in a different way
-- C. The importance scores of customer needs, with more needs listed
-- D. The ideal and marginally acceptable target values of each competitor
+- A. By the number of dots, where more dots mean greater perceived satisfaction of the need
+- B. By the value of the product metric that corresponds to the need
+- C. By a ranking of the competitors from the most to the least satisfied, with only the first place marked
+- D. By the number of dots, where fewer dots mean greater perceived satisfaction of the need
 
 - Answer: A
-- Explanation: Slide 11 says Sample 1 compares product metrics of competitors and Sample 2 compares customer perceptions of satisfaction, adding that both charts highlight discrepancies and are instructive. B and C contradict what the slides say they compare, and D is a target value that the team sets itself, as slide 13 shows.
+- Explanation: Slide 12 labels Sample 2 as the competitive benchmarking chart based on perceived satisfaction of needs, and notes that scoring more dots corresponds to greater perceived satisfaction of the need, so A is the correct reading. B substitutes the metric value, which is what Sample 1 records. C is wrong because every competitor is marked for every need, and D reverses the way the dots are read.
 
 ### L5Q19 (True/False, Intermediate)
 
 - Topic: Perceived satisfaction and metric performance
 - Source: Lesson 5 / slide 11 and slide 12
 
-Sample 2, the competitive benchmarking chart based on perceived satisfaction of needs, shows that a higher perceived satisfaction with a need always means a better value for the corresponding metric in Sample 1, the chart based on product metrics. ( )
+Sample 1 compares the product metrics of the competitors and Sample 2 compares the customer perceptions of satisfaction for the needs; putting the two charts side by side is how the team finds out where the two views disagree. A competitor that scores higher on Sample 2 for a need therefore has the better value for the corresponding metric in Sample 1. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 11 says both charts highlight discrepancies and are instructive, so a stronger result in one view does not follow from the other. It also notes that data verification is crucial when discrepancies appear.
+- Explanation: Slide 11 says both charts highlight discrepancies and are instructive, and that data verification is crucial when they appear. Because the two charts capture different views of the same competitors, a lead on the perceived satisfaction chart is not carried over to the metric values, which is exactly why the discrepancies between the two views have to be examined.
 
 ### L5Q20 (Single, Basic)
 
@@ -2391,33 +2391,33 @@ The team wants to set a target value for suspension fork mass, where smaller is 
 
 ### L5Q22 (Multiple, Intermediate)
 
-- Topic: Forms for expressing target values
+- Topic: The two target values for a metric
 - Source: Lesson 5 / slide 13
 
-Target values can be expressed in forms such as "At least X", "At most X", "Between X and Y" and "Exactly X". Which of the following statements about these forms are correct?
+For each metric the team works on, it records two target values, and the two carry different meanings. Which of the following statements about them are correct?
 
-- A. "At least X" sets an upper bound, smaller is better
-- B. "At most X" sets an upper bound, smaller is better
-- C. "Between X and Y" sets both bounds
-- D. "Exactly X" is a precise target, where deviation impacts performance
+- A. The ideal value is the best result the team could aim for
+- B. The marginally acceptable value is the worst result the project can still live with commercially
+- C. One of them is set against the high case of the cost estimate and the other against the low case
+- D. One of them is set against what the competitors have achieved and the other against what the team plans to beat
 
-- Answer: B,C,D
-- Explanation: Slide 13 says "At least X" sets a lower bound, higher is better, "At most X" sets an upper bound, smaller is better, "Between X and Y" sets both bounds, and "Exactly X" is a precise target where deviation impacts performance. A is wrong because "At least X" is the lower bound form, and the slide pairs it with higher is better, not smaller.
+- Answer: A,B
+- Explanation: Slide 13 names two target types for each metric: the ideal value, the best result, and the marginally acceptable value, the commercially viable one. C confuses them with the high and low cost cases of the bill of materials, and D with the competitors' published performance, neither of which the process pairs with a metric.
 
 ### L5Q23 (Multiple, Intermediate)
 
 - Topic: Reviewing target values
 - Source: Lesson 5 / slide 14
 
-After setting target values, the team asks a set of key questions. Which of the following are among them?
+The review that follows the preparation of the metrics, the benchmarking data and the target values comes before the technical models, the cost models and the final specifications. Which of the following are among the key questions asked in that review?
 
-- A. Whether the target values have already been written into the final specification document
-- B. Whether anyone is "gaming" metrics to achieve higher results
-- C. Whether the product concept that was selected should now be changed
-- D. Whether multiple product options should be considered for different market segments
+- A. Do the technical models still predict the metric values accurately?
+- B. Is anyone "gaming" metrics to achieve higher results?
+- C. Do the cost estimates in the bill of materials still match the current supplier prices?
+- D. Should multiple product options be considered for different market segments?
 
 - Answer: B,D
-- Explanation: Slide 14 lists three key questions: is anyone "gaming" metrics to achieve higher results, should multiple product options be considered for different market segments, and are all necessary specifications included and do they reflect commercial success. A is not on the list, and C belongs to the reflection on the outcome in slide 20, where the concept is revisited if necessary.
+- Explanation: Slide 14 lists three key questions: is anyone "gaming" metrics to achieve higher results, should multiple product options be considered for different market segments, and are all necessary specifications included and do they reflect commercial success. A and C belong to the later work on the technical and cost models, which comes after this review, so they are not among these key questions.
 
 ### L5Q24 (Multiple, Intermediate)
 
@@ -2484,12 +2484,12 @@ When a complex product's specifications are flowed down to its subsystems, which
 - Topic: In-class group exercise
 - Source: Lesson 5 / slide 21
 
-The in-class group exercise asks each group to list a set of metrics that correspond to the needs the group project is addressing, and also to set the ideal and marginally acceptable target values for them. ( )
+In the in-class group exercise on metrics, each group has to list a set of metrics that correspond to the needs its group project is addressing, and for each of those metrics it also has to give an ideal value and a marginally acceptable value. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 21 asks only for that set of metrics: "Please list a set of metrics that correspond to the needs your group project is addressing." Setting target values is not part of the exercise; the ideal and marginally acceptable values are set later, in the steps for establishing target specifications on slide 6 and for setting target values on slide 13.
+- Explanation: Slide 21 asks only for the set of metrics that correspond to the needs the group project is addressing; no target value is requested. The ideal value and the marginally acceptable value belong to the later step for setting target values, where each metric receives that pair. The exercise therefore sets neither of them.
 
 ### L5Q29 (Single, Basic)
 
@@ -2528,7 +2528,7 @@ A competitive map is used when refining the specifications. What does the map pl
 
 Setting target values involves several dependencies and considerations. Which of the following apply?
 
-- A. Metrics interdependence, with complex targets added in the final phase
+- A. Metrics interdependence: the complex targets are added in the final phase
 - B. Competitive benchmarking has no part in setting targets, it only describes the competitors
 - C. The market segment, the competitors and the mission statement are considered when choosing values
 - D. Target values become final specifications as soon as they are set, so no refinement is expected
@@ -2541,15 +2541,15 @@ Setting target values involves several dependencies and considerations. Which of
 - Topic: Bill of materials and cost calculation
 - Source: Lesson 5 / slide 17
 
-A bill of materials for the fork gives a total cost of 104.19 in the high case and 78.68 in the low case. Assembly is charged at 20 dollars per hour, adding 10.00 in the high case and 6.67 in the low case, and overhead is charged at 25% of the direct cost, where the direct cost is the parts plus the assembly. Which of the following follow from these numbers?
+A bill of materials for the fork gives a total cost of 104.19 in the high case and 78.68 in the low case, where that total cost is the sum of the parts, the assembly charge and the overhead charge. Assembly is charged at 20 dollars per hour, adding 10.00 in the high case and 6.67 in the low case, and overhead is charged at 25% of the direct cost, where the direct cost is the parts plus the assembly. Which of the following follow from these numbers?
 
 - A. In the high case the parts total 73.35, because 104.19 minus 10.00 of assembly minus 20.84 of overhead leaves 73.35
-- B. The low case overhead is 15.74, because the overhead is 25% of the low case total cost of 78.68
-- C. The high case overhead of 20.84 is 25% of the parts cost of 73.35
+- B. The low case overhead is 19.67, because the overhead is 25% of the low case total cost of 78.68
+- C. The high case overhead is 18.34, because it is 25% of the parts cost of 73.35
 - D. The 25.51 difference between the two cases breaks down into 17.08 for the parts, 3.33 for assembly time and 5.10 for overhead
 
 - Answer: A,D
-- Explanation: Slide 17 lists high and low cost estimates in the bill of materials to make uncertainty visible. On those figures the parts total 73.35 in the high case and 56.27 in the low case, assembly adds 10.00 and 6.67, and the 25% rate on the direct cost gives 20.84 and 15.74, so the 25.51 difference splits into 17.08, 3.33 and 5.10. B takes the 25% on the low case total cost and C on the parts cost, not on the direct cost.
+- Explanation: Slide 17 lists high and low cost estimates in the bill of materials, and the overhead is 25% of the direct cost, which is the parts plus the assembly. In the high case the parts are 104.19 minus 10.00 of assembly minus 20.84 of overhead, that is 73.35, and the 25.51 difference between the cases splits into 17.08 of parts, 3.33 of assembly and 5.10 of overhead. B and C apply the 25% rate to the total cost and to the parts cost.
 
 ### L5Q33 (Multiple, Challenging)
 
@@ -2586,12 +2586,12 @@ Market and media considerations add to the guidelines for constructing metrics. 
 - Topic: Four steps to establish target specifications
 - Source: Lesson 5 / slide 6
 
-The four steps to establish target specifications are, in this order: collect competitive benchmarking information, prepare a list of metrics, set ideal and marginally acceptable target values, reflect on the results and the process. ( )
+In the four steps for establishing target specifications, the ideal and the marginally acceptable target values are set after the competitive benchmarking information has been collected, and the reflection on the results and the process comes after the target values have been set. ( )
 
 - True / False
 
-- Answer: False
-- Explanation: Slide 6 lists the steps as prepare a list of metrics, collect competitive benchmarking information, set ideal and marginally acceptable target values, and reflect on the results and the process. The statement swaps the first two steps, so it is not the order the slide gives.
+- Answer: True
+- Explanation: Slide 6 lists the steps as prepare a list of metrics, collect competitive benchmarking information, set ideal and marginally acceptable target values, and reflect on the results and the process. The benchmarking information is therefore collected before the target values are set, and the reflection on the results and the process is the last of the four steps.
 
 ---
 
@@ -2619,15 +2619,15 @@ Which three aspects does a product concept describe?
 - Topic: Concept generation process
 - Source: Lesson 6 / slide 5
 
-Concept generation is inexpensive and quick. What share of the development effort does it take?
+Concept generation is one step of a development project. What share of the project's budget and of the development time does that step typically take?
 
 - A. Less than 5% of the budget and 15% of the development time
-- B. Less than 15% of the budget and 5% of the development time
-- C. Less than 15% of the budget and 15% of the development time
-- D. Less than 50% of the budget and 15% of the development time
+- B. Less than 5% of the budget and 30% of the development time
+- C. Less than 5% of the budget and 20% of the development time
+- D. 15% of the budget and 5% of the development time
 
 - Answer: A
-- Explanation: Slide 5 says concept generation is "inexpensive and quick, less than 5% budget, and 15% development time". B swaps the two figures, C turns the budget share into 15%, and D inflates the budget share to 50%.
+- Explanation: Slide 5 describes concept generation as inexpensive and quick, taking less than 5% of the budget and 15% of the development time, so A is the only correct pair. B and C borrow the 30% and 20% shares of the course assessment weighting, which are not shares of the development effort, and D swaps the two figures, putting 15% of the budget and 5% of the time into the step.
 
 ### L6Q03 (Single, Intermediate)
 
@@ -2664,15 +2664,15 @@ Where does concept generation start, and what does it produce?
 - Topic: Exploration process
 - Source: Lesson 6 / slide 14
 
-A team has used the classification tree and the combination table to narrow its alternatives, and some subproblems are still open. What happens to those subproblems?
+During the exploration process, which statement about the subproblems of a project is correct?
 
-- A. They are addressed eventually, after the alternatives have been narrowed
-- B. They are dropped, because the narrowed alternatives already cover every subproblem
-- C. They are postponed indefinitely, because the exploration process is not the final step
-- D. They are handled before the narrowing, because the subproblems come first in the method
+- A. Every subproblem of the project is addressed by the team
+- B. The project sponsor settles the subproblems, because deciding what to build is the sponsor's responsibility
+- C. Only the subproblems that the internal search reached are addressed, because the external search produces no subproblems of its own
+- D. Only the subproblems that the team feels able to solve are addressed, because the others would take too much time
 
 - Answer: A
-- Explanation: Slide 14 says that teams eventually address all subproblems after narrowing alternatives, so the subproblems left open are still dealt with once the alternatives have been narrowed. B and D contradict that statement, and C misreads the same slide's point that exploration guides further creative thinking rather than being the final step.
+- Explanation: Slide 14 says that teams eventually address all subproblems, so every subproblem of the project is addressed by the team. B is wrong because the team does the work rather than the sponsor, C because the external search does produce subproblems and the coverage is complete, and D because no subproblem is dropped for being too ambitious.
 
 ### L6Q06 (Single, Intermediate)
 
@@ -2879,10 +2879,10 @@ Which of the following are the guidelines for improving internal search?
 - A. Suspend Judgment: do not criticize ideas immediately, but focus on suggesting improvements
 - B. Generate a Lot of Ideas: more ideas increase the exploration of the solution space and stimulate further creativity
 - C. Welcome Infeasible Ideas: these can often be improved and encourage pushing the boundaries of possibilities
-- D. Build Sketch Models: simple models help in understanding form and spatial relationships
+- D. Reach a workable solution as quickly as possible and stop the search, because the later steps only need one concept
 
 - Answer: A,B,C
-- Explanation: Under "Guidelines for Improving Internal Search" slide 10 gives Suspend Judgment, Generate a Lot of Ideas and Welcome Infeasible Ideas, which are A, B and C. D comes from "Use of Sketches and Models" on the same slide and is not one of these three guidelines.
+- Explanation: Under "Guidelines for Improving Internal Search" slide 10 gives Suspend Judgment, Generate a Lot of Ideas and Welcome Infeasible Ideas, which are A, B and C. D turns the search into a hunt for the first workable solution, which runs against the thorough exploration these guidelines are meant to encourage.
 
 ### L6Q20 (Multiple, Basic)
 
@@ -2951,7 +2951,7 @@ About the concept classification tree, which of the following statements are cor
 
 About managing the exploration process, which of the following practices are part of it?
 
-- A. Teams usually generate multiple classification trees and concept combination tables
+- A. Teams usually generate multiple classification trees and concept combination tables, because each new round of searching and refining adds concepts that have to be organised
 - B. The classification tree and the combination table are produced by an outside agency, and the team only reviews them
 - C. The process includes refining the problems and conducting additional searches
 - D. Exploration guides further creative thinking rather than being the final step
@@ -2964,12 +2964,12 @@ About managing the exploration process, which of the following practices are par
 - Topic: Internal search
 - Source: Lesson 6 / slide 10
 
-Suspend Judgment is one of the guidelines for improving internal search, and it says: evaluate each idea as it is proposed and keep only the ones that already look workable. ( )
+The internal search generates solution concepts from the personal and the team knowledge of the members, and it does so without the creativity methods that Osborn developed in the 1940s. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 10 says the opposite: "Suspend Judgment: Avoid criticizing ideas immediately; focus on suggesting improvements". The rule is meant to keep every idea alive for further development, not to filter ideas out as they are proposed.
+- Explanation: Slide 10 states that the internal search is based on the creativity methods developed by Osborn in the 1940s, so the second half of the statement is wrong. The first half is right: internal search involves using personal and team knowledge to generate solution concepts.
 
 ### L6Q26 (True/False, Intermediate)
 
@@ -2998,14 +2998,14 @@ The team should address every subproblem before it narrows the alternatives, so 
 ### L6Q28 (True/False, Basic)
 
 - Topic: In-class exercise
-- Source: Lesson 6 / slide 16
+- Source: Lesson 6 / slides 9, 10 and 16
 
-The in-class exercise in this lesson asks each group to prepare an internal-search plan for the problem and the solution of its group project. ( )
+Combining individual efforts with group discussions enhances the overall concept generation process, and the external search is often quicker and cheaper than developing new solutions. The in-class group exercise asks each group to prepare an internal-search plan for the problem and the solution of its group project. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 16 reads "Prepare an external-search plan for the problem and solution of your group project". The plan is for the external search, which is step 2 of the five step method on slide 7; internal search is a separate step, covered on slide 10.
+- Explanation: Slide 16 asks each group to prepare an external-search plan for the problem and solution of the group project, not an internal-search plan, so the statement is false. The first part is right: slide 10 says that combining individual efforts with group discussions can enhance the overall concept generation process, and slide 9 notes that the external search is often quicker and cheaper than developing new solutions.
 
 ### L6Q29 (Single, Basic)
 
@@ -3040,17 +3040,17 @@ A team has found that an existing product already solves most of the problem, an
 ### L6Q31 (Multiple, Basic)
 
 - Topic: Common dysfunctions
-- Source: Lesson 6 / slide 6
+- Source: Lesson 6 / slides 5 and 6
 
-Which of the following are common dysfunctions in concept generation?
+Concept generation begins with the customer needs and the target specifications, and the step results in a set of alternative concepts rather than a single settled solution. Which of the following are common dysfunctions in concept generation?
 
 - A. Limited alternatives are often proposed by assertive team members
-- B. The team leaves the concept stage before it has compared the alternatives
+- B. The step ends with the team choosing one concept from the alternatives and handing it over as the finished product
 - C. Useful concepts from related and unrelated products are neglected
 - D. Minimal involvement leaves the team without confidence and commitment
 
 - Answer: A,C,D
-- Explanation: Under "Common Dysfunctions in Concept Generation" slide 6 gives exactly these three: limited alternatives often proposed by assertive team members, neglect of useful concepts from related and unrelated products, and minimal involvement leading to lack of confidence and commitment. B is not on that list, because comparing the alternatives belongs to the exploration step with the classification tree on slide 12.
+- Explanation: Slide 6 gives exactly these three common dysfunctions: limited alternatives often proposed by assertive team members, neglect of useful concepts from related and unrelated products, and minimal involvement leading to lack of confidence and commitment. B is not one of them, and the step results in a set of alternative concepts, so it does not end by handing over one finished product.
 
 ### L6Q32 (Multiple, Intermediate)
 
@@ -3102,12 +3102,12 @@ Which of the following statements about the concept fragments collected during s
 - Topic: Clarifying the problem
 - Source: Lesson 6 / slide 7 and slide 8
 
-The guidance on engaging team members in understanding customer needs and target specifications belongs to the first step of the five step concept generation method, the step that clarifies the problem. ( )
+The five step concept generation method is applicable to the various stages of product development, and deferring the less critical subproblems is what allows the team's effort to concentrate on the core technology and on user-friendly design. ( )
 
 - True / False
 
 - Answer: True
-- Explanation: Slide 8 develops the content of step 1: engaging team members in understanding customer needs and target specifications, taking the mission statement, customer needs list and preliminary product specifications as inputs, and breaking the problem down into subproblems. The chart on slide 7 puts "Understanding", "Problem decomposition" and "Focus on critical subproblems" inside step 1, and step 4, explore systematically, only after the two searches.
+- Explanation: Slide 7 describes the method as applicable to various product development stages, and slide 8 says that less critical issues are deferred so that the effort can focus on the core technology and on user-friendly design. Both parts of the statement are therefore correct.
 
 ---
 
@@ -3162,33 +3162,33 @@ Opportunities are divided along the dimensions of knowledge of need and knowledg
 
 ### L7Q04 (Single, Basic)
 
-- Topic: Medical Supply Company case study
+- Topic: Establishing the selection criteria
 - Source: Lesson 7 / slide 7
 
-In the Medical Supply Company case, what did the team do first when it came to selecting a product concept?
+In the Medical Supply Company case, the design firm fixed the criteria before it picked a product concept. What did fixing the criteria first achieve?
 
-- A. It picked the best drawn of the seven sketches as the direction for further development
-- B. It summarized the needs of its client and the intended end users and established seven criteria on which the choice would be based
-- C. It compared the price of the existing syringe with the prices of competitors in order to fix the development cost
-- D. It first ruled out any design that would have to use stainless steel
+- A. Every candidate could be weighed against one fixed set of summarized needs, instead of against whichever sketch looked most attractive
+- B. The client no longer had to be involved in choosing the concept
+- C. The step in which the candidates are compared could be skipped
+- D. The candidates could be merged into a single design before any comparison took place
 
-- Answer: B
-- Explanation: Slide 7 says the team "established seven criteria on which the choice of a product concept would be based" in order to summarize the needs of its client and of the intended end users, then lists ease of handling, ease of use, readability of dose settings, dose metering accuracy, durability, ease of manufacture and portability. A skips the criteria step, and C and D are not in the case: the slide names high cost (stainless steel) and inaccurate dosing as the problems.
+- Answer: A
+- Explanation: Slide 7 says the seven criteria were established in order to summarize the needs of the client and of the intended end users, and on which the choice of a product concept would be based, so the candidates are weighed against one fixed set of needs. B is wrong because the client's needs are part of what the criteria summarize. C is wrong because choosing a concept is what the criteria are for. D is wrong because concepts are combined later, in the improvement step.
 
 ### L7Q05 (Multiple, Basic)
 
 - Topic: The seven concept selection criteria
 - Source: Lesson 7 / slide 7
 
-Which of the following are among the seven criteria used to select the syringe concept in the Medical Supply Company case?
+In the Medical Supply Company case, the team established seven criteria on which the choice of a product concept would be based, in order to summarize the needs of the client and of the intended end users. Which of the following statements about these criteria are correct?
 
-- A. Ease of handling
-- B. Dose metering accuracy
-- C. Ease of manufacture
-- D. Compact folding storage
+- A. They cover both the way the end user handles and uses the syringe and the ease of manufacturing it
+- B. They cover only the accuracy of the dose, leaving handling, use and manufacturing out of scope
+- C. One of them is the accuracy with which the dose is metered
+- D. One of them is the cost of the stainless steel material in the current syringe
 
-- Answer: A,B,C
-- Explanation: Slide 7 lists ease of handling, ease of use, readability of dose settings, dose metering accuracy, durability, ease of manufacture and portability, so A, B and C are criteria of the case. D is the distractor, because the slide never lists compact folding storage among the criteria.
+- Answer: A,C
+- Explanation: Slide 7 lists the seven criteria: ease of handling, ease of use, readability of dose settings, dose metering accuracy, durability, ease of manufacture and portability. A is correct because the list covers handling, use and ease of manufacture. C is correct because dose metering accuracy is one of the seven. B is wrong because the list reaches well beyond dose accuracy. D is wrong because the cost of the material is the problem the criteria respond to, not a criterion of its own.
 
 ### L7Q06 (Single, Basic)
 
@@ -3210,15 +3210,15 @@ In the Medical Supply Company case, what did the company ask the design firm to 
 - Topic: The seven concept sketches
 - Source: Lesson 7 / slide 8
 
-For the outpatient syringe in the Medical Supply Company case, the development team produced a set of concept sketches. How many concepts did they cover, and what were the sketches for?
+In the Medical Supply Company case, the product development team produced a set of concept sketches for the outpatient syringe, one for each of the seven concepts it was considering. What were these sketches for?
 
-- A. Seven concepts, sketched to describe the basic concepts under consideration
-- B. Three concepts, sketched to compare the design against competing syringes
-- C. Seven concepts, sketched to test how well the syringe parts resist wear
-- D. Two concepts, sketched to settle which production process to use
+- A. They described the basic concepts under consideration
+- B. They were prototypes, built to test how well the syringe parts resisted wear
+- C. They were drawings of competing syringes, made so that the team could benchmark its own design against them
+- D. They were production drawings, made to settle which manufacturing process the syringe should use
 
 - Answer: A
-- Explanation: Slide 8 states that there are seven concepts for the outpatient syringe and that the team generated the seven sketches to describe the basic concepts under consideration. B, C and D each change either the number of concepts or the purpose of the sketches, so none of them matches.
+- Explanation: Slide 8 says there are seven concepts for the outpatient syringe and that the team generated the seven sketches to describe the basic concepts under consideration, so A states their purpose. B is wrong because a sketch is a drawing of a concept, not a prototype built for wear testing. C is wrong because the sketches showed the team's own concepts, not competing syringes. D is wrong because concept sketches do not settle the production process.
 
 ### L7Q08 (Single, Intermediate)
 
@@ -3282,27 +3282,27 @@ The concept selection activity follows a six-step process. Which of the followin
 - Topic: Choosing the reference concept
 - Source: Lesson 7 / slide 11
 
-In concept selection, a reference concept is chosen for benchmarking. Which of the following can the reference concept be?
+A reference concept for benchmarking can be an industry standard, a familiar concept, or a combination of the best features. Which of the following statements about the reference concept are correct?
 
-- A. The concept with the highest net score in the screening matrix
-- B. An industry standard
-- C. A familiar concept
-- D. A combination of the best features
+- A. It is the baseline against which the other concepts are rated, so it has to be in place before the ratings are made
+- B. It can be a product that is already on the market, and not one of the team's own concepts
+- C. It is the concept with the highest net score in the screening matrix, which the team then holds up as the benchmark
+- D. It is chosen only after the ratings are complete, so that it can reflect how the concepts actually performed
 
-- Answer: B,C,D
-- Explanation: Slide 11 says the reference concept "can be an industry standard, familiar concept, or a combination of best features", which gives B, C and D. A cannot hold, because the reference is the benchmark the concepts are rated against, so it has to be chosen before the ratings exist rather than derived from their outcome.
+- Answer: A,B
+- Explanation: Slide 11 allows an industry standard, a familiar concept or a combination of best features, set before any rating. A is correct because the reference is the baseline for the ratings. B is correct because an industry standard is a product on the market, not one of the team's concepts. C is wrong because a reference picked from the screening results cannot be their benchmark. D is wrong for the same reason: a benchmark chosen after the ratings cannot be their baseline.
 
 ### L7Q13 (True/False, Basic)
 
 - Topic: Preparing the selection matrix
 - Source: Lesson 7 / slide 11
 
-When the selection matrix is prepared, the selection criteria are listed on the right-hand side so that they reflect customer and enterprise needs. ( )
+In preparing the selection matrix, the selection criteria are listed on the left side, and they are there to reflect the preferences of the design team rather than the needs of the customer and of the enterprise. ( )
 
 - True / False
 
 - Answer: False
-- Explanation: Slide 11 states "list selection criteria on the left side, reflecting customer and enterprise needs". The reason given for the criteria is right, but the side is wrong, so the statement as a whole is false.
+- Explanation: Slide 11 states "list selection criteria on the left side, reflecting customer and enterprise needs". The statement gets the side right, but it replaces the purpose: the criteria are listed to reflect customer and enterprise needs, not the preferences of the design team, so the statement as a whole is false.
 
 ### L7Q14 (Single, Basic)
 
@@ -3324,15 +3324,15 @@ The ratings in concept screening can be subjective. Which of the following is an
 - Topic: Coarse relative ratings
 - Source: Lesson 7 / slide 12
 
-About the coarse relative ratings used in concept screening, which of the following statements are correct?
+A design team has to screen a set of product concepts in a single working session. At this point each concept exists only as a rough sketch with a one-line description, and the team rates them against a reference concept with the coarse code of +, 0 and −. Which of the following statements about these coarse relative ratings are correct?
 
-- A. Coarse relative ratings can be difficult to produce
-- B. The way to avoid the difficulty is to describe every concept precisely before starting the ratings
-- C. The difficulty is necessary, because the descriptions of the concepts are themselves imprecise
-- D. Objective metrics help to establish consistent and meaningful ratings
+- A. The coarse ratings are necessary at this stage, so the team accepts the difficulty of producing them rather than trying to remove it
+- B. The code is applied to the criteria, so that each criterion receives a rating instead of each concept
+- C. Using objective metrics helps the team establish ratings that are consistent and meaningful
+- D. Using objective metrics lets the team replace the relative +, 0 and − code with an absolute score for each concept
 
-- Answer: A,C,D
-- Explanation: Slide 12 says coarse relative ratings "can be difficult but are necessary due to imprecise concept descriptions", and that objective metrics help in establishing consistent and meaningful ratings, so A, C and D agree with the slide. B reverses the cause of the difficulty, because the imprecision of the concept descriptions is the reason the difficulty stays rather than a condition the team can remove first.
+- Answer: A,C
+- Explanation: Slide 12 says coarse relative ratings can be difficult but are necessary because the concept descriptions are imprecise, and that objective metrics help establish consistent and meaningful ratings. A is correct because the difficulty is accepted rather than designed away. B is wrong because the code rates each concept on each criterion, not the criteria themselves. C is correct. D is wrong because objective metrics reduce subjectivity inside the relative code rather than replacing it with absolute scores.
 
 ### L7Q16 (Single, Intermediate)
 
@@ -3354,7 +3354,7 @@ When the concepts are rated against the reference concept, two ways of working t
 - Topic: Net score and ranking
 - Source: Lesson 7 / slide 13
 
-Concept C (Ratchet) is rated "+" on one criterion, "0" on three and "-" on three against the reference concept. In the screening matrix for the case concepts, concept A scores 2, concept E scores 1, concepts D, F and G score 0 and concept B scores -1. Under the net score rule, what are the net score and the rank of concept C?
+Concept C (Ratchet) is rated "+" on one criterion, "0" on three and "-" on three against the reference concept. The net score of a concept is the number of criteria on which it is better than the reference concept minus the number of criteria on which it is worse. In the screening matrix for the case concepts, what are the net score and the rank of concept C?
 
 - A. Net score 1, rank 1
 - B. Net score 0, rank 3
@@ -3362,14 +3362,14 @@ Concept C (Ratchet) is rated "+" on one criterion, "0" on three and "-" on three
 - D. Net score -2, rank 7
 
 - Answer: D
-- Explanation: Slide 13 defines the net score by "subtracting 'worse than' ratings from 'better than' ratings", so concept C scores 1 - 3 = -2, and the Rank column of the matrix shows 7 for concept C. The other options mix cells of the matrix: concept A scores 2 and takes rank 1, concept E scores 1 and ranks second, concepts D, F and G all score 0 and tie at rank 3, and concept B scores -1 and ranks 6.
+- Explanation: Slide 13 defines the net score by "subtracting 'worse than' ratings from 'better than' ratings", so concept C scores 1 - 3 = -2, and the Rank row of the matrix shows 7 for concept C. Each of the other options pairs a net score with a rank that the matrix gives to a different concept.
 
 ### L7Q18 (Single, Challenging)
 
 - Topic: Ties in the screening matrix
 - Source: Lesson 7 / slide 13
 
-In the screening matrix for the case concepts the ranks are A 1, B 6, C 7, D 3, E 2, F 3 and G 3. Which group is exactly the three concepts that are tied at rank 3?
+In the screening matrix for the syringe case, three concepts earned the same net score and were therefore given the same rank. Which group is exactly those three concepts?
 
 - A. A, E and B
 - B. D, F and G
@@ -3377,7 +3377,7 @@ In the screening matrix for the case concepts the ranks are A 1, B 6, C 7, D 3, 
 - D. B, C and F
 
 - Answer: B
-- Explanation: Slide 13's caption says the three concepts ranked "3" all received the same net score, and the matrix gives D, F and G a net score of 0 each and rank 3. Group A contains A (2) and E (1), group C contains A (2) and E (1) with only D at rank 3, and group D contains B (-1) and C (-2), so none of them is the three tied concepts.
+- Explanation: Slide 13's caption says the three concepts ranked "3" all received the same net score, and the matrix gives D, F and G a net score of 0 each and rank 3. Every other group mixes concepts with different net scores: A and E score 2 and 1, B scores -1 and C scores -2.
 
 ### L7Q19 (Multiple, Challenging)
 
@@ -3386,13 +3386,13 @@ In the screening matrix for the case concepts the ranks are A 1, B 6, C 7, D 3, 
 
 About ranking the concepts with net scores, which of the following statements are correct?
 
-- A. The net score of a concept is obtained by subtracting its "worse than" ratings from its "better than" ratings
+- A. For each concept, the "better than", "same as" and "worse than" ratings are counted separately
 - B. The concepts are rank-ordered on their net scores, and the key differentiating criteria are identified at the same time
 - C. Concepts that tie on net score are discarded before the ranking is made
-- D. The ranking counts only the criteria on which a concept is better than the reference, and ignores where it is worse
+- D. The concepts are ranked by the number of criteria on which they differ from the reference concept, whether better or worse
 
 - Answer: A,B
-- Explanation: Slide 14 says to sum the "better than", "same as" and "worse than" scores for each concept, to "calculate net score by subtracting 'worse than' ratings from 'better than' ratings", and to "rank-order concepts based on net scores, identifying key differentiating criteria", which gives A and B. C is contradicted by the matrix, where the three concepts ranked "3" are all kept with the same net score, and D drops the "worse than" ratings that the net score is built to offset.
+- Explanation: Slide 14 tells the team to sum the "better than", "same as" and "worse than" scores for each concept, and to rank-order the concepts on their net scores while identifying key differentiating criteria, which gives A and B. C is contradicted by the matrix, where the three concepts ranked "3" are all kept with the same net score. D is wrong because a concept that differs on many criteria in the worse direction ranks low, not high.
 
 ### L7Q20 (Single, Intermediate)
 
@@ -3417,24 +3417,24 @@ After the screening ranking, the team combines and improves the concepts. How do
 The team generated or revised concepts during the selection process. Which pair of concepts comes out of that step?
 
 - A. DF and G+
-- B. D and F
-- C. A and E
-- D. B and C
+- B. D and G+
+- C. A and DF
+- D. DF and D
 
 - Answer: A
-- Explanation: Slide 16 says the syringe team "revised concept G and generated a new concept, DF, arising from the combination of concepts D and F", and it shows the revised G+ next to DF. B, C and D are the original concepts the team started with.
+- Explanation: Slide 16 says the syringe team "revised concept G and generated a new concept, DF, arising from the combination of concepts D and F", and it shows the revised G+ beside DF. So the step produces the new combined concept DF and the revised concept G+. B pairs G+ with D, one of the two original concepts merged into DF. C pairs DF with A, the reference concept used for scoring. D pairs DF with D, another original concept.
 
 ### L7Q22 (True/False, Basic)
 
-- Topic: The revised concept G+
+- Topic: The revised concept
 - Source: Lesson 7 / slide 15 and slide 16
 
-Concept G+ is the revised concept G with its bulk removed while its core technique is kept. ( )
+In the Medical Supply Company case, one concept was revised so that it kept its core technique while losing its bulk, and a second concept was generated from two of the earlier concepts. The revision of the first concept is consistent with what the concept improvement step is meant to achieve. ( )
 
 - True / False
 
 - Answer: True
-- Explanation: Slide 15 says concept G was "revised to remove bulk while keeping its core technique". Slide 16 shows the revised concept G+ next to the new concept DF, which is exactly what the statement describes.
+- Explanation: Slide 15 gives the aim of the step as refining the rated and ranked concepts and combining them so that their strengths are enhanced and their weaknesses eliminated, and records one concept revised to remove bulk while keeping its core technique. Slide 16 shows the revised concept beside the concept generated from two earlier concepts. Removing the bulk eliminates a weakness and keeping the core technique keeps a strength, so the revision does what the step is meant to achieve and the statement is true.
 
 ### L7Q23 (Single, Basic)
 
@@ -3443,13 +3443,13 @@ Concept G+ is the revised concept G with its bulk removed while its core techniq
 
 In the syringe case, which group of concepts did the team take into concept scoring?
 
-- A. A, B, C and D
-- B. D, E, F and G
-- C. B, C, F and G
-- D. A, E, the revised G+ and the new DF
+- A. A, E, D and F
+- B. A, B, G+ and DF
+- C. D, E, G+ and DF
+- D. A, E, G+ and DF
 
 - Answer: D
-- Explanation: Slide 17 gives "example concepts chosen: A, E, revised G+, and new DF", and the concept-scoring matrix on that page carries only those four concepts. Each wrong option therefore includes a concept the team did not take into scoring.
+- Explanation: Slide 17 gives "example concepts chosen: A, E, revised G+, and new DF", and the matrix carries only those four. A is wrong because it keeps D and F, the original concepts merged into DF on slide 16, and leaves out the revised G+ and the new DF. B is wrong because B is not among the chosen concepts. C is wrong because D is one of the two original concepts merged into DF, and the new DF was what got scored.
 
 ### L7Q24 (Single, Intermediate)
 
@@ -3505,26 +3505,26 @@ About the concept scoring matrix, which of the following statements are correct?
 
 - A. The criterion with the highest weight decides the final ranking on its own
 - B. The method uses a weighted sum of the ratings to determine the concept ranking
-- C. Concept A is the overall reference concept of the matrix
+- C. The weights of the criteria in the matrix are percentages, and they add up to 100% across the seven criteria
 - D. The matrix records the weight of every criterion and the rating of every concept, and the total score at the foot of the matrix is the weighted sum for each concept
 
 - Answer: B,C,D
-- Explanation: The note on slide 17 says the method "uses a weighted sum of the ratings to determine concept ranking", that concept A "serves as the overall reference concept", and the matrix itself carries the weight of each criterion, the rating of each concept and a total score per concept, so B, C and D agree with it. A is wrong because the ranking comes from the weighted total of all the criteria, not from one criterion alone.
+- Explanation: The note on slide 17 says the method "uses a weighted sum of the ratings to determine concept ranking", and the matrix itself carries the weight of each criterion, the rating of each concept and a total score per concept, so B and D are correct. Reading the weights column, the seven percentages add up to 100%, so C is correct. A is wrong because the ranking comes from the weighted total across all criteria, not from one criterion alone.
 
 ### L7Q28 (Multiple, Intermediate)
 
 - Topic: Results of concept scoring
 - Source: Lesson 7 / slide 17 and slide 18
 
-About the outcome of concept scoring in the syringe case, which of the following statements are correct?
+In the syringe case, concept scoring rated the concepts that the team had selected for further refinement, and each of them received a total score in the matrix. Which of the following statements about the concept scoring are correct?
 
-- A. DF has the highest total score, 3.45, and proceeds to further development
-- B. E scores higher than G+, with totals of 3.10 and 3.05
-- C. A, the overall reference concept, has the highest total score of the four scored concepts
-- D. G+ scores above DF because it keeps the core technique of G and adds the strengths of D and F
+- A. The concept formed by merging two earlier concepts ranks first among the scored concepts, because it has the highest total score
+- B. The reference concept ends up with the lowest total score among the scored concepts
+- C. The revised concept ranks second among the scored concepts
+- D. The total score of a concept is the plain sum of its ratings, so the weights of the criteria do not affect the ranking
 
 - Answer: A,B
-- Explanation: The scoring matrix on slides 17 and 18 gives A 2.75, DF 3.45, E 3.10 and G+ 3.05, so DF ranks first and proceeds and E stays above G+, which is A and B. C has the comparison backwards, since A has the lowest of the four totals, and D is wrong twice over: DF is the combination of D and F while G+ is the revision of G, and 3.05 is below 3.45.
+- Explanation: Slide 17's matrix totals are 3.45 for the merged concept DF, 3.10 for E, 3.05 for the revised G+ and 2.75 for the reference concept A. A is correct because 3.45 is the highest total. B is correct because 2.75 is the lowest. C is wrong because G+ ranks third, behind DF and E. D is wrong because the total is a weighted sum of the ratings.
 
 ### L7Q29 (True/False, Basic)
 
@@ -3558,15 +3558,15 @@ What direct benefit does reaching consensus in the reflect step bring?
 - Topic: In-class exercise on benchmarking existing products
 - Source: Lesson 7 / slide 21
 
-The in-class exercise asks you to use the concept selection methods on products that already exist. Which of the following statements about the exercise are correct?
+The in-class individual exercise asks how the concept selection methods can be used to benchmark or evaluate existing products, and asks you to perform such an evaluation for five automobiles you might consider purchasing. Which of the following statements about the exercise are correct?
 
-- A. It asks how the concept selection methods can be used to benchmark or evaluate existing products
-- B. The products to be evaluated are five automobiles you might consider purchasing
-- C. It applies the same concept selection methods that were used for the syringe concepts to products that are already on the market
-- D. It asks you to select a single winning automobile and end the selection there
+- A. The objects of the evaluation are five automobiles that already exist on the market, and not new concepts still to be sketched
+- B. The exercise asks you to pick one winning automobile and end the selection there, because concept selection always ends with a single winning concept
+- C. The exercise asks you to design a brand new automobile concept and test it against the five existing automobiles
+- D. The exercise shows that the concept selection methods are not limited to new concepts, and that they can be applied to products that already exist
 
-- Answer: A,B,C
-- Explanation: Slide 21 poses the question "how can the concept selection methods be used to benchmark or evaluate existing products?" and asks the student to "perform such an evaluation for five automobiles you might consider purchasing", so A and B state the exercise as the slide gives it, and C describes those same selection methods being applied to existing products. D is wrong, because benchmarking and evaluating existing products is a comparison and the slide gives no instruction to end the exercise with one winner.
+- Answer: A,D
+- Explanation: Slide 21 asks the student to benchmark or evaluate existing products, then evaluate five automobiles one might consider purchasing. A is correct because the five automobiles are finished products on the market, not concepts to be sketched. D is correct because the same methods apply to existing products. B is wrong because benchmarking existing products is a comparison; the methods leave one or more concepts, not one mandatory winner. C is wrong because the exercise evaluates existing products, not a new concept.
 
 ### L7Q32 (Multiple, Intermediate)
 
