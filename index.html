@@ -320,10 +320,8 @@ function renderConcepts(term){
     '<div class="gitem">'
     + '<div class="gen">'+esc(c.no+' '+c.head)
     + (c.cn?'<span class="gcn">'+esc(c.cn)+'</span>':'')+'</div>'
-    + '<div class="gsrc">'+esc(c.src)+' · '+esc(c.themeEn)+'</div>'
     + (c.zh?'<div class="gtext">'+esc(c.zh)+'</div>':'')
     + (c.en?'<div class="gtext en">'+esc(c.en)+'</div>':'')
-    + '<div class="gqs">覆盖题目：'+(c.qs.length?c.qs.map(esc).join(' '):'（无）')+'</div>'
     + '</div>').join('');
 }
 
