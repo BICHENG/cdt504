@@ -11,6 +11,9 @@ Open <https://bicheng.github.io/cdt504/> to run the self-test in the browser.
   Chinese, with its source slide and the questions that cover it.
 - `CDT504_Exam_Bank.md` - all 245 questions with answers, explanations and source slides.
 - `COVERAGE.md` - knowledge point coverage check: the same mapping in table form.
+- `CDT504_Knowledge_Points.pdf` - the 106 knowledge points of Lessons 1-7 in English and
+  Chinese, each with its source slide and the questions that cover it. 21 pages, printable
+  as a standalone revision sheet.
 
 ## Test modes
 
